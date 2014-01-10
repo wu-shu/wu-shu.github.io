@@ -1,0 +1,39 @@
+.content-body {
+  margin-left:10px;
+  padding:20px;
+  border: 4px solid #f2ce26;
+  border-radius:10px;
+}
+
+/*  navigation */
+ul.side-nav {
+  text-align: right;
+  margin-right: 20px;
+}
+
+h2 {
+  color: #f2ce26;
+}
+
+p.talign-right {
+  text-align: right;
+}
+
+img.ifloat-left {
+  float: left;
+  padding-right: 20px;
+}
+
+img.right {
+  float: right;
+  padding-left: 20px;
+}
+
+body {
+  background-image: url(/images/background.png);
+  background-repeat: no-repeat;
+}
+
+div.top-spacing {
+  padding-top: 100px;
+}

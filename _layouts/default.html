@@ -9,51 +9,53 @@
 </head>
 <body>
 
+<!-- top spacing -->
+<div class="row">
+  <div class="large-12 columns top-spacing">
+  </div>
+</div>
+
 <!-- Header -->
-<div class="contain-to-grid">
-  <div class="row">
-    <div class="large-12 columns crop">
-      <!-- Header Content -->
-      <h1>
-        <a href="/">{{ site.name }}</a>
-      </h1>
-    </div>
+<div class="row">
+  <div class="large-2 columns">
+    <a href="/"><img src="/images/logo-250px.png" alt="Wu Shu" width="135px"></a>
+  </div>
+  <div class="large-10 columns">
+    <h1>Wu Shu Center Oberland</h1>
   </div>
 </div>
 
 
-<!-- Navigation -->
-<div class="contain-to-grid">
-
-</div>
-
-<!-- End Top Bar -->
-
-<!-- Content -->
+<!-- body -->
 <div class="row">
-  <div class="large-12 columns content">
-    {{ content }}
+  <!-- Navigation -->
+  <div class="large-2 columns">
+    <ul class="side-nav">
+      <li><a href="/">Home</a></li>
+      <li><a href="/chris-ritter/">Chris Ritter</a></li>
+      <li><a href="/wu-shu/">Wu Shu</a></li>
+      <li><a href="/shaolin-kung-fu/">Shaolin Kung Fu</a></li>
+      <li><a href="/tai-chi-chuan/">Tai Chi Chuan</a></li>
+      <li><a href="/qi-gong/">Qi Gong</a></li>
+      <li><a href="/wu-shu-fuer-kinder/">Wu Shu für Kinder</a></li>
+      <li><a href="/infos-kontakt/">Infos / Kontakt</a></li>
+    </ul>
+  </div>
+  <!-- Content -->
+  <div class="large-10 columns content">
+    <div class="content-title">
+      <h2>{{ page.title}}</h2>
+    </div>
+    <div class="content-body">
+      {{ content }}
+    </div>
   </div>
 </div>
 
 <!-- End Content -->
 
 <!-- Footer -->
-
-<footer class="row">
-  <div class="large-12 columns">
-    <hr/>
-
-    <div class="large-12 columns">
-      <p class="inline-block primary-color">Copyright &copy; 2013 - FOO</p>
-
-      <ul class="inline-list right">
-        <li><a href="http://fairphone.sinndrin.ch">Webdesign und Hosting von sinndrin.ch</a></li>
-      </ul>
-    </div>
-
-  </div>
-</footer>
+{% include footer.html %}
 
 <script src="/bower_components/jquery/jquery.js"></script>
 <script src="/bower_components/foundation/js/foundation.min.js"></script>
