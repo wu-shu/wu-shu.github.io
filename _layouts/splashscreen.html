@@ -19,11 +19,11 @@
 </div>
 
 <!-- Header -->
-<div class="row hide-for-small">
+<div class="row">
   <div class="medium-12 columns">
-    <h1>Wu Shu Center Oberland</h1>
-
-    <p>&nbsp;</p>
+    <h1 class="show-for-medium-up">Wu Shu Center Oberland</h1>
+    <h1 class="show-for-small-only" style="text-align: center;">Wu Shu Center Oberland</h1>
+    <p class="hide-for-small-only">&nbsp;</p>
   </div>
 </div>
 
@@ -37,10 +37,11 @@
       <a href="/"><img style="margin-top: 10px; display: block; margin-left: auto; margin-right: auto;"
                        src="/images/logo-150px.png" alt="Wu Shu" width="150px"></a>
     </div>
-    <!-- Navigation -->
+    <!-- Navigation for medium-up -->
     <ul class="side-nav splashscreen hide-for-small">
       {% include navigation.html %}
     </ul>
+    <!-- Navigation for small -->
     <ul class="side-nav show-for-small" style="text-align: center;">
       {% include navigation.html %}
     </ul>
