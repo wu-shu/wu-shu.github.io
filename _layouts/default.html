@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>{{ site.name }} - {{ page.title}}</title>
   <link rel="stylesheet" href="/css/app.css"/>
+  <link href='http://fonts.googleapis.com/css?family=Asul:400,700' rel='stylesheet' type='text/css'>
   <script src="/bower_components/modernizr/modernizr.js"></script>
 </head>
 <body>
@@ -17,11 +18,20 @@
 
 <!-- Header -->
 <div class="row">
-  <div class="large-2 columns">
-    <a href="/"><img src="/images/logo-250px.png" alt="Wu Shu" width="135px"></a>
+<!--  <div class="large-1 columns">
+    <p>&nbsp;</p>
+  </div>-->
+  <div class="medium-3 columns">
+    <a href="/"><img class="ifloat-right" src="/images/logo-150px.png" alt="Wu Shu" width="150px"></a>
   </div>
-  <div class="large-10 columns">
-    <h1>Wu Shu Center Oberland</h1>
+  <div class="medium-9 columns">
+    <div style="display: table; height: 150px; overflow: hidden;">
+      <div style="display: table-cell; vertical-align: middle;">
+        <div>
+          <h1>Wu Shu Center Oberland</h1>
+        </div>
+      </div>
+    </div>
   </div>
 </div>
 
@@ -29,8 +39,8 @@
 <!-- body -->
 <div class="row">
   <!-- Navigation -->
-  <div class="large-2 columns">
-    <ul class="side-nav">
+  <div class="medium-3 columns">
+    <ul class="side-nav right">
       <li><a href="/">Home</a></li>
       <li><a href="/chris-ritter/">Chris Ritter</a></li>
       <li><a href="/wu-shu/">Wu Shu</a></li>
@@ -42,7 +52,7 @@
     </ul>
   </div>
   <!-- Content -->
-  <div class="large-10 columns content">
+  <div class="medium-9 columns content">
     <div class="content-title">
       <h2>{{ page.title}}</h2>
     </div>
