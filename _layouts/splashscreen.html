@@ -10,13 +10,16 @@
 </head>
 <body>
 
+<!-- Navigation top-bar for small-only -->
+{% include top_bar_for_small.html %}
+
 <!-- top spacing -->
-<div class="row">
+<div class="row hide-for-small">
   <div class="large-12 columns top-spacing"></div>
 </div>
 
 <!-- Header -->
-<div class="row">
+<div class="row hide-for-small">
   <div class="medium-12 columns">
     <h1>Wu Shu Center Oberland</h1>
 
@@ -29,18 +32,17 @@
 <div class="row">
   <div class="medium-12 columns">
     <!-- Logo -->
-    <div id="circle"></div>
+    <div id="circle" class="hide-for-small"></div>
+    <div class="show-for-small-only">
+      <a href="/"><img style="margin-top: 10px; display: block; margin-left: auto; margin-right: auto;"
+                       src="/images/logo-150px.png" alt="Wu Shu" width="150px"></a>
+    </div>
     <!-- Navigation -->
-    <!-- TODO: hide-for-small aber zeige top-bar an -->
     <ul class="side-nav splashscreen hide-for-small">
-      <li><a href="/" style="margin-left:270px;">Home</a></li>
-      <li><a href="/chris-ritter/" style="margin-left:290px;">Chris Ritter</a></li>
-      <li><a href="/wu-shu/" style="margin-left:300px;">Wu Shu</a></li>
-      <li><a href="/shaolin-kung-fu/" style="margin-left:310px;">Shaolin Kung Fu</a></li>
-      <li><a href="/tai-chi-chuan/" style="margin-left:310px;">Tai Chi Chuan</a></li>
-      <li><a href="/qi-gong/" style="margin-left:300px;">Qi Gong</a></li>
-      <li><a href="/wu-shu-fuer-kinder/" style="margin-left:290px;">Wu Shu für Kinder</a></li>
-      <li><a href="/infos-kontakt/" style="margin-left:270px;">Infos / Kontakt</a></li>
+      {% include navigation.html %}
+    </ul>
+    <ul class="side-nav show-for-small" style="text-align: center;">
+      {% include navigation.html %}
     </ul>
   </div>
 </div>

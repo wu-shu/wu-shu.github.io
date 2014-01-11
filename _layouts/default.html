@@ -10,17 +10,17 @@
 </head>
 <body>
 
+<!-- Navigation top-bar for small-only -->
+{% include top_bar_for_small.html %}
+
 <!-- top spacing -->
-<div class="row">
+<div class="row hide-for-small">
   <div class="large-12 columns top-spacing">
   </div>
 </div>
 
 <!-- Header -->
-<div class="row">
-<!--  <div class="large-1 columns">
-    <p>&nbsp;</p>
-  </div>-->
+<div class="row hide-for-small">
   <div class="medium-3 columns">
     <a href="/"><img class="ifloat-right" src="/images/logo-150px.png" alt="Wu Shu" width="150px"></a>
   </div>
@@ -38,17 +38,10 @@
 
 <!-- body -->
 <div class="row">
-  <!-- Navigation -->
-  <div class="medium-3 columns">
+  <!-- Navigation medium up -->
+  <div class="medium-3 columns hide-for-small">
     <ul class="side-nav right">
-      <li><a href="/">Home</a></li>
-      <li><a href="/chris-ritter/">Chris Ritter</a></li>
-      <li><a href="/wu-shu/">Wu Shu</a></li>
-      <li><a href="/shaolin-kung-fu/">Shaolin Kung Fu</a></li>
-      <li><a href="/tai-chi-chuan/">Tai Chi Chuan</a></li>
-      <li><a href="/qi-gong/">Qi Gong</a></li>
-      <li><a href="/wu-shu-fuer-kinder/">Wu Shu für Kinder</a></li>
-      <li><a href="/infos-kontakt/">Infos / Kontakt</a></li>
+      {% include navigation.html %}
     </ul>
   </div>
   <!-- Content -->

@@ -85,7 +85,7 @@ footer, footer div ul li a {
   color: #A6A6A6;
 }
 
-/* home page */
+/* home page / splashscreen */
 #circle {
   float: left;
   wrap-margin: 30px;
@@ -101,4 +101,16 @@ footer, footer div ul li a {
 .side-nav.splashscreen li {
   position: relative;
   margin-left: 30px;
+}
+ul.side-nav.splashscreen li a.level1 {
+  margin-left:270px;
+}
+ul.side-nav.splashscreen li a.level2 {
+  margin-left:290px;
+}
+ul.side-nav.splashscreen li a.level3 {
+  margin-left:300px;
+}
+ul.side-nav.splashscreen li a.level4 {
+  margin-left:310px;
 }
