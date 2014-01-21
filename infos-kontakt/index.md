@@ -9,6 +9,8 @@ title: Infos / Kontakt
 
 <a href="/infos-kontakt/tagelswangen/" class="button-contact-place">Tagelswangen</a>
 
+<a href="/infos-kontakt/hittnau/" class="button-contact-place">Hittnau</a>
+
 <a href="/infos-kontakt/preise/" class="button-contact-info">Preise</a>
 
 <a href="/infos-kontakt/kontakt-anmeldung/" class="button-contact-info">Kontakt / Anmeldung</a>
