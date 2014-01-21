@@ -7703,7 +7703,7 @@ th.hide-for-touch {
   display: table-cell !important;
 }
 
-/* line 1, ../scss/_custom.scss */
+/* line 3, ../scss/_custom.scss */
 .content-body {
   margin-left: 10px;
   padding: 20px;
@@ -7712,7 +7712,7 @@ th.hide-for-touch {
   border-radius: 10px;
 }
 
-/* line 9, ../scss/_custom.scss */
+/* line 11, ../scss/_custom.scss */
 .button-contact-place {
   display: inline-block;
   padding: 2px 5px;
@@ -7724,9 +7724,10 @@ th.hide-for-touch {
   border: 2px solid #cc9900;
   border-radius: 5px;
   background-color: rgba(204, 153, 0, 0.22);
+  color: white;
 }
 
-/* line 22, ../scss/_custom.scss */
+/* line 25, ../scss/_custom.scss */
 .button-contact-info {
   display: inline-block;
   padding: 2px 5px;
@@ -7740,75 +7741,75 @@ th.hide-for-touch {
 }
 
 /*  navigation */
-/* line 35, ../scss/_custom.scss */
+/* line 38, ../scss/_custom.scss */
 ul.side-nav {
   font-family: 'Asul', sans-serif;
 }
 
-/* line 38, ../scss/_custom.scss */
+/* line 41, ../scss/_custom.scss */
 ul.side-nav.right {
   text-align: right;
   margin-right: 30px;
 }
 
-/* line 42, ../scss/_custom.scss */
+/* line 45, ../scss/_custom.scss */
 .side-nav li {
   font-size: 1.1em;
   font-weight: bold;
 }
 
-/* line 46, ../scss/_custom.scss */
+/* line 49, ../scss/_custom.scss */
 .side-nav li a:hover {
   color: #cc9900;
 }
 
 /* div */
-/* line 53, ../scss/_custom.scss */
+/* line 56, ../scss/_custom.scss */
 h2 {
   color: #cc9900;
 }
 
-/* line 57, ../scss/_custom.scss */
+/* line 60, ../scss/_custom.scss */
 p.talign-right {
   text-align: right;
 }
 
-/* line 61, ../scss/_custom.scss */
+/* line 64, ../scss/_custom.scss */
 img.ifloat-left {
   float: left;
   padding-right: 20px;
 }
 
-/* line 65, ../scss/_custom.scss */
+/* line 68, ../scss/_custom.scss */
 img.ifloat-right {
   float: right;
 }
 
-/* line 69, ../scss/_custom.scss */
+/* line 72, ../scss/_custom.scss */
 img.right {
   float: right;
   padding-left: 20px;
 }
 
-/* line 74, ../scss/_custom.scss */
+/* line 77, ../scss/_custom.scss */
 body {
   background-image: url(/images/hintergrund-crop.png);
   background-repeat: no-repeat;
   background-size: 1440px auto;
 }
 
-/* line 80, ../scss/_custom.scss */
+/* line 83, ../scss/_custom.scss */
 div.top-spacing {
   padding-top: 100px;
 }
 
-/* line 84, ../scss/_custom.scss */
+/* line 87, ../scss/_custom.scss */
 footer, footer div ul li a {
   color: #A6A6A6;
 }
 
 /* home page / splashscreen */
-/* line 89, ../scss/_custom.scss */
+/* line 92, ../scss/_custom.scss */
 #circle {
   float: left;
   wrap-margin: 30px;
@@ -7822,28 +7823,33 @@ footer, footer div ul li a {
   background-size: 300px auto;
 }
 
-/* line 101, ../scss/_custom.scss */
+/* line 104, ../scss/_custom.scss */
 .side-nav.splashscreen li {
   position: relative;
   margin-left: 30px;
 }
 
-/* line 105, ../scss/_custom.scss */
+/* line 108, ../scss/_custom.scss */
 ul.side-nav.splashscreen li a.level1 {
   margin-left: 270px;
 }
 
-/* line 108, ../scss/_custom.scss */
+/* line 111, ../scss/_custom.scss */
 ul.side-nav.splashscreen li a.level2 {
   margin-left: 290px;
 }
 
-/* line 111, ../scss/_custom.scss */
+/* line 114, ../scss/_custom.scss */
 ul.side-nav.splashscreen li a.level3 {
   margin-left: 300px;
 }
 
-/* line 114, ../scss/_custom.scss */
+/* line 117, ../scss/_custom.scss */
 ul.side-nav.splashscreen li a.level4 {
   margin-left: 310px;
+}
+
+/* line 121, ../scss/_custom.scss */
+p a {
+  color: #cc9900;
 }
