@@ -1,11 +1,22 @@
 ---
 layout: default
-title: Chris Ritter
+title: Lehrer / Turnierteam
 ---
 
-<img class="ifloat-left" src="/images/chris-ritter.jpg" alt="Chris Ritter">
-Leiter des Wu Shu-Centers Oberland,begann sein Wu-Shu Training mit Grandmaster Simon, 23. Generation Tookien Shaolin Kloster, in Vancouver B.C., Kanada.
+<img class="ifloat-left" src="/images/chris-ritter.jpg" alt="Lehrerteam">
+Chris Ritter, 5. Dan
 
-[Nach 7 Jahren Training](http://www.example.org) im Moh Tempel-Stil erhielt er den schwarzen Gurt 1. Dan. Er setzte sein Training im Moh Tempel-Stil fort unter Master Roman Terlecki, wurde sein «personal student» und erreichte den 5. Dan.  Neben dem Shaolin Kung Fu begann er die Wudang Schule der «Inneren» oder auch weichen Stile und das traditionelle Wu-Shu der Süd- und Nord-Stile.
+<img class="ifloat-left" src="/images/chris-ritter.jpg" alt="Lehrerteam">
+Shanja Friedli, 3. Dan
 
-Unter Master Liang Shou Yu, Vancouver B.C., Kanada lernte er das Tai Chi Chuan (Chen Stil), das Nan Chuan (5 Tiere Kung Fu) und das Chang Chuan (long Fist). Aus dem kontinuierlichen Training des Kung Fu und dem Tai Chi enstand der Wunsch das wenig bekannte Emei Baguazhang zu erlernen, ein Stil der «Inneren» Schule, der seinen Ursprung im Tibet hat. Durch Master Liang Shou Yu lernte Chris Ritter Dr. Yang Jwing Ming, Boston, USA kennen unter dem er das Tai Chi Chuan (Yang Stil) und das Kranich Qi Gong erlernte. Chris Ritter trainiert seit 25 Jahren die «harten» Stile des Kung Fu, seit 18 Jahren die «weichen» Stile des Tai Chi Chuan und des Baguazhang.
+<img class="ifloat-left" src="/images/chris-ritter.jpg" alt="Lehrerteam">
+Melanie Keller, 2. Dan
+
+<img class="ifloat-left" src="/images/chris-ritter.jpg" alt="Lehrerteam">
+Marco Hauser, 1. Dan
+
+<img class="ifloat-left" src="/images/chris-ritter.jpg" alt="Lehrerteam">
+Michaela Sobosczyk, 1. Dan
+
+<img class="ifloat-left" src="/images/chris-ritter.jpg" alt="Lehrerteam">
+Jeannette Weber, Assistenztrainerin
