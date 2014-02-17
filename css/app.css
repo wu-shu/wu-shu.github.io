@@ -7772,7 +7772,7 @@ ul.side-nav.right {
 
 /* div */
 /* line 63, ../scss/_custom.scss */
-h2 {
+h2, h3 {
   color: #cc9900;
 }
 
