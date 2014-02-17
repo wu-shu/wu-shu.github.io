@@ -6,7 +6,7 @@ title: Infos und Anmeldung
 ###Chris Ritter
 #####Wu Shu-Center Oberland
 
-Waidstrasse 17<br>
+Weidstrasse 17<br>
 8317 Tagelswangen
 
 Telefon 052 323 36 10<br>
