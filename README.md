@@ -7,4 +7,6 @@
     compass compile
 
 ## Generate CSS and run jekyll
-    compass compile && bundle exec jekyll serve --watch
+    compass compile && bundle exec jekyll serve --watch  
+
+## windowsanleitung
