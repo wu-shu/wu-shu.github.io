@@ -3,8 +3,8 @@ layout: default
 title: Wu Shu Center Tagelswangen
 ---
 
-<a href="http://map.search.ch/tagelswangen/alte-schulstr." target="_blank">
-<strong>Wu Shu Center Tagelswangen</strong>, alte Schulstrasse, KIGA Dorf, Tagelswangen
+<a href="http://map.search.ch/tagelswangen/rietstrasse-4" target="_blank">
+<strong>Wu Shu Center Tagelswangen</strong>, Tanzschule Blue Moon, Rietstrasse 4, 8317 Tagelswangen
 </a>
 
 ### Stundenplan
