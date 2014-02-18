@@ -11,18 +11,7 @@
 			"file": "lehrer-turnierteam/index.md",
 			"settings":
 			{
-				"buffer_size": 653,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"contents": "---\nlayout: default\ntitle: Bilder\n---\n\n<a href=\"https://secure.flickr.com/photos/117851037@N03/sets/72157641155047124/\" class=\"button-contact-place\" title=\"2013-05-10 10.53.36 by mindestens11, on Flickr\"><img src=\"https://farm4.staticflickr.com/3816/12586774255_23f85c0e2a_n.jpg\" width=\"320\" height=\"240\" alt=\"2013-05-10 10.53.36\">Turnier 2013</a>",
-			"file": "bilder/index.md",
-			"file_size": 351,
-			"file_write_time": 130371113839785441,
-			"settings":
-			{
-				"buffer_size": 347,
+				"buffer_size": 1238,
 				"line_ending": "Windows"
 			}
 		}
@@ -63,6 +52,15 @@
 	},
 	"file_history":
 	[
+		"/G/Jennette-Weber.jpg",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/images/jeannette-weber",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/bilder/index.md",
+		"/G/fsturnier13.JPG",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/images/fsturnier13",
+		"/G/Shanja-Friedli.jpg",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/images/shanja-friedli",
+		"/G/michi-sobos.JPG",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/images/michi-sobo",
 		"/D/Kung Fu/homepage/mh.jpg",
 		"/D/Kung Fu/homepage/mk.jpg",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/images/melanie-keller",
@@ -111,7 +109,6 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
 				{
@@ -119,48 +116,22 @@
 					"file": "lehrer-turnierteam/index.md",
 					"settings":
 					{
-						"buffer_size": 653,
+						"buffer_size": 1238,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								653,
-								653
+								1046,
+								1046
 							]
 						],
 						"settings":
 						{
 							"parser": "markdown",
 							"syntax": "Packages/Markdown/Markdown.tmLanguage",
-							"target": "browser"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "bilder/index.md",
-					"settings":
-					{
-						"buffer_size": 347,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								156,
-								159
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+							"target": "disk"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
