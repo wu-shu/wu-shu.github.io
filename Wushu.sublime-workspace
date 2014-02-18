@@ -11,7 +11,39 @@
 			"file": "lehrer-turnierteam/index.md",
 			"settings":
 			{
-				"buffer_size": 1238,
+				"buffer_size": 1389,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "bilder/index.md",
+			"settings":
+			{
+				"buffer_size": 496,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "infos-kontakt/hittnau/index.md",
+			"settings":
+			{
+				"buffer_size": 312,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "infos-kontakt/wetzikon/index.md",
+			"settings":
+			{
+				"buffer_size": 315,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "infos-kontakt/rueti/index.md",
+			"settings":
+			{
+				"buffer_size": 288,
 				"line_ending": "Windows"
 			}
 		}
@@ -52,6 +84,7 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/tagelswangen/index.md",
 		"/G/Jennette-Weber.jpg",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/images/jeannette-weber",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/bilder/index.md",
@@ -109,6 +142,7 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -116,15 +150,15 @@
 					"file": "lehrer-turnierteam/index.md",
 					"settings":
 					{
-						"buffer_size": 1238,
+						"buffer_size": 1389,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1046,
-								1046
+								585,
+								585
 							]
 						],
 						"settings":
@@ -132,6 +166,110 @@
 							"parser": "markdown",
 							"syntax": "Packages/Markdown/Markdown.tmLanguage",
 							"target": "disk"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "bilder/index.md",
+					"settings":
+					{
+						"buffer_size": 496,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								479,
+								479
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "infos-kontakt/hittnau/index.md",
+					"settings":
+					{
+						"buffer_size": 312,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								53,
+								53
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "infos-kontakt/wetzikon/index.md",
+					"settings":
+					{
+						"buffer_size": 315,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								198,
+								198
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "infos-kontakt/rueti/index.md",
+					"settings":
+					{
+						"buffer_size": 288,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								182,
+								182
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -198,6 +336,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 257.0,
 	"status_bar_visible": true
 }
