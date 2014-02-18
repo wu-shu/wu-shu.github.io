@@ -7,13 +7,36 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "lehrer-turnierteam/index.md",
+			"settings":
+			{
+				"buffer_size": 653,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "---\nlayout: default\ntitle: Bilder\n---\n\n<a href=\"https://secure.flickr.com/photos/117851037@N03/sets/72157641155047124/\" class=\"button-contact-place\" title=\"2013-05-10 10.53.36 by mindestens11, on Flickr\"><img src=\"https://farm4.staticflickr.com/3816/12586774255_23f85c0e2a_n.jpg\" width=\"320\" height=\"240\" alt=\"2013-05-10 10.53.36\">Turnier 2013</a>",
+			"file": "bilder/index.md",
+			"file_size": 351,
+			"file_write_time": 130371113839785441,
+			"settings":
+			{
+				"buffer_size": 347,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 242.0,
+		"height": 392.0,
 		"selected_items":
 		[
+			[
+				"",
+				"Package Control: Install Package"
+			],
 			[
 				"markdo",
 				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
@@ -21,10 +44,6 @@
 			[
 				"markdown",
 				"Markdown Preview: Python Markdown: Preview in Browser"
-			],
-			[
-				"",
-				"Package Control: Install Package"
 			]
 		],
 		"width": 576.0
@@ -44,11 +63,22 @@
 	},
 	"file_history":
 	[
+		"/D/Kung Fu/homepage/mh.jpg",
+		"/D/Kung Fu/homepage/mk.jpg",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/images/melanie-keller",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/images/marco-hauser",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/images/chris-ritter.jpg",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/kontakt-anmeldung/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/_includes/navigation.html",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/tai-chi-chuan/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/README.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/scss/_custom.scss",
 		"/C/Users/Melanie/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap"
 	],
 	"find":
 	{
-		"height": 0.0
+		"height": 34.0
 	},
 	"find_in_files":
 	{
@@ -62,6 +92,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"2014",
+			"tai"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -79,8 +111,63 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "lehrer-turnierteam/index.md",
+					"settings":
+					{
+						"buffer_size": 653,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								653,
+								653
+							]
+						],
+						"settings":
+						{
+							"parser": "markdown",
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"target": "browser"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "bilder/index.md",
+					"settings":
+					{
+						"buffer_size": 347,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								156,
+								159
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -90,7 +177,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 31.0
 	},
 	"layout":
 	{
@@ -117,7 +204,7 @@
 	"menu_visible": true,
 	"replace":
 	{
-		"height": 0.0
+		"height": 62.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -130,11 +217,11 @@
 	},
 	"select_project":
 	{
-		"height": 0.0,
+		"height": 500.0,
 		"selected_items":
 		[
 		],
-		"width": 0.0
+		"width": 380.0
 	},
 	"show_minimap": true,
 	"show_open_files": false,
