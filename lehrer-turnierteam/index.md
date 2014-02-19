@@ -1,7 +1,10 @@
 ---
 layout: default
-title: Lehrerteam
-title: Hilfstrainer
+title: Lehrer / Turnierteam
+---
+
+---
+Lehrer
 ---
 
 <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
