@@ -23,6 +23,9 @@ Hilfstrainer
 <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
 <li><a href="" class="button-contact-place" title="Chiara Caduff">Chiara Caduff<img src="/images/chiara-caduff.jpg" width="320" height="240" alt="Chiara Caduff"></a></li>
 <li><a href="" class="button-contact-place" title="Sandra Helbling">Sandra Helbling<img src="/images/sandra-helbling.jpg" width="320" height="240" alt="Sandra Helbling"></a></li>
+<li><a href="" class="button-contact-place" title="Sirra Gartmann">Sierra Gartmann<img src="/images/diverses.jpg" width="320" height="240" alt="Sierra Gartmann"></a></li>
+<li><a href="" class="button-contact-place" title="Dario Te
+<li><a href="" class="button-contact-place" title="Ladina Schneider">Ladina Schneider<img src="/images/diverses.jpg" width="320" height="240" alt="Ladina Schneider"></a></li>
 <li><a href="" class="button-contact-place" title="Dario Tenore">Dario Tenore<img src="/images/dario-tenore.jpg" width="320" height="240" alt="Dario Tenore"></a></li>
 <li><a href="" class="button-contact-place" title="Nino Rietmann">Nino Rietmann<img src="/images/nino-rietmann.jpg" width="320" height="240" alt="Nino Rietmann"></a></li>
 </ul>
