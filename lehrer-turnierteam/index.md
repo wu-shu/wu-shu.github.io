@@ -3,9 +3,8 @@ layout: default
 title: Lehrer / Turnierteam
 ---
 
----
 Lehrer
----
+
 
 <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
 <li><a href="" class="button-contact-place" title="Master Chris Ritter">Chris Ritter, 7. Dan<img src="/images/cr.jpg" width="320" height="240" alt="Chris Ritter"></a></li>
