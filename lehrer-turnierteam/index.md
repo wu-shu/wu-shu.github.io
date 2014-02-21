@@ -12,7 +12,7 @@ Lehrer
 <li><a href="" class="button-contact-place" title="Melanie Keller">Melanie Keller, 2. Dan<img src="/images/melanie-keller.jpg" width="320" height="240" alt="Shanja Friedli"></a></li>
 <li><a href="" class="button-contact-place" title="Marco Hauser">Marco Hauser, 1. Dan<img src="/images/marco-hauser.jpg" width="320" height="240" alt="Marco Hauser"></a></li>
 <li><a href="" class="button-contact-place" title="Michaela Sobosczyk">Michaela Sobosczyk, 1. Dan<img src="/images/michi-sobo.jpg" width="320" height="240" alt="Michaela Sobosczyk"></a></li>
-<li><a href="" class="button-contact-place" title="Jeannette Weber">Jeannette Weber, Assistenztrainerin<img src="/images/jeannette-weber.jpg" width="320" height="240" alt="Jeannette Weber"></a></li>
+
 </ul>
 
 ---
@@ -20,10 +20,11 @@ Hilfstrainer
 ---
 
 <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
+<li><a href="" class="button-contact-place" title="Jeannette Weber">Jeannette Weber, Assistenztrainerin<img src="/images/jeannette-weber.jpg" width="320" height="240" alt="Jeannette Weber"></a></li>
 <li><a href="" class="button-contact-place" title="Chiara Caduff">Chiara Caduff<img src="/images/chiara-caduff.jpg" width="320" height="240" alt="Chiara Caduff"></a></li>
 <li><a href="" class="button-contact-place" title="Sandra Helbling">Sandra Helbling<img src="/images/sandra-helbling.jpg" width="320" height="240" alt="Sandra Helbling"></a></li>
-<li><a href="" class="button-contact-place" title="Sirra Gartmann">Sierra Gartmann<img src="/images/diverses.jpg" width="320" height="240" alt="Sierra Gartmann"></a></li>
-<li><a href="" class="button-contact-place" title="Ladina Schneider">Ladina Schneider<img src="/images/diverses.jpg" width="320" height="240" alt="Ladina Schneider"></a></li>
+<li><a href="" class="button-contact-place" title="Sierra Gartmann">Sierra Gartmann<img src="/images/sierra-gartmann.jpg" width="320" height="240" alt="Sierra Gartmann"></a></li>
+<li><a href="" class="button-contact-place" title="Ladina Schneider">Ladina Schneider<img src="/images/ladina-schneider.jpg" width="320" height="240" alt="Ladina Schneider"></a></li>
 </ul>
 
 ---
