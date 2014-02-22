@@ -4,7 +4,7 @@ title: Chris Ritter
 ---
 
 <img class="ifloat-left" src="/images/chris-ritter.jpg" alt="Chris Ritter">
-Leiter des Wu Shu-Centers Oberland,begann sein Wu-Shu Training mit Grandmaster Simon, 23. Generation Tookien Shaolin Kloster, in Vancouver B.C., Kanada.
+Leiter des Wu Shu-Centers Oberland, begann sein Wu-Shu Training mit Grandmaster Simon, 23. Generation Tookien Shaolin Kloster, in Vancouver B.C., Kanada.
 
 Nach 7 Jahren Training im Moh Tempel-Stil erhielt er den schwarzen Gurt 1. Dan. Er setzte sein Training im Moh Tempel-Stil fort unter [Master Roman Terlecki](http://www.kungfubc.com), wurde sein «personal student» und erreichte den 7. Dan.  Neben dem Shaolin Kung Fu begann er die Wudang Schule der «Inneren» oder auch weichen Stile und das traditionelle Wu-Shu der Süd- und Nord-Stile.
 
