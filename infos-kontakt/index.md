@@ -15,3 +15,11 @@ title: Infos / Kontakt
 <li><a href="/infos-kontakt/preise/" class="button-contact-info">Preise</a></li>
 <li><a href="/infos-kontakt/kontakt-anmeldung/" class="button-contact-info">Kontakt / Anmeldung</a></li>
 </ul>
+
+### Links
+<ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
+<li><a href="http://www.kungfubc.com/" class="button-contact-place">Grandmaster Terlecki</a></li>
+<li><a href="http://www.marcohauser.com/" class="button-contact-place">Marco Hauser</a></li>
+<li><a href="/infos-kontakt/" class="button-contact-place">Roland Stutz</a></li>
+<li><a href="http://long-kungfu.jimdo.com/" class="button-contact-place">Long Kung-Fu</a></li>
+</ul>

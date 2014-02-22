@@ -3,4 +3,8 @@ layout: default
 title: Wu Shu für Kinder
 ---
 
-Kinder von 4 bis 9 Jahren lernen sich zu bewegen und Ängste im Rollen, Fallen, Fangen, Springen, und Balancieren abzubauen. Imitation von Kampfbewegungen aus den Stilen der Schlange, Kranich, Tiger und Affen werden spielerisch durchgeführt. Kinder-Wu Shu ist ohne Zwang, bereitet viel Spass und fördert ein sicheres und selbstbewusstes Auftreten. (Wu Shu-Gruppen max. 6-8 Kinder.)
+Kinderwushu kann im Alter von 4 Jahren beginnen...
+Ohne Leistungsdruck und Zwang ist das Ziel bei Kindern den Spass an Bewegung und einem guten Körpergefühl schon im frühen Alter zu fördern.
+Im Spiel, mit Spannung und viel Abwechslung lernen Kinder dem Alter entsprechend eine Vielfalt von Kampf und Selbstverteidigungsbewegungen aus dem traditionellen Shaolin Kung fu, aber auch aus anderen Stilen des Wu Shu. Imitation von Schlange, Adler, Tiger oder dem Affen führen zu Sprüngen, Rollen am Boden, Fallen und Körperbalance, immer mit dem Ziel, die Beweglichkeit und Reflexe zu verbessern.
+Das Waffentraining ergänzt die Vielfalt des Trainings und ist eine willkommene Abwechslung im Training der Kinder.
+Mit einem Fächer, dem Säbel, den Nunchakus oder dem Stock/Speer Kampfbewegungen auszuführen macht Spass und verbessert spielerisch die Koordination, wie auch die motorischen Fähigkeiten.
