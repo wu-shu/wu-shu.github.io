@@ -12,7 +12,3 @@ Klassische Kampfkunststile wie das Taiji Chuan, das Baguazhang und das Xing Yi C
 
 <img class="ifloat-right" src="/images/waterstyle-chris.jpg" alt="Waterstyle boxing">Liu He Ba Fa (Water style Boxing) ist ein eigener Kampfstil. In seinen Bewegungen gleicht es dem Fluss, der Weichheit und Kraft, den Eigenschaften des Wassers.
 Formlos, ausweichend, unberührbar - wie schwebende Wolken geben diesem Kampfkunststil seinen eigenen, "mysteriösen" Charakter. Waterstyle boxing wird auf fortgeschrittenem Niveau gelehrt und erfordert viel Hingabe und Leidenschaft.
-
-<ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
-<li><a href="" class="button-contact-place" title="Waterstyle boxing">Waterstyle boxing<img src="/images/waterstyle-chris.jpg" title="Waterstyle boxing"><img src="/images/waterstyle-chris.jpg" width="320" height="240" alt="Waterstyle boxing"></a></li>
-</ul>
