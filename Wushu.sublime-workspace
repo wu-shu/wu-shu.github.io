@@ -8,10 +8,10 @@
 	"buffers":
 	[
 		{
-			"file": "lehrer-turnierteam/index.md",
+			"file": "wu-shu-fuer-kinder/index.md",
 			"settings":
 			{
-				"buffer_size": 2822,
+				"buffer_size": 1092,
 				"line_ending": "Windows"
 			}
 		},
@@ -19,7 +19,23 @@
 			"file": "bilder/index.md",
 			"settings":
 			{
-				"buffer_size": 638,
+				"buffer_size": 505,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "chris-ritter/index.md",
+			"settings":
+			{
+				"buffer_size": 1314,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "wu-shu/index.md",
+			"settings":
+			{
+				"buffer_size": 1224,
 				"line_ending": "Windows"
 			}
 		}
@@ -60,13 +76,17 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/wu-shu/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/wu-shu-fuer-kinder/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/bilder/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/hittnau/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/rueti/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/wetzikon/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/tagelswangen/index.md",
 		"/G/Jennette-Weber.jpg",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/images/jeannette-weber",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/bilder/index.md",
 		"/G/fsturnier13.JPG",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/images/fsturnier13",
 		"/G/Shanja-Friedli.jpg",
@@ -80,7 +100,6 @@
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/images/chris-ritter.jpg",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/kontakt-anmeldung/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/_includes/navigation.html",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/tai-chi-chuan/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/README.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/scss/_custom.scss",
@@ -126,25 +145,23 @@
 			[
 				{
 					"buffer": 0,
-					"file": "lehrer-turnierteam/index.md",
+					"file": "wu-shu-fuer-kinder/index.md",
 					"settings":
 					{
-						"buffer_size": 2822,
+						"buffer_size": 1092,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								860,
-								860
+								789,
+								789
 							]
 						],
 						"settings":
 						{
-							"parser": "markdown",
-							"syntax": "Packages/Markdown/Markdown.tmLanguage",
-							"target": "disk"
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -157,15 +174,67 @@
 					"file": "bilder/index.md",
 					"settings":
 					{
-						"buffer_size": 638,
+						"buffer_size": 505,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								485,
-								485
+								260,
+								260
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "chris-ritter/index.md",
+					"settings":
+					{
+						"buffer_size": 1314,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								275,
+								275
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "wu-shu/index.md",
+					"settings":
+					{
+						"buffer_size": 1224,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								821,
+								821
 							]
 						],
 						"settings":
