@@ -4,7 +4,7 @@ title: Wu Shu für Kinder
 ---
 
 Kinderwushu kann im Alter von 4 Jahren beginnen...
-<img class="ifloat-right" src="/images/kinder.jpg" alt="Wu Shu Kids">
+<img class="right" src="/images/kinder.jpg" alt="Wu Shu Kids">
 
 Ohne Leistungsdruck und Zwang ist das Ziel bei Kindern, den Spass an Bewegung und einem guten Körpergefühl schon in jungen Jahren zu fördern.
 
