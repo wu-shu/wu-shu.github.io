@@ -7,26 +7,40 @@ title: Chiara Caduff
 Chiara Caduff trainiert seit x Jahren im Wu Shu Center Oberland. Als Assistenztrainerin unterstützt sie die Lehrer tatkräftig und unterrichtet mit viel Flair und Leidenschaft. Sie ist seit Gründung des Turnierteams bis heute mit vollem Einsatz dabei und nimmt auch dieses Jahr an den Turnieren der Swiss Wushu Federation teil.
 
 
-
 Ihre Rangierungen bei den Swisswushu-Turnieren bisher:
-
-<ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
-<li>1.QT 2009</li>
-<li>Traditional Routine without weapon kids</li>
-<li>1. Rang (8.15)</li>
-</ul>
-<ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
-<li>2.QT 2009</li>
-<li>Traditional Routine without weapon kids</li>
-<li>2. Rang (8.08)</li>
-</ul>
-<ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
-<li>3.QT 2009</li>
-<li>Traditional Routine without weapon kids</li>
-<li>2. Rang (7.99)</li>
-</ul>
-<ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
-<li>SM 2009</li>
-<li>Traditional Routine without weapon kids</li>
-<li>1. Rang (7.99)</li>
-</ul>
+<table> 
+	<thead> 
+		<tr> 
+			<th width="100">Turnier</th> 
+			<th>Kategorie</th> 
+			<th width="80">Rang</th> 
+			<th width="50">Bewertung</th> 
+		</tr> 
+	</thead> 
+	<tbody> 
+		<tr> 
+			<td>1. QT 2009</td> 
+			<td>Traditional Routine without weapon kids</td> 
+			<td>1. Rang</td> 
+			<td>8.15</td> 
+		</tr> 
+		<tr> 
+			<td>2. QT 2009</td> 
+			<td>Traditional Routine without weapon kids</td> 
+			<td>2. Rang</td> 
+			<td>8.08</td> 
+		</tr> 
+		<tr> 
+			<td>3. QT 2009</td> 
+			<td>Traditional Routine without weapon kids</td> 
+			<td>2. Rang</td> 
+			<td>7.99</td> 
+		</tr> 
+		<tr> 
+			<td>SM 2009</td> 
+			<td>Traditional Routine without weapon kids</td> 
+			<td>1. Rang</td> 
+			<td>7.99</td> 
+		</tr> 
+	</tbody>
+</table>
