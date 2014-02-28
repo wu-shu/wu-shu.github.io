@@ -8,7 +8,7 @@ Kinderwushu kann im Alter von 4 Jahren beginnen...
 
 Ohne Leistungsdruck und Zwang ist das Ziel bei Kindern, den Spass an Bewegung und einem guten Körpergefühl schon in jungen Jahren zu fördern.
 
-Im Spiel, mit Spannung und viel Abwechslung lernen Kinder dem Alter entsprechend eine Vielfalt von Kampf und Selbstverteidigungs-bewegungen aus dem traditionellen Shaolin Kung fu, aber auch aus anderen Stilen des Wu Shu. Imitation von Schlange, Adler, Tiger oder dem Affen führen zu Sprüngen, Rollen am Boden, Fallen und Körperbalance, immer mit dem Ziel, Beweglichkeit und Reflexe zu verbessern.
+Im Spiel, mit Spannung und viel Abwechslung lernen Kinder dem Alter entsprechend eine Vielfalt von Kampf und Selbstverteidigungs-bewegungen aus dem traditionellen Shaolin Kung Fu, aber auch aus anderen Stilen des Wu Shu. Imitation von Schlange, Adler, Tiger oder dem Affen führen zu Sprüngen, Rollen am Boden, Fallen und Körperbalance, immer mit dem Ziel, Beweglichkeit und Reflexe zu verbessern.
 
 <img class="ifloat-left" src="/images/waffen-laura.jpg" alt="Waffentraining">Das Waffentraining ergänzt die Vielfalt des Trainings und ist eine willkommene Abwechslung im Training der Kinder.
 Mit einem Fächer, dem Säbel, den Nunchakus oder dem Stock/Speer Kampfbewegungen auszuführen macht Spass und verbessert spielerisch die Koordination, wie auch die motorischen Fähigkeiten.
