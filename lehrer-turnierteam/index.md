@@ -20,7 +20,7 @@ Assistenztrainer
 
 <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
 <li><a href="" class="button-contact-place" title="Jeannette Weber">Jeannette Weber<img src="/images/jeannette-weber.jpg" width="320" height="240" alt="Jeannette Weber"></a></li>
-<li><a href="/chiara-caduff/index/" class="button-contact-place" title="Chiara Caduff">Chiara Caduff<img src="/images/chiara-caduff.jpg" width="320" height="240" alt="Chiara Caduff"></a></li>
+<li><a href="/chiara-caduff/" class="button-contact-place" title="Chiara Caduff">Chiara Caduff<img src="/images/chiara-caduff.jpg" width="320" height="240" alt="Chiara Caduff"></a></li>
 <li><a href="" class="button-contact-place" title="Sandra Helbling">Sandra Helbling<img src="/images/sandra-helbling.jpg" width="320" height="240" alt="Sandra Helbling"></a></li>
 <li><a href="" class="button-contact-place" title="Sierra Gartmann">Sierra Gartmann<img src="/images/sierra-gartmann.jpg" width="320" height="240" alt="Sierra Gartmann"></a></li>
 <li><a href="" class="button-contact-place" title="Ladina Schneider">Ladina Schneider<img src="/images/ladina-schneider.jpg" width="320" height="240" alt="Ladina Schneider"></a></li>
@@ -30,7 +30,7 @@ Assistenztrainer
 Turnierteam
 ---
 <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
-<li><a href="/chiara-caduff/index.md" class="button-contact-place" title="Chiara Caduff">Chiara Caduff<img src="/images/chiara-caduff.jpg" width="320" height="240" alt="Chiara Caduff"></a></li>
+<li><a href="/chiara-caduff/" class="button-contact-place" title="Chiara Caduff">Chiara Caduff<img src="/images/chiara-caduff.jpg" width="320" height="240" alt="Chiara Caduff"></a></li>
 <li><a href="" class="button-contact-place" title="Sandra Helbling">Sandra Helbling<img src="/images/sandra-helbling.jpg" width="320" height="240" alt="Sandra Helbling"></a></li>
 <li><a href="" class="button-contact-place" title="Simon Nocco">Simon Nocco<img src="/images/simon-nocco.jpg" width="320" height="240" alt="Simon Nocco"></a></li>
 <li><a href="" class="button-contact-place" title="Jan Wüthrlich">Jan Wüthrich<img src="/images/jan-wuethrich.jpg" width="320" height="240" alt="Jan Wüthrich"></a></li>

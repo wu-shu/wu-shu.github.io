@@ -8,7 +8,7 @@ Chiara Caduff trainiert seit x Jahren im Wu Shu Center Oberland. Als Assistenztr
 
 Ihre Rangierungen bei den Swisswushu-Turnieren bisher:
 
-2009	1. QT	Traditional Routine without weapon kids				1. Rang (8.15)
-		2. QT	Traditional Routine without weapon kids				2. Rang (8.08)
-		3. QT	Traditional Routine without weapon kids				2. Rang (7.99)
-		SM		Traditional Routine without weapon kids				1. Rang (7.99)
+2009	1. QT	Traditional Routine without weapon kids			1. Rang (8.15)
+		2. QT	Traditional Routine without weapon kids			2. Rang (8.08)
+		3. QT	Traditional Routine without weapon kids			2. Rang (7.99)
+		SM		Traditional Routine without weapon kids			1. Rang (7.99)
