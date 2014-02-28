@@ -7,6 +7,7 @@ title: Chiara Caduff
 Chiara Caduff trainiert seit x Jahren im Wu Shu Center Oberland. Als Assistenztrainerin unterstützt sie die Lehrer tatkräftig und unterrichtet mit viel Flair und Leidenschaft. Sie ist seit Gründung des Turnierteams bis heute mit vollem Einsatz dabei und nimmt auch dieses Jahr an den Turnieren der Swiss Wushu Federation teil.
 
 
+
 Ihre Rangierungen bei den Swisswushu-Turnieren bisher:
 
 <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
