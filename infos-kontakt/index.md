@@ -22,4 +22,5 @@ title: Infos / Kontakt
 <li><a href="http://www.marcohauser.com/" class="button-contact-place">Marco Hauser</a></li>
 <li><a href="/infos-kontakt/" class="button-contact-place">Roland Stutz</a></li>
 <li><a href="http://long-kungfu.jimdo.com/" class="button-contact-place">Long Kung-Fu</a></li>
+<li><a href="http://www.swisswushu.ch/" class="button-contact-place">Swiss Wushu Federation</a></li>
 </ul>
