@@ -19,7 +19,7 @@
 			"file": "infos-kontakt/index.md",
 			"settings":
 			{
-				"buffer_size": 1348,
+				"buffer_size": 1428,
 				"line_ending": "Windows"
 			}
 		},
@@ -35,7 +35,7 @@
 			"file": "chiara-caduff/index.md",
 			"settings":
 			{
-				"buffer_size": 1197,
+				"buffer_size": 1245,
 				"line_ending": "Windows"
 			}
 		}
@@ -176,15 +176,15 @@
 					"file": "infos-kontakt/index.md",
 					"settings":
 					{
-						"buffer_size": 1348,
+						"buffer_size": 1428,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1073,
-								1073
+								1428,
+								1428
 							]
 						],
 						"settings":
@@ -228,15 +228,15 @@
 					"file": "chiara-caduff/index.md",
 					"settings":
 					{
-						"buffer_size": 1197,
+						"buffer_size": 1245,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								467,
-								467
+								716,
+								716
 							]
 						],
 						"settings":
