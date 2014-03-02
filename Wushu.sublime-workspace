@@ -27,15 +27,7 @@
 			"file": "lehrer-turnierteam/index.md",
 			"settings":
 			{
-				"buffer_size": 2869,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "chiara-caduff/index.md",
-			"settings":
-			{
-				"buffer_size": 1245,
+				"buffer_size": 3046,
 				"line_ending": "Windows"
 			}
 		}
@@ -76,9 +68,19 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/sierra-gartmann/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/jeannette-weber/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/adrien-eichenberger/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/marco-hauser/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/ladina-schneider/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/simon-nocco/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/jan-wüthrich/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/melanie-keller/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/michaela-sobo/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/sandra-helbling/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/chiara-caduff/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/wu-shu/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/wu-shu-fuer-kinder/index.md",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/chiara-caduff/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/chris-ritter/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/bilder/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/index.md",
@@ -142,7 +144,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -202,48 +204,20 @@
 					"file": "lehrer-turnierteam/index.md",
 					"settings":
 					{
-						"buffer_size": 2869,
+						"buffer_size": 3046,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1186,
-								1186
+								740,
+								740
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 72.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "chiara-caduff/index.md",
-					"settings":
-					{
-						"buffer_size": 1245,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								716,
-								716
-							]
-						],
-						"settings":
-						{
-							"parser": "markdown",
-							"syntax": "Packages/Markdown/Markdown.tmLanguage",
-							"target": "disk"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,

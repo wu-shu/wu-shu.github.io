@@ -3,7 +3,7 @@ layout: default
 title: Jan Wüthrich
 ---
 
-<img class="ifloat-left" src="/images/jan-wüthrich.jpg" alt="Jan Wüthrich" width="200px">
+<img class="ifloat-left" src="/images/jan-wuethrich.jpg" alt="Jan Wüthrich" width="200px">
 Jan Wüthrich...
 
 
