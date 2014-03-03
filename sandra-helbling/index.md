@@ -19,88 +19,208 @@ Ihre Rangierungen bei den Swisswushu-Turnieren bisher:
 	</thead> 
 	<tbody> 
 		<tr> 
-			<td>1. QT 2009</td> 
-			<td>Traditional Routine without weapon kids</td> 
-			<td>. Rang</td> 
-			<td>8.15</td> 
-		</tr> 
-		<tr> 
-			<td>2. QT 2009</td> 
-			<td>Traditional Routine without weapon kids</td> 
-			<td>. Rang</td> 
-			<td>8.08</td> 
-		</tr> 
-		<tr> 
-			<td>3. QT 2009</td> 
-			<td>Traditional Routine without weapon kids</td> 
-			<td>. Rang</td> 
-			<td>7.99</td> 
-		</tr> 
-		<tr> 
-			<td>SM 2009</td> 
-			<td>Traditional Routine without weapon kids</td> 
-			<td>. Rang</td> 
-			<td>7.99</td> 
-		</tr> 
-		<tr> 
-			<td>1. QT 2010</td> 
-			<td>Traditional Routine without weapon kids</td> 
-			<td>. Rang</td> 
-			<td>8.32</td> 
-		</tr> 
-		<tr> 
-			<td>2. QT 2010</td> 
-			<td>Traditional Routine without weapon kids</td> 
-			<td>. Rang</td> 
+			<td>3. QT 2008</td> 
+			<td>Traditional Routine Youth Barehand</td> 
+			<td>3. Rang</td> 
 			<td>8.35</td> 
 		</tr> 
 		<tr> 
-			<td>SM 2010</td> 
-			<td>Traditional Routine without weapon kids</td> 
-			<td>. Rang</td> 
+			<td>3. QT 2008</td> 
+			<td>Traditional Routine Youth Weapon</td> 
+			<td>3. Rang</td> 
+			<td>8.5</td> 
+		</tr> 
+		<tr> 
+			<td>SM 2008</td> 
+			<td>Traditional Routine Youth Barehand</td> 
+			<td>1. Rang</td> 
+			<td>8.43</td> 
+		</tr> 
+		<tr> 
+			<td>SM 2008</td> 
+			<td>Traditional Routine Youth Weapon</td> 
+			<td>1. Rang</td> 
+			<td>8.47</td> 
+		</tr> 
+		<tr> 
+			<td>1. QT 2009</td> 
+			<td>Traditional Routine Weapon Women</td> 
+			<td>1. Rang</td> 
+			<td>8.28</td> 
+		</tr> 
+		<tr> 
+			<td>1. QT 2009</td> 
+			<td>Traditional Routine without Weapon Women</td> 
+			<td>2. Rang</td> 
+			<td>8.2</td> 
+		</tr> 
+		<tr> 
+			<td>2. QT 2009</td> 
+			<td>Traditional Routine Youth Weapon</td> 
+			<td>1. Rang</td> 
 			<td>8.22</td> 
 		</tr> 
 		<tr> 
-			<td>1. QT 2011</td> 
-			<td>Traditional Routine without weapon kids</td> 
-			<td>. Rang</td> 
+			<td>2. QT 2009</td> 
+			<td>Traditional Routine Youth without Weapon</td> 
+			<td>4. Rang</td> 
+			<td>7.91</td> 
+		</tr> 
+		<tr> 
+			<td>3. QT 2009</td> 
+			<td>Traditional Routine Youth without Weapon</td> 
+			<td>1. Rang</td> 
+			<td>8.5</td> 
+		</tr> 
+		<tr> 
+			<td>3. QT 2009</td> 
+			<td>Traditional Routine Weapon Youth&Women</td> 
+			<td>1. Rang</td> 
+			<td>8.7</td> 
+		</tr> 
+		<tr> 
+			<td>SM 2009</td> 
+			<td>Traditional Routine Youth Weapon</td> 
+			<td>1. Rang</td> 
+			<td>8.23</td> 
+		</tr> 
+		<tr> 
+			<td>SM 2009</td> 
+			<td>Traditional Routine Youth without Weapon</td> 
+			<td>1. Rang</td> 
+			<td>8.08</td> 
+		</tr> 
+		<tr> 
+			<td>1. QT 2010</td> 
+			<td>Traditional Routine Weapon Youth</td> 
+			<td>2. Rang</td> 
+			<td>8.24</td> 
+		</tr> 
+		<tr> 
+			<td>1. QT 2010</td> 
+			<td>Traditional Routine without Weapon Youth</td> 
+			<td>1. Rang</td> 
+			<td>8.51/td> 
+		</tr> 
+		<tr> 
+			<td>2. QT 2010</td> 
+			<td>Traditional Routine Weapon Youth</td> 
+			<td>1. Rang</td> 
+			<td>8.33</td> 
+		</tr>
+		<tr> 
+			<td>2. QT 2010</td> 
+			<td>Traditional Routine without Weapon Youth</td> 
+			<td>2. Rang</td> 
+			<td>8.33</td> 
+		</tr>
+		<tr> 
+			<td>3. QT 2010</td> 
+			<td>Traditional Routine Weapon Youth (F&M)</td> 
+			<td>1. Rang</td> 
+			<td>8.5</td> 
+		</tr>
+		<tr> 
+			<td>3. QT 2010</td> 
+			<td>Traditional Routine without Weapon Youth</td> 
+			<td>2. Rang</td> 
+			<td>8.44</td> 
+		</tr>
+		<tr> 
+			<td>SM 2010</td> 
+			<td>Traditional Routine Weapon Youth (F&M)</td> 
+			<td>1. Rang</td> 
 			<td>8.48</td> 
 		</tr> 
 		<tr> 
+			<td>SM 2010</td> 
+			<td>Traditional Routine without Weapon Youth</td> 
+			<td>2. Rang</td> 
+			<td>8.42</td> 
+		</tr> 
+		<tr> 
+			<td>1. QT 2011</td> 
+			<td>Traditional Routine Youth Weapon</td> 
+			<td>1. Rang</td> 
+			<td>8.36</td> 
+		</tr> 
+		<tr> 
+			<td>1. QT 2011</td> 
+			<td>Traditional Routine Youth without Weapon</td> 
+			<td>1. Rang</td> 
+			<td>8.91</td> 
+		</tr> 
+		<tr> 
 			<td>2. QT 2011</td> 
-			<td>Traditional Routine without weapon kids</td> 
-			<td>. Rang</td> 
-			<td>7.85</td> 
+			<td>Traditional Routine Weapon Youth (F&M)</td> 
+			<td>1. Rang</td> 
+			<td>8.61</td> 
+		</tr>
+		<tr> 
+			<td>2. QT 2011</td> 
+			<td>Traditional Routine without Weapon Youth (F&M)</td> 
+			<td>1. Rang</td> 
+			<td>8.15</td> 
+		</tr>
+		<tr> 
+			<td>3. QT 2011</td> 
+			<td>Traditional Routine Youth Weapon (F&M)</td> 
+			<td>1. Rang</td> 
+			<td>7.9</td> 
 		</tr> 
 		<tr> 
 			<td>3. QT 2011</td> 
-			<td>Traditional Routine without weapon kids</td> 
-			<td>. Rang</td> 
-			<td>8.15</td> 
+			<td>Traditional Routine Youth without Weapon (F&M)</td> 
+			<td>1. Rang</td> 
+			<td>8.32</td> 
 		</tr> 
 		<tr> 
 			<td>SM 2011</td> 
-			<td>Traditional Routine without weapon kids</td> 
-			<td>. Rang</td> 
-			<td>8.38</td> 
+			<td>Traditional Routine Weapon (F&M)</td> 
+			<td>3. Rang</td> 
+			<td>8.1</td> 
+		</tr>
+		<tr> 
+			<td>SM 2011</td> 
+			<td>Traditional Routine without Weapon (F&M)</td> 
+			<td>2. Rang</td> 
+			<td>8.22</td> 
+		</tr>
+		<tr> 
+			<td>1. QT 2012</td> 
+			<td>Traditional Routine External Styles Youth(F) Weapon</td> 
+			<td>1. Rang</td> 
+			<td>8.23</td> 
 		</tr> 
 		<tr> 
 			<td>1. QT 2012</td> 
-			<td>Traditional Routine without weapon kids</td> 
-			<td>. Rang</td> 
-			<td>8.37</td> 
+			<td>Traditional Routine External Styles Youth(F) without Weapon</td> 
+			<td>1. Rang</td> 
+			<td>8.47</td> 
 		</tr> 
 		<tr> 
 			<td>2. QT 2012</td> 
-			<td>Traditional Routine without weapon kids</td> 
-			<td>. Rang</td> 
-			<td>8.37</td> 
+			<td>Traditional Routine External Styles Youth(F) Weapon</td> 
+			<td>1. Rang</td> 
+			<td>8.5</td> 
+		</tr> 
+		<tr> 
+			<td>2. QT 2012</td> 
+			<td>Traditional Routine External Styles Youth(F) without Weapon</td> 
+			<td>1. Rang</td> 
+			<td>8.6</td> 
 		</tr> 
 		<tr> 
 			<td>SM 2012</td> 
-			<td>Traditional Routine without weapon kids</td> 
-			<td>. Rang</td> 
-			<td>8.27</td> 
+			<td>Traditional Routine External Styles Youth(F) Weapon</td> 
+			<td>1. Rang</td> 
+			<td>8.2</td> 
+		</tr> 
+		<tr> 
+			<td>SM 2012</td> 
+			<td>Traditional Routine External Styles without Weapon Youth(F)</td> 
+			<td>1. Rang</td> 
+			<td>8.43</td> 
 		</tr> 
 	</tbody>
 </table>

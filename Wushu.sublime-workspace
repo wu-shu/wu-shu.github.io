@@ -8,22 +8,6 @@
 	"buffers":
 	[
 		{
-			"file": "shaolin-kung-fu/index.md",
-			"settings":
-			{
-				"buffer_size": 706,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "infos-kontakt/index.md",
-			"settings":
-			{
-				"buffer_size": 1428,
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "lehrer-turnierteam/index.md",
 			"settings":
 			{
@@ -68,22 +52,23 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/shaolin-kung-fu/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/michaela-sobo/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/jan-wüthrich/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/sierra-gartmann/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/jeannette-weber/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/adrien-eichenberger/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/marco-hauser/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/ladina-schneider/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/simon-nocco/index.md",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/jan-wüthrich/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/melanie-keller/index.md",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/michaela-sobo/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/sandra-helbling/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/chiara-caduff/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/wu-shu/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/wu-shu-fuer-kinder/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/chris-ritter/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/bilder/index.md",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/hittnau/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/rueti/index.md",
@@ -144,63 +129,11 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "shaolin-kung-fu/index.md",
-					"settings":
-					{
-						"buffer_size": 706,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								118,
-								131
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "infos-kontakt/index.md",
-					"settings":
-					{
-						"buffer_size": 1428,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1428,
-								1428
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
 					"file": "lehrer-turnierteam/index.md",
 					"settings":
 					{
@@ -211,8 +144,8 @@
 						"selection":
 						[
 							[
-								740,
-								740
+								2004,
+								2004
 							]
 						],
 						"settings":
