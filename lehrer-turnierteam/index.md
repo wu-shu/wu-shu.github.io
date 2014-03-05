@@ -3,15 +3,13 @@ layout: default
 title: Lehrer / Turnierteam
 ---
 
----
 Lehrer
----
 
 <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
 <li><a href="/chris-ritter/" class="button-contact-place" title="Master Chris Ritter">Chris Ritter, 7. Dan<img src="/images/cr.jpg" width="320" height="240" alt="Chris Ritter"></a></li>
 <li><a href="/melanie-keller/" class="button-contact-place" title="Melanie Keller">Melanie Keller, 2. Dan<img src="/images/melanie-keller.jpg" width="320" height="240" alt="Melanie Keller"></a></li>
 <li><a href="/marco-hauser/" class="button-contact-place" title="Marco Hauser">Marco Hauser, 1. Dan<img src="/images/marco-hauser.jpg" width="320" height="240" alt="Marco Hauser"></a></li>
-<li><a href="/michaela-sobo/" class="button-contact-place" title="Michaela Sobosczyk">Michaela Sobosczyk, 1. Dan<img src="/images/michi-sobo.jpg" width="320" height="240" alt="Michaela Sobosczyk"></a></li>
+<li><a href="/michaela-sobo/" class="button-contact-place" title="Michaela Sobosczyk">Michaela Sobosczyk, 1. Dan<img src="/images/michaela-sobo.jpg" width="320" height="240" alt="Michaela Sobosczyk"></a></li>
 </ul>
 
 ---
