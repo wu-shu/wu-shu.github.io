@@ -27,7 +27,7 @@
 			"file": "qi-gong/index.md",
 			"settings":
 			{
-				"buffer_size": 981,
+				"buffer_size": 1002,
 				"line_ending": "Windows"
 			}
 		},
@@ -185,7 +185,7 @@
 	"groups":
 	[
 		{
-			"selected": 7,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -245,15 +245,15 @@
 					"file": "qi-gong/index.md",
 					"settings":
 					{
-						"buffer_size": 981,
+						"buffer_size": 1002,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								917,
-								917
+								954,
+								954
 							]
 						],
 						"settings":
