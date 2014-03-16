@@ -4,7 +4,7 @@ title: Chiara Caduff
 ---
 
 <img class="ifloat-left" src="/images/chiara-caduff.jpg" alt="Chiara Caduff" width="200px">
-Chiara Caduff trainiert seit x Jahren im Wu Shu Center Oberland. Als Assistenztrainerin unterstützt sie die Lehrer tatkräftig und unterrichtet mit viel Flair und Leidenschaft. Sie ist seit Gründung des Turnierteams bis heute mit vollem Einsatz dabei und nimmt auch dieses Jahr an den Turnieren der Swiss Wushu Federation teil.
+Chiara Caduff trainiert seit 2003 im Wu Shu Center Oberland. Als Assistenztrainerin unterstützt sie die Lehrer tatkräftig und unterrichtet mit viel Flair und Leidenschaft. Sie ist seit Gründung des Turnierteams bis heute mit vollem Einsatz dabei und nimmt auch dieses Jahr an den Turnieren der Swiss Wushu Federation teil.
 
 
 Ihre Rangierungen bei den Swisswushu-Turnieren bisher:
@@ -107,6 +107,12 @@ Ihre Rangierungen bei den Swisswushu-Turnieren bisher:
 			<td>Traditional Routine without Weapon Kids</td> 
 			<td>2. Rang</td> 
 			<td>8.27</td> 
+		</tr> 
+		<tr> 
+			<td>1. QT 2014</td> 
+			<td>Traditional Routine Long-Weapon Kids&Youth</td> 
+			<td>2. Rang</td> 
+			<td>8.25</td> 
 		</tr> 
 	</tbody>
 </table>
