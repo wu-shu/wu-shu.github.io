@@ -14,6 +14,30 @@
 				"buffer_size": 4073,
 				"line_ending": "Windows"
 			}
+		},
+		{
+			"file": "lehrer-turnierteam/index.md",
+			"settings":
+			{
+				"buffer_size": 3233,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "bilder/index.md",
+			"settings":
+			{
+				"buffer_size": 917,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "chiara-caduff/index.md",
+			"settings":
+			{
+				"buffer_size": 2903,
+				"line_ending": "Windows"
+			}
 		}
 	],
 	"build_system": "",
@@ -132,7 +156,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -147,8 +171,89 @@
 						"selection":
 						[
 							[
-								378,
-								378
+								175,
+								175
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "lehrer-turnierteam/index.md",
+					"settings":
+					{
+						"buffer_size": 3233,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3233,
+								3233
+							]
+						],
+						"settings":
+						{
+							"parser": null,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"target": "disk"
+						},
+						"translation.x": 0.0,
+						"translation.y": 295.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "bilder/index.md",
+					"settings":
+					{
+						"buffer_size": 917,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								133,
+								133
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "chiara-caduff/index.md",
+					"settings":
+					{
+						"buffer_size": 2903,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								536,
+								462
 							]
 						],
 						"settings":
