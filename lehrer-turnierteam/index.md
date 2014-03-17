@@ -23,8 +23,8 @@ Assistenztrainer
 <li><a href="/sandra-helbling/" class="button-contact-place" title="Sandra Helbling">Sandra Helbling<img src="/images/sandra-helbling.jpg" width="320" height="240" alt="Sandra Helbling"></a></li>
 <li><a href="/sierra-gartmann/" class="button-contact-place" title="Sierra Gartmann">Sierra Gartmann<img src="/images/sierra-gartmann.jpg" width="320" height="240" alt="Sierra Gartmann"></a></li>
 <li><a href="/ladina-schneider" class="button-contact-place" title="Ladina Schneider">Ladina Schneider<img src="/images/ladina-schneider.jpg" width="320" height="240" alt="Ladina Schneider"></a></li>
-<li><a href="/cedric/" class="button-contact-place" title="Cedric">Cedric<img src="" width="320" height="240"></a></li>
-<li><a href="/nino-rietmann/" class="button-contact-place" title="Nino Rietmann">Nino Rietmann<img src="" width="320" height="240"></a></li>
+<li><a href="/cedric/" class="button-contact-place" title="Cedric">Cedric</a></li>
+<li><a href="/nino-rietmann/" class="button-contact-place" title="Nino Rietmann">Nino Rietmann</a></li>
 </ul>
 
 
