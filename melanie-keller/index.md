@@ -4,7 +4,7 @@ title: Melanie Keller
 ---
 
 <img class="ifloat-left" src="/images/melanie-keller.jpg" alt="Melanie Keller" width="200px">
-Melanie Keller trainiert seit 19.. unter Chris Ritter im Wu-Shu Center Oberland. Sie ist bereits 2 Mal nach Kanada gereist, um unter Grandmaster Terlecki zu trainieren. Sie unterrichtet seit vielen Jahren die Kinder im Wu-Shu Center und hat den 2. Dan erreicht.
+Melanie Keller trainiert seit 1997 unter Chris Ritter im Wu-Shu Center Oberland. Sie ist bereits 2 Mal nach Kanada gereist, um unter Grandmaster Terlecki zu trainieren. Sie unterrichtet seit vielen Jahren die Kinder im Wu-Shu Center und hat den 2. Dan erreicht.
 
 
 Melanie ist als Coach bei den Swisswushu-Turnieren mit dabei und hat auch schon selber an diesen teilgenommen. 
