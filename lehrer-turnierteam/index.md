@@ -4,6 +4,7 @@ title: Lehrer / Turnierteam
 ---
 
 Lehrer
+---
 
 <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
 <li><a href="/chris-ritter/" class="button-contact-place" title="Master Chris Ritter">Chris Ritter, 7. Dan<img src="/images/cr.jpg" width="320" height="240" alt="Chris Ritter"></a></li>
@@ -22,8 +23,8 @@ Assistenztrainer
 <li><a href="/sandra-helbling/" class="button-contact-place" title="Sandra Helbling">Sandra Helbling<img src="/images/sandra-helbling.jpg" width="320" height="240" alt="Sandra Helbling"></a></li>
 <li><a href="/sierra-gartmann/" class="button-contact-place" title="Sierra Gartmann">Sierra Gartmann<img src="/images/sierra-gartmann.jpg" width="320" height="240" alt="Sierra Gartmann"></a></li>
 <li><a href="/ladina-schneider" class="button-contact-place" title="Ladina Schneider">Ladina Schneider<img src="/images/ladina-schneider.jpg" width="320" height="240" alt="Ladina Schneider"></a></li>
-<li><a href="/cedric/" class="button-contact-place" title="Cedric">Cedric<img src="" width="320" height="240" alt="Cedric"></a></li>
-<li><a href="/nino-rietmann/" class="button-contact-place" title="Nino Rietmann">Nino Rietmann<img src="" width="320" height="240" alt="Nino Rietmann"></a></li>
+<li><a href="/cedric/" class="button-contact-place" title="Cedric">Cedric<img src="" width="320" height="240"></a></li>
+<li><a href="/nino-rietmann/" class="button-contact-place" title="Nino Rietmann">Nino Rietmann<img src="" width="320" height="240"></a></li>
 </ul>
 
 
