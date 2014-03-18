@@ -24,8 +24,8 @@ Formen zum Lernen
 <li><a target="_blank" href="http://www.flickr.com/photos/117851037@N03/13238528603/" class="button-contact-place">Kempo III</a></li>
 </ul>
 <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
-<li><a target="_blank" href="/infos-kontakt/wetzikon/" class="button-contact-place">Stock 12</a></li>
-<li><a target="_blank" href="/infos-kontakt/rueti/" class="button-contact-place">Stock I</a></li>
-<li><a target="_blank" href="/infos-kontakt/tagelswangen/" class="button-contact-place">Stock II</a></li>
-<li><a target="_blank" href="/infos-kontakt/hittnau/" class="button-contact-place">Stock III</a></li>
+<li><a target="_blank" href="http://www.flickr.com/photos/117851037@N03/13239336584/" class="button-contact-place">Stock 12</a></li>
+<li><a target="_blank" href="http://www.flickr.com/photos/117851037@N03/13238603375/in/photostream/" class="button-contact-place">Stock I</a></li>
+<li><a target="_blank" href="http://www.flickr.com/photos/117851037@N03/13239516664/in/photostream/" class="button-contact-place">Stock II</a></li>
+<li><a target="_blank" href="http://www.flickr.com/photos/117851037@N03/13239153864/" class="button-contact-place">Stock III</a></li>
 </ul>
