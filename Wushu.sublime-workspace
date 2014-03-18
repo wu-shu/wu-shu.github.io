@@ -30,14 +30,6 @@
 				"buffer_size": 917,
 				"line_ending": "Windows"
 			}
-		},
-		{
-			"file": "chiara-caduff/index.md",
-			"settings":
-			{
-				"buffer_size": 2903,
-				"line_ending": "Windows"
-			}
 		}
 	],
 	"build_system": "",
@@ -76,8 +68,8 @@
 	},
 	"file_history":
 	[
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/images/stundenplaene/stundenplan-rueti.png",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/chiara-caduff/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/images/stundenplaene/stundenplan-rueti.png",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/shaolin-kung-fu/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/michaela-sobo/index.md",
@@ -156,7 +148,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -233,33 +225,6 @@
 						"settings":
 						{
 							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "chiara-caduff/index.md",
-					"settings":
-					{
-						"buffer_size": 2903,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								536,
-								462
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage",
-							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,

@@ -12,3 +12,13 @@ Im Spiel, mit Spannung und viel Abwechslung lernen Kinder dem Alter entsprechend
 
 <img class="ifloat-left" src="/images/waffen-laura.jpg" alt="Waffentraining">Das Waffentraining ergänzt die Vielfalt des Trainings und ist eine willkommene Abwechslung im Training der Kinder.
 Mit einem Fächer, dem Säbel, den Nunchakus oder dem Stock/Speer Kampfbewegungen auszuführen macht Spass und verbessert spielerisch die Koordination, wie auch die motorischen Fähigkeiten.
+
+[Kempo I](http://www.)
+[Kempo I+]()
+[Kempo II]()
+[Kempo III]()
+
+[Stock 12]()
+[Stock bis Drehung]()
+[Stock I]()
+[Stock II]()
