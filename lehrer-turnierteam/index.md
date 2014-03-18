@@ -25,6 +25,7 @@ Assistenztrainer
 <li><a href="/ladina-schneider" class="button-contact-place" title="Ladina Schneider">Ladina Schneider<img src="/images/ladina-schneider.jpg" width="320" height="240" alt="Ladina Schneider"></a></li>
 <li><a href="/cedric/" class="button-contact-place" title="Cyril Kaiser">Cyril Kaiser</a></li>
 <li><a href="/nino-rietmann/" class="button-contact-place" title="Nino Rietmann">Nino Rietmann</a></li>
+<li><a href="/nino-rietmann/" class="button-contact-place" title="Dario Tenore">Dario Tenore</a></li>
 </ul>
 
 
