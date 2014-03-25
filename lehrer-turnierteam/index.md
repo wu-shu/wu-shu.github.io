@@ -37,5 +37,5 @@ Turnierteam
 <li><a href="/sandra-helbling/" class="button-contact-place" title="Sandra Helbling">Sandra Helbling<img src="/images/sandra-helbling.jpg" width="320" height="240" alt="Sandra Helbling"></a></li>
 <li><a href="/simon-nocco/" class="button-contact-place" title="Simon Nocco">Simon Nocco<img src="/images/simon-nocco.jpg" width="320" height="240" alt="Simon Nocco"></a></li>
 <li><a href="/jan-wüthrich/" class="button-contact-place" title="Jan Wüthrich">Jan Wüthrich<img src="/images/jan-wuethrich.jpg" width="320" height="240" alt="Jan Wüthrich"></a></li>
-<li><a href="/adrien-eichenberger/" class="button-contact-place" title="Adrien Eichenberger">Adrien Eichenberger<img src="/images/diverses.jpg" width="320" height="240" alt="Adrien Eichenberger"></a></li>
+<li><a href="/adrien-eichenberger/" class="button-contact-place" title="Adrien Eichenberger">Adrien Eichenberger<img src="/images/adrien-eichenberger.jpg" width="320" height="240" alt="Adrien Eichenberger"></a></li>
 </ul>
