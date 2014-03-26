@@ -20,8 +20,8 @@ Formen zum Lernen
 <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
 <li><a target="_blank" href="http://www.flickr.com/photos/117851037@N03/13237800365/in/photostream/" class="button-contact-place">Kempo I</a></li>
 <li><a target="_blank" href="http://www.flickr.com/photos/117851037@N03/13238234274/" class="button-contact-place">Kempo I+</a></li>
-<li><a target="_blank" href="http://www.flickr.com/photos/117851037@N03/13238394964/" class="button-contact-place">Kempo II</a></li>
-<li><a target="_blank" href="http://www.flickr.com/photos/117851037@N03/13238528603/" class="button-contact-place">Kempo III</a></li>
+<li><a target="_blank" href="http://www.flickr.com/photos/117851037@N03/13238394964/" class="button-contact-place">Kempo I+II</a></li>
+<li><a target="_blank" href="https://www.flickr.com/photos/117851037@N03/13423006654/" class="button-contact-place">Kempo III</a></li>
 </ul>
 <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
 <li><a target="_blank" href="http://www.flickr.com/photos/117851037@N03/13239336584/" class="button-contact-place">Stock 12</a></li>
