@@ -6,7 +6,7 @@ title: Marco Hauser
 <img class="ifloat-left" src="/images/marco-hauser.jpg" alt="Marco Hauser" width="200px">
 Marco Hauser...
 
-[Taiji 24-er Form by Marco](https://www.flickr.com/photos/117851037@N03/13424795985/)
+<a target="_blank" href="https://www.flickr.com/photos/117851037@N03/13424795985/" >Taiji 24-er Form by Marco</a>
 
 Seine Rangierungen bei den Swisswushu-Turnieren bisher:
 <table> 

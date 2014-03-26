@@ -8,66 +8,42 @@
 	"buffers":
 	[
 		{
-			"file": "infos-kontakt/tagelswangen/index.md",
+			"file": "marco-hauser/index.md",
 			"settings":
 			{
-				"buffer_size": 442,
+				"buffer_size": 2451,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "infos-kontakt/hittnau/index.md",
+			"file": "chiara-caduff/index.md",
 			"settings":
 			{
-				"buffer_size": 397,
+				"buffer_size": 2899,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "infos-kontakt/rueti/index.md",
+			"file": "sandra-helbling/index.md",
 			"settings":
 			{
-				"buffer_size": 368,
+				"buffer_size": 5531,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "infos-kontakt/index.md",
+			"file": "simon-nocco/index.md",
 			"settings":
 			{
-				"buffer_size": 1331,
+				"buffer_size": 2284,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "michaela-sobo/index.md",
+			"file": "bilder/index.md",
 			"settings":
 			{
-				"buffer_size": 602,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "chris-ritter-2/index.md",
-			"settings":
-			{
-				"buffer_size": 1148,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "lehrer-turnierteam/index.md",
-			"settings":
-			{
-				"buffer_size": 3359,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "wu-shu-fuer-kinder/index.md",
-			"settings":
-			{
-				"buffer_size": 2378,
+				"buffer_size": 2095,
 				"line_ending": "Windows"
 			}
 		}
@@ -108,18 +84,23 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/tagelswangen/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/hittnau/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/rueti/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/michaela-sobo/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/chris-ritter-2/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/wu-shu-fuer-kinder/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/melanie-keller/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/jan-wüthrich/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/chiara-caduff/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/wetzikon/index.md",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/jan-wüthrich/index.md",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/ladina-schneider/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/sandra-helbling/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/jeannette-weber/index.md",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/michaela-sobo/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/sierra-gartmann/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/bilder/index.md",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/melanie-keller/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/images/stundenplaene/stundenplan-rueti.png",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/shaolin-kung-fu/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/wu-shu/index.md",
@@ -128,11 +109,7 @@
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/qi-gong/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/simon-nocco/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/marco-hauser/index.md",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/adrien-eichenberger/index.md",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/hittnau/index.md",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/rueti/index.md",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/tagelswangen/index.md",
 		"/G/Jennette-Weber.jpg",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/images/jeannette-weber",
 		"/G/fsturnier13.JPG",
@@ -188,28 +165,28 @@
 	"groups":
 	[
 		{
-			"selected": 6,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "infos-kontakt/tagelswangen/index.md",
+					"file": "marco-hauser/index.md",
 					"settings":
 					{
-						"buffer_size": 442,
+						"buffer_size": 2451,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								329,
-								329
+								238,
+								238
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -219,23 +196,24 @@
 				},
 				{
 					"buffer": 1,
-					"file": "infos-kontakt/hittnau/index.md",
+					"file": "chiara-caduff/index.md",
 					"settings":
 					{
-						"buffer_size": 397,
+						"buffer_size": 2899,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								294,
-								294
+								457,
+								533
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -245,23 +223,24 @@
 				},
 				{
 					"buffer": 2,
-					"file": "infos-kontakt/rueti/index.md",
+					"file": "sandra-helbling/index.md",
 					"settings":
 					{
-						"buffer_size": 368,
+						"buffer_size": 5531,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								270,
-								270
+								764,
+								764
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -271,23 +250,24 @@
 				},
 				{
 					"buffer": 3,
-					"file": "infos-kontakt/index.md",
+					"file": "simon-nocco/index.md",
 					"settings":
 					{
-						"buffer_size": 1331,
+						"buffer_size": 2284,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1214,
-								1214
+								221,
+								221
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -297,46 +277,18 @@
 				},
 				{
 					"buffer": 4,
-					"file": "michaela-sobo/index.md",
+					"file": "bilder/index.md",
 					"settings":
 					{
-						"buffer_size": 602,
+						"buffer_size": 2095,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								602,
-								602
-							]
-						],
-						"settings":
-						{
-							"parser": null,
-							"syntax": "Packages/Markdown/Markdown.tmLanguage",
-							"target": "disk"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "chris-ritter-2/index.md",
-					"settings":
-					{
-						"buffer_size": 1148,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								76,
-								76
+								2095,
+								2095
 							]
 						],
 						"settings":
@@ -345,58 +297,6 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "lehrer-turnierteam/index.md",
-					"settings":
-					{
-						"buffer_size": 3359,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2011,
-								2011
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "wu-shu-fuer-kinder/index.md",
-					"settings":
-					{
-						"buffer_size": 2378,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1739,
-								1739
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 268.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
