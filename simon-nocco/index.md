@@ -6,6 +6,7 @@ title: Simon Nocco
 <img class="ifloat-left" src="/images/simon-nocco.jpg" alt="Simon Nocco" width="200px">
 Simon Nocco...
 
+[Stock by Simon](https://www.flickr.com/photos/117851037@N03/13425488713/)
 
 Seine Rangierungen bei den Swisswushu-Turnieren bisher:
 <table> 
