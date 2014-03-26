@@ -32,7 +32,9 @@
 <div class="row">
   <div class="medium-12 columns">
     <!-- Logo -->
+    <!-- Medium-up screens -->
     <div id="circle" class="hide-for-small"></div>
+    <!-- Small screens -->
     <div class="show-for-small-only">
       <a href="/"><img style="margin-top: 10px; display: block; margin-left: auto; margin-right: auto;"
                        src="/images/logo-150px.png" alt="Wu Shu" width="150px"></a>
@@ -40,11 +42,15 @@
     <!-- Navigation for medium-up -->
     <ul class="side-nav splashscreen hide-for-small">
       {% include navigation.html %}
+      <!--Newsbox-->
+      <li><a class="newsbox" href="/pullover/" style="margin-left: 600px; margin-top: -300px;"><div id="newsbox-image"></div> Die neuen Pullover sind da!</a></li>
     </ul>
     <!-- Navigation for small -->
     <ul class="side-nav show-for-small" style="text-align: center;">
+      <!--Newsbox-->
+      <li><a class="newsbox" href="/pullover/" style="margin-left: auto; margin-right: auto; margin-top: 40px; margin-bottom: 40px;"><div id="newsbox-image"></div> Die neuen Pullover sind da!</a></li>
       {% include navigation.html %}
-    </ul>
+     </ul>
   </div>
 </div>
 

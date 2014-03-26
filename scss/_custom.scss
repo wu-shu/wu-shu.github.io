@@ -9,11 +9,11 @@ body {
 }
 
 .content-body {
-  margin-left:10px;
-  padding:20px;
+  margin-left: 10px;
+  padding: 20px;
   padding-bottom: 10px;
   border: 4px solid #cc9900;
-  border-radius:10px;
+  border-radius: 10px;
   a {
     color: $secondary-color;
   }
@@ -26,9 +26,9 @@ body {
     text-transform: uppercase;
     letter-spacing: 2px;
     border: 2px solid #cc9900;
-    border-radius:5px;
+    border-radius: 5px;
     background-color: rgba(204, 153, 0, 0.22);
-    color:white;
+    color: white;
   }
   a.button-contact-info {
     display: inline-block;
@@ -39,7 +39,7 @@ body {
     font-weight: bold;
     letter-spacing: 2px;
     border: 2px solid #cc9900;
-    border-radius:5px;
+    border-radius: 5px;
   }
 }
 
@@ -55,6 +55,7 @@ ul.side-nav {
     }
   }
 }
+
 ul.side-nav.right {
   text-align: right;
   margin-right: 30px;
@@ -78,6 +79,7 @@ img.ifloat-left {
   float: left;
   padding-right: 20px;
 }
+
 img.ifloat-right {
   float: right;
 }
@@ -108,22 +110,54 @@ footer, footer div ul li a {
   background-image: url(/images/logo.png);
   background-size: 370px auto;
 }
+
 ul.side-nav.splashscreen li {
   position: relative;
   margin-left: 30px;
   a.level1 {
-    margin-left:340px;
+    margin-left: 340px;
   }
   a.level2 {
-    margin-left:360px;
+    margin-left: 360px;
   }
   a.level3 {
-    margin-left:380px;
+    margin-left: 380px;
   }
   a.level4 {
-    margin-left:390px;
+    margin-left: 390px;
   }
   a.level5 {
-    margin-left:400px;
+    margin-left: 400px;
+  }
+}
+
+a.newsbox {
+  /* rotation */
+  -moz-transform:rotate(330deg);
+  -webkit-transform:rotate(330deg);
+  -o-transform:rotate(330deg);
+  -ms-transform:rotate(330deg);
+
+  padding: 2px 5px;
+  width: 180px;
+  text-align: center;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  border: 2px solid #cc9900;
+  border-radius: 5px;
+  color: white;
+
+  #newsbox-image {
+    background-image: url('/images/pullover/wu-shu-pullover-rueckseite-100.jpg');
+    width: 100px;
+    height: 90px;
+    /* center */
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #newsbox-image:hover {
+    background-image: url('/images/pullover/wu-shu-pullover-vorderseite-100.jpg');
   }
 }
