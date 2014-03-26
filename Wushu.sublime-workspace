@@ -43,7 +43,7 @@
 			"file": "michaela-sobo/index.md",
 			"settings":
 			{
-				"buffer_size": 607,
+				"buffer_size": 602,
 				"line_ending": "Windows"
 			}
 		},
@@ -51,7 +51,23 @@
 			"file": "chris-ritter-2/index.md",
 			"settings":
 			{
-				"buffer_size": 1058,
+				"buffer_size": 1148,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lehrer-turnierteam/index.md",
+			"settings":
+			{
+				"buffer_size": 3359,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "wu-shu-fuer-kinder/index.md",
+			"settings":
+			{
+				"buffer_size": 2378,
 				"line_ending": "Windows"
 			}
 		}
@@ -172,7 +188,7 @@
 	"groups":
 	[
 		{
-			"selected": 5,
+			"selected": 6,
 			"sheets":
 			[
 				{
@@ -284,15 +300,15 @@
 					"file": "michaela-sobo/index.md",
 					"settings":
 					{
-						"buffer_size": 607,
+						"buffer_size": 602,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								607,
-								0
+								602,
+								602
 							]
 						],
 						"settings":
@@ -312,15 +328,15 @@
 					"file": "chris-ritter-2/index.md",
 					"settings":
 					{
-						"buffer_size": 1058,
+						"buffer_size": 1148,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								178,
-								178
+								76,
+								76
 							]
 						],
 						"settings":
@@ -329,6 +345,58 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "lehrer-turnierteam/index.md",
+					"settings":
+					{
+						"buffer_size": 3359,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2011,
+								2011
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "wu-shu-fuer-kinder/index.md",
+					"settings":
+					{
+						"buffer_size": 2378,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1739,
+								1739
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 268.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

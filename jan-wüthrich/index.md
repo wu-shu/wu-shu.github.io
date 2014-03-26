@@ -6,6 +6,7 @@ title: Jan Wüthrich
 <img class="ifloat-left" src="/images/jan-wuethrich.jpg" alt="Jan Wüthrich" width="200px">
 Jan Wüthrich... Er nimmt zur Zeit nicht an den Swisswushu-Turnieren teil.
 
+[Kempo by Jan](https://www.flickr.com/photos/117851037@N03/13424573023/)
 
 Seine Rangierungen bei den Swisswushu-Turnieren bisher:
 <table> 
