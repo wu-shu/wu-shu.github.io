@@ -4,7 +4,13 @@ title: Marco Hauser
 ---
 
 <img class="ifloat-left" src="/images/marco-hauser.jpg" alt="Marco Hauser" width="200px">
-Marco Hauser...
+Er wolle Kung Fu lernen, aber mit 12 Jahren sei er noch zu jung "sage seine Mutter...."
+Zwei Jahre später begann Marco Hauser sein Shaolin Kung Fu Training im Wu Shu Center Oberland. Bis heute gehört er zum engen Kreis der Lehrer und Schüler, die mit ihrer Persönlichkeit die Schule unterstützen und unentbehrlich sind.
+Neben dem Training im Wu Shu Center Oberland (dem Moh Stil und dem Taijichuan) hat Marco bei vielen mehrwöchigen Auslandaufenthalten in China sein Wissen vom Shaolin Kung Fu und anderen Stilen des Wu Shu vertieft.
+Seine Bekanntschaft und Training mit dem legendären Sholin Grossmeister Shi de Cheng ermöglichte unserer Schule in 2013 ein Trainings-Seminar mit ihm zu erleben.
+Marco hat an vielen nationalen und internationalen Turnieren erfolgreich teilgenommen und nie "neben dem Posest gestanden."
+Er fährt seine eigene Schule (in Dürnten) im Rahmen des Wu Shu Center Oberland und ist als Lehrer im Shaolin Kung Fu und Taijichuan ausgebildet. Als Coach unterstützt Marco die Turniermannschaft als regelmässiger Begleiter. 
+Zum Glück ist er nicht mehr 12 Jahre alt....
 
 <a target="_blank" href="https://www.flickr.com/photos/117851037@N03/13424795985/" >Taiji 24-er Form by Marco</a>
 
@@ -111,9 +117,9 @@ Seine Rangierungen bei den Swisswushu-Turnieren bisher:
 		</tr> 
 		<tr> 
 			<td>SM 2012</td> 
-			<td>Traditional Routine without weapon kids</td> 
-			<td>. Rang</td> 
-			<td>8.27</td> 
+			<td></td> 
+			<td></td> 
+			<td></td> 
 		</tr> 
 	</tbody>
 </table>

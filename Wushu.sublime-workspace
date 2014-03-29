@@ -51,7 +51,7 @@
 			"file": "bilder/index.md",
 			"settings":
 			{
-				"buffer_size": 1667,
+				"buffer_size": 1663,
 				"line_ending": "Windows"
 			}
 		},
@@ -60,6 +60,14 @@
 			"settings":
 			{
 				"buffer_size": 4182,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_layouts/splashscreen.html",
+			"settings":
+			{
+				"buffer_size": 3055,
 				"line_ending": "Windows"
 			}
 		}
@@ -181,7 +189,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 5,
 			"sheets":
 			[
 				{
@@ -323,15 +331,15 @@
 					"file": "bilder/index.md",
 					"settings":
 					{
-						"buffer_size": 1667,
+						"buffer_size": 1663,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1038,
-								1038
+								1588,
+								1588
 							]
 						],
 						"settings":
@@ -369,6 +377,34 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "_layouts/splashscreen.html",
+					"settings":
+					{
+						"buffer_size": 3055,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1682,
+								1682
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 411.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

@@ -4,7 +4,11 @@ title: Melanie Keller
 ---
 
 <img class="ifloat-left" src="/images/melanie-keller.jpg" alt="Melanie Keller" width="200px">
-Melanie Keller trainiert seit 1997 unter Chris Ritter im Wu-Shu Center Oberland. Sie ist bereits 2 Mal nach Kanada gereist, um unter Grandmaster Terlecki zu trainieren. Sie unterrichtet seit vielen Jahren die Kinder im Wu-Shu Center und hat den 2. Dan erreicht.
+Melanie Keller begann ihr Wushu-Training mit 7 Jahren. Seit 18 Jahren trainiert sie im Wu Shu Center Oberland und ist stellvertretende Leiterin der Schule.
+Nach wenigen Jahren intensivierte sie ihr Training zu 4-6 Tagen in der Woche. Sie beherrscht das Shaolin Kung Fu (Moh Stil), das Wudang Kung Fu (Schlange & Adler) und kämpft im Moh (Kombat Stil) auf höchstem Niveau.
+In mehrwöchigen Einzeltrainings unter Grandmaster Terlecki in Kanada und der Schweiz hat sie ihr Wissen vertieft und ist Trägerin des 2. Dan.
+Bei nationalen Turnieren hat sie regelmässig Schweizermeister und Vize-Meistertitel in Formen mit und ohne Waffen gewonnen. Mit 14 Jahren begann Melanie Kinder, mit 17 Jahren Erwachsene zu unterrichten. Bis heute unterrichtet sie regelmässig und gibt ihr Wissen und Können weiter, auch in den Stilen des Baguathang und Taijichuan.
+Ob als Coach bei Turnieren, oder als Lehrerin, Melanie geniesst das Vertrauen aller Kinder, Jugendlichen und Erwachsenen.
 
 <a target="_blank" href="https://www.flickr.com/photos/117851037@N03/13424201455/" >Adlerform by Melanie</a>
 
@@ -46,13 +50,13 @@ Ihre Rangierungen bei den Swisswushu-Turnieren:
 		</tr> 
 		<tr> 
 			<td>1. QT 2009</td> 
-			<td>Traditional Routine Weapon Women</td> 
+			<td>Traditional Routine Weapon (F)</td> 
 			<td>2. Rang</td> 
 			<td>8.08</td> 
 		</tr> 
 		<tr> 
 			<td>1. QT 2009</td> 
-			<td>Traditional Routine without Weapon Women</td> 
+			<td>Traditional Routine without Weapon (F)</td> 
 			<td>1. Rang</td> 
 			<td>8.23</td> 
 		</tr> 

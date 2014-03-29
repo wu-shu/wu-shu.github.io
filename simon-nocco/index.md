@@ -4,7 +4,7 @@ title: Simon Nocco
 ---
 
 <img class="ifloat-left" src="/images/simon-nocco.jpg" alt="Simon Nocco" width="200px">
-Simon Nocco...
+Simon Nocco begann sein Wushu-Training mit 7 Jahren. Seit 10 Jahren trainiert er im Wu Shu Center Oberland. Simon ist Braungurt-Träger, mehrfacher Schweizer-Vizemeister in Waffenformen (Stock), Assistenzlehrer und eine wichtige Persönlichkeit im Wu Shu Center, die Vertrauen und Können in der Kampfkunst ausstrahlt.
 
 <a target="_blank" href="https://www.flickr.com/photos/117851037@N03/13425488713/" >Stock by Simon</a>
 

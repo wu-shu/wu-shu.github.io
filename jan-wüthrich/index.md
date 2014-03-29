@@ -4,7 +4,9 @@ title: Jan Wüthrich
 ---
 
 <img class="ifloat-left" src="/images/jan-wuethrich.jpg" alt="Jan Wüthrich" width="200px">
-Jan Wüthrich... Er nimmt zur Zeit nicht an den Swisswushu-Turnieren teil.
+Jan Wüthrich trainiert seit 10 Jahren im Wu Shu Center Oberland. Als Blaugurt-Träger hat er viele Jahre erfolgreich an den nationalen Turnieren teilgenommen und Podesterfahrung...
+Sein technisch hohes Niveau in der Kampfkunst macht ihn zu einem gerngesehenen Assistenzlehrer.
+Wir alle bewundern Jan's Fahrkünste. Er besucht das Training regelmässig mit sein bevorzugten Fahrzeug: ein gigantischer Traktor.
 
 <a target="_blank" href="https://www.flickr.com/photos/117851037@N03/13424573023/" >Kempo by Jan</a>
 
