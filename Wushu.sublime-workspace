@@ -8,22 +8,6 @@
 	"buffers":
 	[
 		{
-			"file": "marco-hauser/index.md",
-			"settings":
-			{
-				"buffer_size": 2479,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "pullover/index.md",
-			"settings":
-			{
-				"buffer_size": 969,
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "chiara-caduff/index.md",
 			"settings":
 			{
@@ -32,42 +16,10 @@
 			}
 		},
 		{
-			"file": "sandra-helbling/index.md",
-			"settings":
-			{
-				"buffer_size": 5559,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "simon-nocco/index.md",
-			"settings":
-			{
-				"buffer_size": 2312,
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "bilder/index.md",
 			"settings":
 			{
 				"buffer_size": 1663,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "melanie-keller/index.md",
-			"settings":
-			{
-				"buffer_size": 4182,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_layouts/splashscreen.html",
-			"settings":
-			{
-				"buffer_size": 3055,
 				"line_ending": "Windows"
 			}
 		}
@@ -108,7 +60,13 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/pullover/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/marco-hauser/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/melanie-keller/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/jan-wüthrich/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/_layouts/splashscreen.html",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/sandra-helbling/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/simon-nocco/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/tagelswangen/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/hittnau/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/rueti/index.md",
@@ -117,11 +75,9 @@
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/chris-ritter-2/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/wu-shu-fuer-kinder/index.md",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/melanie-keller/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/chiara-caduff/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/wetzikon/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/ladina-schneider/index.md",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/sandra-helbling/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/jeannette-weber/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/sierra-gartmann/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/bilder/index.md",
@@ -131,8 +87,6 @@
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/chris-ritter/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/taiji-chuan/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/qi-gong/index.md",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/simon-nocco/index.md",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/marco-hauser/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/adrien-eichenberger/index.md",
 		"/G/Jennette-Weber.jpg",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/images/jeannette-weber",
@@ -189,64 +143,10 @@
 	"groups":
 	[
 		{
-			"selected": 5,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "marco-hauser/index.md",
-					"settings":
-					{
-						"buffer_size": 2479,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								265,
-								152
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "pullover/index.md",
-					"settings":
-					{
-						"buffer_size": 969,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								911,
-								911
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
 					"file": "chiara-caduff/index.md",
 					"settings":
 					{
@@ -273,61 +173,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "sandra-helbling/index.md",
-					"settings":
-					{
-						"buffer_size": 5559,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								794,
-								794
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "simon-nocco/index.md",
-					"settings":
-					{
-						"buffer_size": 2312,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								250,
-								250
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
+					"buffer": 1,
 					"file": "bilder/index.md",
 					"settings":
 					{
@@ -350,61 +196,6 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "melanie-keller/index.md",
-					"settings":
-					{
-						"buffer_size": 4182,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								512,
-								512
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "_layouts/splashscreen.html",
-					"settings":
-					{
-						"buffer_size": 3055,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1682,
-								1682
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 411.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
