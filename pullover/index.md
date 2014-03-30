@@ -3,7 +3,7 @@ layout: default
 title: Die neuen Jacken können bestellt werden!
 ---
 
-<img class="ifloat-left" src="/images/pullover/wu-shu-pullover-rueckseite.jpg" alt="Wu Shu Pullover" width="250px">
+<img class="ifloat-left" src="/images/pullover/wu-shu-pullover-rueckseite.jpg" alt="Wu Shu Pullover" width="320px">
 <img class="ifloat-right" src="/images/pullover/wu-shu-pullover-vorderseite.jpg" alt="Wu Shu Pullover" width="280px">
 Die Jacken können bis zum 31.5. bestellt werden.  (P.S.:Ausnahmsweise ist dieser Termin verbindlich, da wir dann die Jacken drucken lassen)
 
