@@ -19,7 +19,7 @@
 			"file": "bilder/index.md",
 			"settings":
 			{
-				"buffer_size": 1663,
+				"buffer_size": 2082,
 				"line_ending": "Windows"
 			}
 		},
@@ -151,7 +151,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -186,15 +186,15 @@
 					"file": "bilder/index.md",
 					"settings":
 					{
-						"buffer_size": 1663,
+						"buffer_size": 2082,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1588,
-								1588
+								612,
+								612
 							]
 						],
 						"settings":

@@ -4,7 +4,7 @@ title: Adrien Eichenberger
 ---
 
 <img class="ifloat-left" src="/images/adrien-eichenberger.jpg" alt="Adrien Eichenberger" width="200px">
-Adrien Eichenberger...
+Adrien Eichenberger trainiert seit 5 Jahren das Shaolin Kung Fu. Seit einigen Monaten ist er ein gerngesehener "Neuzugang", dem wir viel Erfolg in seinen Kempo-Wettkämpfen wünschen.
 
 
 Seine Rangierungen bei den Swisswushu-Turnieren bisher:
