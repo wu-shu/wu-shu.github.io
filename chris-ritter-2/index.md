@@ -11,6 +11,11 @@ Master Chris Ritter...
 
 ...seine Geschichten und seine Schoggi...
 
+<ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
+<li><a class="button-contact-info">2004<img src="/images/chris_04.jpg"</a></li>
+<li><a class="button-contact-info" title="2005" src="/images/chris_05.jpg"</a></li>
+</ul>
+
 
 <img class="ifloat-left" src="/images/chris_04.jpg" alt="Chris Ritter" width="200px">
 <img class="ifloat-left" src="/images/chris_05.jpg" alt="Chris Ritter" width="200px">
