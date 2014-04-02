@@ -27,7 +27,7 @@
 			"file": "pullover/index.md",
 			"settings":
 			{
-				"buffer_size": 973,
+				"buffer_size": 949,
 				"line_ending": "Windows"
 			}
 		},
@@ -36,6 +36,14 @@
 			"settings":
 			{
 				"buffer_size": 674,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "chris-ritter-2/index.md",
+			"settings":
+			{
+				"buffer_size": 1201,
 				"line_ending": "Windows"
 			}
 		}
@@ -159,7 +167,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 4,
 			"sheets":
 			[
 				{
@@ -201,8 +209,8 @@
 						"selection":
 						[
 							[
-								612,
-								612
+								109,
+								43
 							]
 						],
 						"settings":
@@ -222,15 +230,15 @@
 					"file": "pullover/index.md",
 					"settings":
 					{
-						"buffer_size": 973,
+						"buffer_size": 949,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								567,
-								567
+								787,
+								787
 							]
 						],
 						"settings":
@@ -265,6 +273,34 @@
 							"syntax": "Packages/Markdown/Markdown.tmLanguage",
 							"target": "disk",
 							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "chris-ritter-2/index.md",
+					"settings":
+					{
+						"buffer_size": 1201,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								663,
+								663
+							]
+						],
+						"settings":
+						{
+							"parser": null,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"target": "disk"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
