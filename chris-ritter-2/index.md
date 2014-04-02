@@ -12,28 +12,15 @@ Master Chris Ritter...
 ...seine Geschichten und seine Schoggi...
 
 <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
-<li><a class="button-contact-info">2004<img src="/images/chris_04.jpg"</a></li>
-<li><a class="button-contact-info">2005<img src="/images/chris_05.jpg"</a></li>
-<li><a class="button-contact-info">2006<img src="/images/chris_06.jpg"</a></li>
-<li><a class="button-contact-info">2007<img src="/images/chris_07.jpg"</a></li>
-<li><a class="button-contact-info">2008<img src="/images/chris_08.jpg"</a></li>
-<li><a class="button-contact-info">2009<img src="/images/chris_09.jpg"</a></li>
-<li><a class="button-contact-info">2010<img src="/images/chris_10.jpg"</a></li>
-<li><a class="button-contact-info">2011<img src="/images/chris_11.jpg"</a></li>
-<li><a class="button-contact-info">2012<img src="/images/chris_12.jpg"</a></li>
-<li><a class="button-contact-info">2013<img src="/images/chris_13.jpg"</a></li>
-<li><a class="button-contact-info">2014<img src="/images/chris_14.jpg"</a></li>
+<li><a class="button-contact-place">2004<img src="/images/chris_04.jpg"</a></li>
+<li><a class="button-contact-place">2005<img src="/images/chris_05.jpg"</a></li>
+<li><a class="button-contact-place">2006<img src="/images/chris_06.jpg"</a></li>
+<li><a class="button-contact-place">2007<img src="/images/chris_07.jpg"</a></li>
+<li><a class="button-contact-place">2008<img src="/images/chris_08.jpg"</a></li>
+<li><a class="button-contact-place">2009<img src="/images/chris_09.jpg"</a></li>
+<li><a class="button-contact-place">2010<img src="/images/chris_10.jpg"</a></li>
+<li><a class="button-contact-place">2011<img src="/images/chris_11.jpg"</a></li>
+<li><a class="button-contact-place">2012<img src="/images/chris_12.jpg"</a></li>
+<li><a class="button-contact-place">2013<img src="/images/chris_13.jpg"</a></li>
+<li><a class="button-contact-place">2014<img src="/images/chris_14.jpg"</a></li>
 </ul>
-
-
-<img class="ifloat-left" src="/images/chris_04.jpg" alt="Chris Ritter" width="200px">
-<img class="ifloat-left" src="/images/chris_05.jpg" alt="Chris Ritter" width="200px">
-<img class="ifloat-left" src="/images/chris_06.jpg" alt="Chris Ritter" width="200px">
-<img class="ifloat-left" src="/images/chris_07.jpg" alt="Chris Ritter" width="200px">
-<img class="ifloat-left" src="/images/chris_08.jpg" alt="Chris Ritter" width="200px">
-<img class="ifloat-left" src="/images/chris_09.jpg" alt="Chris Ritter" width="200px">
-<img class="ifloat-left" src="/images/chris_10.jpg" alt="Chris Ritter" width="200px">
-<img class="ifloat-left" src="/images/chris_11.jpg" alt="Chris Ritter" width="200px">
-<img class="ifloat-left" src="/images/chris_12.jpg" alt="Chris Ritter" width="200px">
-<img class="ifloat-left" src="/images/chris_13.jpg" alt="Chris Ritter" width="200px">
-<img class="ifloat-left" src="/images/chris_14.jpg" alt="Chris Ritter" width="200px">
