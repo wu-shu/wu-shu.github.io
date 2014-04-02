@@ -27,7 +27,15 @@
 			"file": "pullover/index.md",
 			"settings":
 			{
-				"buffer_size": 976,
+				"buffer_size": 973,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "adrien-eichenberger/index.md",
+			"settings":
+			{
+				"buffer_size": 674,
 				"line_ending": "Windows"
 			}
 		}
@@ -151,7 +159,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -214,20 +222,49 @@
 					"file": "pullover/index.md",
 					"settings":
 					{
-						"buffer_size": 976,
+						"buffer_size": 973,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								682,
-								682
+								567,
+								567
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "adrien-eichenberger/index.md",
+					"settings":
+					{
+						"buffer_size": 674,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								310,
+								310
+							]
+						],
+						"settings":
+						{
+							"parser": null,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"target": "disk",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
