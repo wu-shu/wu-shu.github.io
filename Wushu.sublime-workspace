@@ -19,7 +19,7 @@
 			"file": "bilder/index.md",
 			"settings":
 			{
-				"buffer_size": 2082,
+				"buffer_size": 2086,
 				"line_ending": "Windows"
 			}
 		},
@@ -43,7 +43,7 @@
 			"file": "chris-ritter-2/index.md",
 			"settings":
 			{
-				"buffer_size": 1201,
+				"buffer_size": 1182,
 				"line_ending": "Windows"
 			}
 		}
@@ -202,15 +202,15 @@
 					"file": "bilder/index.md",
 					"settings":
 					{
-						"buffer_size": 2082,
+						"buffer_size": 2086,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								109,
-								43
+								38,
+								2086
 							]
 						],
 						"settings":
@@ -285,15 +285,15 @@
 					"file": "chris-ritter-2/index.md",
 					"settings":
 					{
-						"buffer_size": 1201,
+						"buffer_size": 1182,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								663,
-								663
+								1182,
+								1182
 							]
 						],
 						"settings":
@@ -303,7 +303,7 @@
 							"target": "disk"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 56.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
