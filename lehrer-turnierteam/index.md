@@ -30,7 +30,7 @@ Assistenztrainer
 
 
 ---
-Turnierteam
+Turnierteam <img src="/images/swisswushu.jpg" width="320" alt="Swisswushu">
 ---
 <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
 <li><a href="/chiara-caduff/" class="button-contact-place" title="Chiara Caduff">Chiara Caduff<img src="/images/chiara-caduff.jpg" width="320" height="240" alt="Chiara Caduff"></a></li>
@@ -38,5 +38,4 @@ Turnierteam
 <li><a href="/simon-nocco/" class="button-contact-place" title="Simon Nocco">Simon Nocco<img src="/images/simon-nocco.jpg" width="320" height="240" alt="Simon Nocco"></a></li>
 <li><a href="/jan-wüthrich/" class="button-contact-place" title="Jan Wüthrich">Jan Wüthrich<img src="/images/jan-wuethrich.jpg" width="320" height="240" alt="Jan Wüthrich"></a></li>
 <li><a href="/adrien-eichenberger/" class="button-contact-place" title="Adrien Eichenberger">Adrien Eichenberger<img src="/images/adrien-eichenberger.jpg" width="320" height="240" alt="Adrien Eichenberger"></a></li>
-<li><a href="http://www.swisswushu.ch/" class="button-contact-place" title="Swisswushu">Swisswushu<img src="/images/swisswushu.jpg" width="320" alt="Swisswushu">
 </ul>
