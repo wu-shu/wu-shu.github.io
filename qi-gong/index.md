@@ -3,7 +3,7 @@ layout: default
 title: Qi Gong
 ---
 
-Qi Gong ist ein System von Übungen, das die Anwendung der mentalen und physischen Energie des Menschen für Gesundheit und Lebenskraft vermittelt.
+<img class="ifloat-right" src="/images/qi-gong.png" alt="Qi Gong">Qi Gong ist ein System von Übungen, das die Anwendung der mentalen und physischen Energie des Menschen für Gesundheit und Lebenskraft vermittelt.
 Seit über 2000 Jahren ist das Qi Gong ein wichtiger Bestandteil der traditionellen chinesischen Medizin und der fortgeschrittenen Kampfkünste.
 Es sind Übungen, die Spass machen und gut tun. Es ist eine interessante, angenehm-spannende Methode, seine Gesundheit merkbar selbst zu lenken, beeinflussen und zu verbessern. Durch die sanften, fliessenden Bewegungen werden Probleme und Funktion von Wirbelsäule, Hals, Schulter und Kniegelenken angegangen und verbessert. 
 Herz-Kreislauf-Funktion, Atem und Stoffwechselfunktionen können eigenständig verbessert werden.

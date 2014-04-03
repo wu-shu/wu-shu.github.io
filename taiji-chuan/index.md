@@ -3,7 +3,7 @@ layout: default
 title: Taijichuan
 ---
 
-Im 12. Jahrhundert (A.D.) entstand auf dem für die Taoisten heiligen Berg (Wudang) eine neue Schule der «inneren» Kampfkünste, das Taijichuan. Die «innere» Schule folgte den Prinzipien der Entspannung, Atmung und fliessenden Bewegungen, sowie der bewussten Führung des Qi (Energie) in den Kampftechniken.
+<img class="ifloat-right" src="/images/tao.jpg" alt="Tao">Im 12. Jahrhundert (A.D.) entstand auf dem für die Taoisten heiligen Berg (Wudang) eine neue Schule der «inneren» Kampfkünste, das Taijichuan. Die «innere» Schule folgte den Prinzipien der Entspannung, Atmung und fliessenden Bewegungen, sowie der bewussten Führung des Qi (Energie) in den Kampftechniken.
 
 Im Taichichuan werden Bewegungen ruhig und langsam im Einklang mit dem Atem in kurzen und langen Formen ausgeübt. Die Bewegungen erlauben einen konzentrierten Muskelaufbau, massieren die Organe und machen das Taijichuan zur Bewegungsmeditation.
 
