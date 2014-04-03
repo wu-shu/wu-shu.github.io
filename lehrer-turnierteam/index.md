@@ -30,8 +30,9 @@ Assistenztrainer
 
 
 ---
-Turnierteam <img class="ifloat-right" src="/images/swisswushu.jpg" alt="Swisswushu" width="150px">
+Turnierteam <img class="ifloat-right" src="/images/swisswushu.jpg" alt="Swisswushu" width="100px">
 ---
+<br>
 <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
 <li><a href="/chiara-caduff/" class="button-contact-place" title="Chiara Caduff">Chiara Caduff<img src="/images/chiara-caduff.jpg" width="320" height="240" alt="Chiara Caduff"></a></li>
 <li><a href="/sandra-helbling/" class="button-contact-place" title="Sandra Helbling">Sandra Helbling<img src="/images/sandra-helbling.jpg" width="320" height="240" alt="Sandra Helbling"></a></li>
