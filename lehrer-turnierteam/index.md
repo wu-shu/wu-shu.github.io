@@ -30,7 +30,7 @@ Assistenztrainer
 
 
 ---
-Turnierteam <img class="ifloat-right" src="/images/swisswushu.jpg" width="150px" alt="Swisswushu">
+Turnierteam <img class="ifloat-right" src="/images/swisswushu.jpg" alt="Swisswushu" width="150px">
 ---
 <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
 <li><a href="/chiara-caduff/" class="button-contact-place" title="Chiara Caduff">Chiara Caduff<img src="/images/chiara-caduff.jpg" width="320" height="240" alt="Chiara Caduff"></a></li>
