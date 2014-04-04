@@ -24,42 +24,26 @@
 			}
 		},
 		{
-			"file": "infos-kontakt/wetzikon/index.md",
+			"file": "infos-kontakt/index.md",
 			"settings":
 			{
-				"buffer_size": 423,
+				"buffer_size": 1433,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "infos-kontakt/tagelswangen/index.md",
+			"file": "qi-gong/index.md",
 			"settings":
 			{
-				"buffer_size": 466,
+				"buffer_size": 1068,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "infos-kontakt/rueti/index.md",
+			"file": "taiji-chuan/index.md",
 			"settings":
 			{
-				"buffer_size": 389,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "infos-kontakt/hittnau/index.md",
-			"settings":
-			{
-				"buffer_size": 418,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "lehrer-turnierteam/index.md",
-			"settings":
-			{
-				"buffer_size": 3451,
+				"buffer_size": 870,
 				"line_ending": "Windows"
 			}
 		}
@@ -100,6 +84,11 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/wetzikon/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/tagelswangen/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/rueti/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/hittnau/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/adrien-eichenberger/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/pullover/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/chiara-caduff/index.md",
@@ -110,15 +99,10 @@
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/jan-wüthrich/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/_layouts/splashscreen.html",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/sandra-helbling/index.md",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/tagelswangen/index.md",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/hittnau/index.md",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/rueti/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/michaela-sobo/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/chris-ritter-2/index.md",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/wu-shu-fuer-kinder/index.md",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/wetzikon/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/ladina-schneider/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/jeannette-weber/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/bilder/index.md",
@@ -183,7 +167,6 @@
 	"groups":
 	[
 		{
-			"selected": 6,
 			"sheets":
 			[
 				{
@@ -237,25 +220,25 @@
 							"target": "disk"
 						},
 						"translation.x": 0.0,
-						"translation.y": 56.0,
+						"translation.y": 26.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "infos-kontakt/wetzikon/index.md",
+					"file": "infos-kontakt/index.md",
 					"settings":
 					{
-						"buffer_size": 423,
+						"buffer_size": 1433,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								149,
-								149
+								657,
+								657
 							]
 						],
 						"settings":
@@ -270,18 +253,18 @@
 				},
 				{
 					"buffer": 3,
-					"file": "infos-kontakt/tagelswangen/index.md",
+					"file": "qi-gong/index.md",
 					"settings":
 					{
-						"buffer_size": 466,
+						"buffer_size": 1068,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								167,
-								167
+								1068,
+								1068
 							]
 						],
 						"settings":
@@ -296,18 +279,18 @@
 				},
 				{
 					"buffer": 4,
-					"file": "infos-kontakt/rueti/index.md",
+					"file": "taiji-chuan/index.md",
 					"settings":
 					{
-						"buffer_size": 389,
+						"buffer_size": 870,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								76,
-								62
+								99,
+								99
 							]
 						],
 						"settings":
@@ -316,58 +299,6 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "infos-kontakt/hittnau/index.md",
-					"settings":
-					{
-						"buffer_size": 418,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								299,
-								299
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "lehrer-turnierteam/index.md",
-					"settings":
-					{
-						"buffer_size": 3451,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2419,
-								2419
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 296.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
