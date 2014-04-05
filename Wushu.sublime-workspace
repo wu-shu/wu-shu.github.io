@@ -8,42 +8,10 @@
 	"buffers":
 	[
 		{
-			"file": "bilder/index.md",
+			"file": "_includes/navigation.html",
 			"settings":
 			{
-				"buffer_size": 2086,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "chris-ritter-2/index.md",
-			"settings":
-			{
-				"buffer_size": 2167,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "infos-kontakt/index.md",
-			"settings":
-			{
-				"buffer_size": 1433,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "qi-gong/index.md",
-			"settings":
-			{
-				"buffer_size": 1068,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "taiji-chuan/index.md",
-			"settings":
-			{
-				"buffer_size": 870,
+				"buffer_size": 637,
 				"line_ending": "Windows"
 			}
 		}
@@ -84,34 +52,34 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/bilder/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/chris-ritter-2/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/marco-hauser/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/pullover/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/qi-gong/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/taiji-chuan/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/chris-ritter/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/wu-shu/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/shaolin-kung-fu/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/ladina-schneider/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/sierra-gartmann/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/sandra-helbling/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/jeannette-weber/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/wu-shu-fuer-kinder/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/melanie-keller/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/wetzikon/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/tagelswangen/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/rueti/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/hittnau/index.md",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/adrien-eichenberger/index.md",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/pullover/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/chiara-caduff/index.md",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/melanie-keller/index.md",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/sierra-gartmann/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/simon-nocco/index.md",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/marco-hauser/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/jan-wüthrich/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/_layouts/splashscreen.html",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/sandra-helbling/index.md",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/michaela-sobo/index.md",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/chris-ritter-2/index.md",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/wu-shu-fuer-kinder/index.md",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/ladina-schneider/index.md",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/jeannette-weber/index.md",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/bilder/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/images/stundenplaene/stundenplan-rueti.png",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/shaolin-kung-fu/index.md",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/wu-shu/index.md",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/chris-ritter/index.md",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/taiji-chuan/index.md",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/qi-gong/index.md",
 		"/G/Jennette-Weber.jpg",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/images/jeannette-weber",
 		"/G/fsturnier13.JPG",
@@ -171,131 +139,23 @@
 			[
 				{
 					"buffer": 0,
-					"file": "bilder/index.md",
+					"file": "_includes/navigation.html",
 					"settings":
 					{
-						"buffer_size": 2086,
+						"buffer_size": 637,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								38,
-								2086
+								637,
+								637
 							]
 						],
 						"settings":
 						{
-							"parser": null,
-							"syntax": "Packages/Markdown/Markdown.tmLanguage",
-							"target": "disk"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "chris-ritter-2/index.md",
-					"settings":
-					{
-						"buffer_size": 2167,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2012,
-								2012
-							]
-						],
-						"settings":
-						{
-							"parser": null,
-							"syntax": "Packages/Markdown/Markdown.tmLanguage",
-							"target": "disk"
-						},
-						"translation.x": 0.0,
-						"translation.y": 26.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "infos-kontakt/index.md",
-					"settings":
-					{
-						"buffer_size": 1433,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								657,
-								657
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "qi-gong/index.md",
-					"settings":
-					{
-						"buffer_size": 1068,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1068,
-								1068
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "taiji-chuan/index.md",
-					"settings":
-					{
-						"buffer_size": 870,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								99,
-								99
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
