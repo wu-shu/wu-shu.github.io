@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Die neuen Jacken können bestellt werden!
+title: Es gibt neuen Jacken!
 ---
 
 <img class="ifloat-left" src="/images/pullover/wu-shu-pullover-rueckseite.jpg" alt="Wu Shu Pullover" width="340px">
 <img class="ifloat-right" src="/images/pullover/wu-shu-pullover-vorderseite.jpg" alt="Wu Shu Pullover" width="320px">
 
 
-Die Jacken können bis zum 31.5. bestellt werden.  (P.S.:Ausnahmsweise ist dieser Termin verbindlich, da die Jacken dann gedruckt werden)
+Die Jacken können bis zum 31.5. bestellt werden.  (P.S.:Ausnahmsweise ist dieser Termin verbindlich, da die Jacken dann bedruckt werden)
 
 Je mehr Bestellungen wir haben, desto günstiger werden die Jacken. Für Erwachsene wird der Preis zwischen 80.- bis 100.- SFr. liegen. Für Kinder ca. 20.- SFr weniger.
 

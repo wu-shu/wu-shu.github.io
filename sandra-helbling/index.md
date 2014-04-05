@@ -5,7 +5,7 @@ title: Sandra Helbling
 
 <img class="ifloat-left" src="/images/sandra-helbling.jpg" alt="Sandra Helbling" width="200px">
 Sandra Helbling trainiert seit über 12 Jahren im Wu Shu Center Oberland. Keiner weiss, ob sie jemals zur Schule gegangen ist, geschlafen oder gegessen hat... Fünf bis sechs Tage in der Woche konnten wir ihr grinsendes Gesicht in den Kinderstunden sehen. Selbst ihre Eltern baten uns, ihr tägliches mehrstündiges Training zu reduzieren, da sie ihr geliebtes Kind nur wenig sahen. Hervorragende Beweglichkeit, Fleiss, Technik in Form und Kampf zeichnen sie aus, wie auch die Erfolge an den nationalen Turnieren (Swisswushu), an denen sie sich zu einer der erfolgreichsten Kampfkunstathletin in der Schweiz entwickelte. 
-Trotz ihrer intensiven Schul- und Arbeits-Ausbildung trainiert Sandra immernoch sehr intensiv und unterrichtet Kinder und erwachsene Klassen.
+Trotz ihrer intensiven Schul- und Arbeits-Ausbildung trainiert Sandra immer noch sehr intensiv und unterrichtet Kinder- und Erwachsenenklassen.
 
 <a target="_blank" href="https://www.flickr.com/photos/117851037@N03/13425342923/" >Langstock by Sandra</a>
 

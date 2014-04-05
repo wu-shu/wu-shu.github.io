@@ -23,14 +23,14 @@ Assistenztrainer
 <li><a href="/sandra-helbling/" class="button-contact-place" title="Sandra Helbling">Sandra Helbling<img src="/images/sandra-helbling.jpg" width="320" height="240" alt="Sandra Helbling"></a></li>
 <li><a href="/sierra-gartmann/" class="button-contact-place" title="Sierra Gartmann">Sierra Gartmann<img src="/images/sierra-gartmann.jpg" width="320" height="240" alt="Sierra Gartmann"></a></li>
 <li><a href="/ladina-schneider" class="button-contact-place" title="Ladina Schneider">Ladina Schneider<img src="/images/ladina-schneider.jpg" width="320" height="240" alt="Ladina Schneider"></a></li>
-<li><a href="/cyrill-kaiser/" class="button-contact-place" title="Cyrill Kaiser">Cyrill Kaiser</a></li>
-<li><a href="/nino-rietmann/" class="button-contact-place" title="Nino Rietmann">Nino Rietmann</a></li>
-<li><a href="/nino-rietmann/" class="button-contact-place" title="Dario Tenore">Dario Tenore</a></li>
+<li><a class="button-contact-place" title="Cyrill Kaiser">Cyrill Kaiser</a></li>
+<li><a class="button-contact-place" title="Nino Rietmann">Nino Rietmann</a></li>
+<li><a class="button-contact-place" title="Dario Tenore">Dario Tenore</a></li>
 </ul>
 
 
 ---
-Turnierteam <img class="ifloat-right" src="/images/swisswushu.jpg" alt="Swisswushu" width="100px">
+Turnierteam <img href="http://www.swisswushu.ch/" class="ifloat-right" src="/images/swisswushu.jpg" alt="Swisswushu" width="100px">
 ---
 <br>
 <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
