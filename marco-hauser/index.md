@@ -115,11 +115,5 @@ Seine Rangierungen bei den Swisswushu-Turnieren bisher:
 			<td>1. Rang</td> 
 			<td>8.03</td> 
 		</tr> 
-		<tr> 
-			<td>SM 2012</td> 
-			<td></td> 
-			<td></td> 
-			<td></td> 
-		</tr> 
 	</tbody>
 </table>
