@@ -7,7 +7,7 @@ title: Marco Hauser
 Er wolle Kung Fu lernen, aber mit 12 Jahren sei er noch zu jung "sagte seine Mutter...."
 Zwei Jahre später begann Marco Hauser sein Shaolin Kung Fu Training im Wu Shu Center Oberland. Bis heute gehört er zum engen Kreis der Lehrer und Schüler, die mit ihrer Persönlichkeit die Schule unterstützen und unentbehrlich sind.
 Neben dem Training im Wu Shu Center Oberland (dem Moh Stil und dem Taijichuan) hat Marco bei vielen mehrwöchigen Auslandaufenthalten in China sein Wissen vom Shaolin Kung Fu und anderen Stilen des Wu Shu vertieft.
-Seine Bekanntschaft und Training mit dem legendären Sholin Grossmeister Shi de Cheng ermöglichte unserer Schule in 2013 ein Trainings-Seminar mit ihm zu erleben.
+Seine Bekanntschaft und Training mit dem legendären Shaolin Grossmeister Shi de Cheng ermöglichte unserer Schule in 2013 ein Trainings-Seminar mit ihm zu erleben.
 Marco hat an vielen nationalen und internationalen Turnieren erfolgreich teilgenommen und nie "neben dem Podest gestanden."
 Er betreibt seine eigene Schule (in Dürnten) im Rahmen des Wu Shu Center Oberland und ist als Lehrer im Shaolin Kung Fu und Taijichuan ausgebildet. Als Coach unterstützt Marco die Turniermannschaft als regelmässiger Begleiter. 
 Zum Glück ist er nicht mehr 12 Jahre alt....

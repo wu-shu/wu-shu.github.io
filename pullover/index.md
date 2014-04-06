@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Es gibt neuen Jacken!
+title: Es gibt neue Jacken!
 ---
 
 <img class="ifloat-left" src="/images/pullover/wu-shu-pullover-rueckseite.jpg" alt="Wu Shu Pullover" width="340px">

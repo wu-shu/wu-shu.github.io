@@ -14,6 +14,22 @@
 				"buffer_size": 637,
 				"line_ending": "Windows"
 			}
+		},
+		{
+			"file": "qi-gong/index.md",
+			"settings":
+			{
+				"buffer_size": 1106,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "taiji-chuan/index.md",
+			"settings":
+			{
+				"buffer_size": 863,
+				"line_ending": "Windows"
+			}
 		}
 	],
 	"build_system": "",
@@ -135,6 +151,7 @@
 	"groups":
 	[
 		{
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -156,6 +173,58 @@
 						"settings":
 						{
 							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "qi-gong/index.md",
+					"settings":
+					{
+						"buffer_size": 1106,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								52,
+								52
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "taiji-chuan/index.md",
+					"settings":
+					{
+						"buffer_size": 863,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								55,
+								55
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
