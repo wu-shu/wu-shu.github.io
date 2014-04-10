@@ -12,7 +12,7 @@ title: Infos / Kontakt
 
 ### Allgemeine Infos und Kontakt
 <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
-<li><a target="_blank" href="http://www.wu-shu.ch/images/agenda.pdf/" class="button-contact-info">Agenda</a></li>
+<li><a target="_blank" href="http://www.wu-shu.ch/images/agenda.pdf" class="button-contact-info">Agenda</a></li>
 <li><a href="/infos-kontakt/preise/" class="button-contact-info">Preise</a></li>
 <li><a href="/infos-kontakt/kontakt-anmeldung/" class="button-contact-info">Kontakt / Anmeldung</a></li>
 </ul>
