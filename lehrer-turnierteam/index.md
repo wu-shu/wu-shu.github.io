@@ -3,8 +3,7 @@ layout: default
 title: Lehrer / Turnierteam
 ---
 
-Lehrer
----
+##Lehrer
 
 <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
 <li><a href="/chris-ritter-2/" class="button-contact-place" title="Master Chris Ritter">Chris Ritter, 7. Dan<img src="/images/cr.jpg" width="320" height="240" alt="Chris Ritter"></a></li>
@@ -13,9 +12,8 @@ Lehrer
 <li><a href="/michaela-sobo/" class="button-contact-place" title="Michaela Sobo">Michaela Sobo, 1. Dan<img src="/images/michaela-sobo.jpg" width="320" height="240" alt="Michaela Sobosczyk"></a></li>
 </ul>
 
----
-Assistenztrainer
----
+- - -
+##Assistenztrainer
 
 <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
 <li><a href="/jeannette-weber/" class="button-contact-place" title="Jeannette Weber">Jeannette Weber<img src="/images/jeannette-weber.jpg" width="320" height="240" alt="Jeannette Weber"></a></li>
@@ -29,9 +27,9 @@ Assistenztrainer
 </ul>
 
 
----
-Turnierteam <img href="http://www.swisswushu.ch/" class="button-contact-place" src="/images/swisswushu.jpg" alt="Swisswushu" width="100px">
----
+- - -
+##Turnierteam <a href="http://www.swisswushu.ch/"><img src="/images/swisswushu.jpg" alt="Swisswushu" width="70px"></a>
+
 <br>
 <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
 <li><a href="/chiara-caduff/" class="button-contact-place" title="Chiara Caduff">Chiara Caduff<img src="/images/chiara-caduff.jpg" width="320" height="240" alt="Chiara Caduff"></a></li>
