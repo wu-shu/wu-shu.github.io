@@ -42,6 +42,15 @@ body {
     border-radius: 5px;
   }
 }
+// lehrer-turnierteam back button
+.back-button {
+  padding: 10px;
+  border: 2px solid #cc9900;
+  border-radius: 10px;
+  a {
+    color: $secondary-color;
+  }
+}
 
 /*  navigation */
 ul.side-nav {

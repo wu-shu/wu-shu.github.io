@@ -47,6 +47,11 @@
   <!-- Content -->
   <div class="medium-9 columns content">
     <div class="content-title">
+      <!-- Add Back Button if the current location is a subdirectory of leher-turnierteam -->
+      {% assign location = page.url | remove_first:'/' | split:'/' %}
+      {% if location[0] == "lehrer-turnierteam" and location[1] != "index.html" %}
+      <div class="right back-button"><a href="/lehrer-turnierteam">&#8592; zurück</a></div>
+      {% endif %}
       <h2>{{ page.title}}</h2>
     </div>
     <div class="content-body">
