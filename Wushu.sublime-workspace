@@ -14,6 +14,14 @@
 				"buffer_size": 13,
 				"line_ending": "Windows"
 			}
+		},
+		{
+			"file": "infos-kontakt/index.md",
+			"settings":
+			{
+				"buffer_size": 1444,
+				"line_ending": "Windows"
+			}
 		}
 	],
 	"build_system": "",
@@ -135,7 +143,6 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
 				{
@@ -157,6 +164,32 @@
 						"settings":
 						{
 							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "infos-kontakt/index.md",
+					"settings":
+					{
+						"buffer_size": 1444,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								668,
+								668
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
