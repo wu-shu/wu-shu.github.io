@@ -13,7 +13,7 @@ Sein Kampfsystem nannte er die „Lange Faust“, (Tàizŭ Changquang oder auch 
 Frühzeitig, aggressiver Angriff mit starken Schlag- und Faustkombinationen, wie auch geradlinige Kicks mit der Ferse oder dem Fussballen waren ein Kennzeichen des Stils. Doch das Kampfsystem Tàizŭ’s beinhaltete auch Techniken und Grundlagen, die später in vielen nördlichen Kampfkunst-Systemen Anwendung fanden. Ähnlich wie im Taijiquan, nutzte das Long Fist System das weiche Ableiten und die Prinzipien der 13 postures oder 13 kinetischen Bewegungen, die später die Grundlage des Taijiquans bildeten.<br>
 Mit den 13 kinetischen Bewegungen, welche Qinna und Shuaj jiao (Greif-, Wrestling und Bodenkampf) enthalten, entwickelte sich die lange Faust zu einem kompletten, klassischen Kampf- (Kombat-)Stil, der alle vier Kategorien der Kampfkünste beinhaltet:
 
-<img class="ifloat-right" src="/images/longfist_2.jpg" alt="Longfist">
+<img class="ifloat-right" src="/images/longfist_2.jpg" alt="Longfist" width="200px">
 Kicks 				(Ti)<br>
 Schläge mit der Hand 	(Da)<br>
 Wrestling 			(Shuai)<br>
@@ -23,4 +23,4 @@ Im Jahre 984 A.D. war das Kampfkunst-System Long Fist als komplettes System doku
 Erwähnt wurden die Einflüsse des Tàizŭ Changquan (Long Fist) Systems in den Familienschriften der Yang-Stil Familie in der zweiten Hälfte des 19. Jahrhunderts.<br>
 Über Jahrhunderte hinweg blieb das Long Fist-Kung Fu der Stil der Armee-Elite. Auch unter späteren Kaiser, die den geheimen Kampfkünsten in den Klöstern (Shaolin) zur Kriegerausbildung nahestanden.<br>
 Long Fist-Kung Fu gehört in der heutigen Zeit zu den fünf Hauptstilrichtungen der Patriarchen des Shaolin Klosters.
-<img class="ifloat-left" src="/images/longfist_3.jpg" alt="Longfist">
+<img class="ifloat-left" src="/images/longfist_3.jpg" alt="Longfist" width="200px">
