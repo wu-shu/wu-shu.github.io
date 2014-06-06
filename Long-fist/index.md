@@ -17,7 +17,7 @@ Frühzeitig, aggressiver Angriff mit starken Schlag- und Faustkombinationen, wie
 
 Mit den 13 kinetischen Bewegungen, welche Qinna und Shuaj jiao (Greif-, Wrestling und Bodenkampf) enthalten, entwickelte sich die lange Faust zu einem kompletten, klassischen Kampf- (Combat-)Stil, der alle vier Kategorien der Kampfkünste beinhaltet:
 
-<img class="ifloat-right" src="/images/longfist_2.jpg" alt="Longfist">
+<img class="ifloat-right" src="/images/longfist_2.png" alt="Longfist">
 Kicks 				(Ti)
 
 Schläge mit der Hand 	(Da)
