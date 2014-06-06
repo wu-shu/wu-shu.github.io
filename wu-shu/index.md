@@ -4,7 +4,7 @@ title: Wu Shu
 ---
 
 Wu Shu ist die Bezeichnung aller chinesischen Kampfkünste.
-Im Wu Shu Center wird das Shaolin Kung Fu, das traditionelle Nan Chuan (5 Tiere-Kung Fu) und Chang Chuan (lange Faust) gelehrt. Sie gehören der harten, "äusseren" Schule an.
+Im Wu Shu Center wird das Shaolin Kung Fu, das traditionelle Nan Chuan (5 Tiere-Kung Fu) und [Changquan (lange Faust)](http://www.wu-shu.ch/long-fist) gelehrt. Sie gehören der harten, "äusseren" Schule an.
 
 Das Wudang Mountain Kung Fu ist ein Stil der weichen, "inneren" Schule und wird ab fortgeschrittenem Niveau gelehrt.
 
