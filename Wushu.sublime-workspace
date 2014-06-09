@@ -8,18 +8,10 @@
 	"buffers":
 	[
 		{
-			"file": "bilder/index.md",
-			"settings":
-			{
-				"buffer_size": 2575,
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "chris-ritter/index.md",
 			"settings":
 			{
-				"buffer_size": 1380,
+				"buffer_size": 1379,
 				"line_ending": "Windows"
 			}
 		},
@@ -35,7 +27,7 @@
 			"file": "long-fist/index.md",
 			"settings":
 			{
-				"buffer_size": 3099,
+				"buffer_size": 3129,
 				"line_ending": "Windows"
 			}
 		}
@@ -76,6 +68,7 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/bilder/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/Long-fist/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/CNAME",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/index.md",
@@ -87,7 +80,6 @@
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/marco-hauser/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/taiji-chuan/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/_includes/navigation.html",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/bilder/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/chris-ritter-2/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/chris-ritter/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/shaolin-kung-fu/index.md",
@@ -161,29 +153,28 @@
 	"groups":
 	[
 		{
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "bilder/index.md",
+					"file": "chris-ritter/index.md",
 					"settings":
 					{
-						"buffer_size": 2575,
+						"buffer_size": 1379,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								325,
-								325
+								851,
+								851
 							]
 						],
 						"settings":
 						{
-							"parser": null,
-							"syntax": "Packages/Markdown/Markdown.tmLanguage",
-							"target": "disk"
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -193,18 +184,18 @@
 				},
 				{
 					"buffer": 1,
-					"file": "chris-ritter/index.md",
+					"file": "wu-shu/index.md",
 					"settings":
 					{
-						"buffer_size": 1380,
+						"buffer_size": 1267,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3,
-								3
+								239,
+								239
 							]
 						],
 						"settings":
@@ -219,52 +210,28 @@
 				},
 				{
 					"buffer": 2,
-					"file": "wu-shu/index.md",
-					"settings":
-					{
-						"buffer_size": 1267,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								248,
-								248
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
 					"file": "long-fist/index.md",
 					"settings":
 					{
-						"buffer_size": 3099,
+						"buffer_size": 3129,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1941,
-								1941
+								1842,
+								1842
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+							"parser": null,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"target": "disk"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 304.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

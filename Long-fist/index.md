@@ -10,7 +10,19 @@ Die 30 Jahre dauernden Bauernkriege führten zum Ende der Tang Dynastie (907 A.D
 Aus dem Norden drangen Nomadenbanden in die Zentralgebiete Chinas, welche plünderten und mordeten. Diese „Kitangruppen“ wurden unter dem Kaiser Chai Rong besiegt und die Provinz Hebei befreit (959 A.D.) (Peking lag in Hebei).
 Im Jahr 960 A.D. wurde der berühmte Feldherr Zhao Kuang yin zum ersten Kaiser der dann beginnenden Song Dynastie (960-976 A.D.) ernannt. Er nahm den Kaisernamen Tàizŭ an (Grosser Ahnherr) und gründete einen Kempo-Stil (Zweikampf), den die gesamte kaiserliche Garde und Armee-Elite lernte.<br>
 Sein Kampfsystem nannte er die „Lange Faust“, (Tàizŭ Changquang oder auch Long Fist). Tàizŭ’s Kampfausbildung hatte starke Shaolin Kung Fu Einflüsse. Tàizŭ stand dem Shaolin Kloster sehr nahe, trotzdem war der Klosterstil ihm zu kompliziert und sein Ziel war es, seinen Soldaten einen einfachen, schnell erlernbaren Kampfstil zu lehren. Die Lange Faust enthielt 32 Bewegungsabläufe.<br>
-Frühzeitig, aggressiver Angriff mit starken Schlag- und Faustkombinationen, wie auch geradlinige Kicks mit der Ferse oder dem Fussballen waren ein Kennzeichen des Stils. Doch das Kampfsystem Tàizŭ’s beinhaltete auch Techniken und Grundlagen, die später in vielen nördlichen Kampfkunst-Systemen Anwendung fanden. Ähnlich wie im Taijiquan, nutzte das Long Fist System das weiche Ableiten und die Prinzipien der 13 postures oder 13 kinetischen Bewegungen, die später die Grundlage des Taijiquans bildeten.<br>
+Frühzeitig, aggressiver Angriff mit starken Schlag- und Faustkombinationen, wie auch geradlinige Kicks mit der Ferse oder dem Fussballen waren ein Kennzeichen des Stils. <br>
+Meist wurde aus den Stellungen des Pferdes, Schlange und Drachen gekämpft. Schläge mit den Unterarmknochen, Schienbein und Ellbogen wurden in Kombinationen angewendet. Es wurden keine „klassischen Abwehrblocks“ genutzt sondern Ausweichmanöver, um zur gleichen Zeit den Gegner ausser Gefecht zu setzen.
+Ein Merkmal von Long Fist-Techniken ist das Brechen von Gliedmassen des Gegners. Aus diesen Gründen war das harte Training an Bäumen ein Bestandteil des Stils. Typische Waffen sind:<br>
+Lang Stock (Gun)<br>
+Säbel (Dao)<br>
+Hellebarde (Pudao)<br>
+Doppelsäbel (Shuang Dao)<br>
+Schwert (Jian)<br>
+Speer (Qiang)<br>
+Kette (Bian)
+
+
+Doch das Kampfsystem Tàizŭ’s beinhaltete auch Techniken und Grundlagen, die später in vielen nördlichen Kampfkunst-Systemen Anwendung fanden. Ähnlich wie im Taijiquan, nutzte das Long Fist System das weiche Ableiten und die Prinzipien der 13 postures oder 13 kinetischen Bewegungen, die später die Grundlage des Taijiquans bildeten.<br>
 <img class="ifloat-right" src="/images/longfist_2.jpg" alt="Longfist" width="200px">
 Mit den 13 kinetischen Bewegungen, welche Qinna und Shuaj jiao (Greif-, Wrestling und Bodenkampf) enthalten, entwickelte sich die lange Faust zu einem kompletten, klassischen Kampf- (Kombat-)Stil, der alle vier Kategorien der Kampfkünste beinhaltet:
 
