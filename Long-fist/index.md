@@ -12,8 +12,10 @@ Im Jahr 960 A.D. wurde der berühmte Feldherr Zhao Kuang yin zum ersten Kaiser d
 Sein Kampfsystem nannte er die „Lange Faust“, (Tàizŭ Changquang oder auch Long Fist). Tàizŭ’s Kampfausbildung hatte starke Shaolin Kung Fu Einflüsse. Tàizŭ stand dem Shaolin Kloster sehr nahe, trotzdem war der Klosterstil ihm zu kompliziert und sein Ziel war es, seinen Soldaten einen einfachen, schnell erlernbaren Kampfstil zu lehren. Die Lange Faust enthielt 32 Bewegungsabläufe.<br>
 Frühzeitig, aggressiver Angriff mit starken Schlag- und Faustkombinationen, wie auch geradlinige Kicks mit der Ferse oder dem Fussballen waren ein Kennzeichen des Stils. <br>
 Meist wurde aus den Stellungen des Pferdes, Schlange und Drachen gekämpft. Schläge mit den Unterarmknochen, Schienbein und Ellbogen wurden in Kombinationen angewendet. Es wurden keine „klassischen Abwehrblocks“ genutzt sondern Ausweichmanöver, um zur gleichen Zeit den Gegner ausser Gefecht zu setzen.
-Ein Merkmal von Long Fist-Techniken ist das Brechen von Gliedmassen des Gegners. Aus diesen Gründen war das harte Training an Bäumen ein Bestandteil des Stils. Typische Waffen sind:<br>
+Ein Merkmal von Long Fist-Techniken ist das Brechen von Gliedmassen des Gegners. Aus diesen Gründen war das harte Training an Bäumen ein Bestandteil des Stils. Typische Waffen sind:
 <img class="right" src="/images/longfist_2.jpg" alt="Longfist" width="200px">
+
+
 Lang Stock (Gun)<br>
 Säbel (Dao)<br>
 Hellebarde (Pudao)<br>
@@ -34,6 +36,6 @@ Greifen 			(Qin Na)
 
 Im Jahre 984 A.D. war das Kampfkunst-System Long Fist als komplettes System dokumentiert. Im Jahre 1247 entwickelte Chang San Feng ein Kampfkunst-System der „inneren Schule“, das Taijiquan. Es war sehr von Tàizŭ’s System beeinflusst worden. General Chen Wang Ting benutzte die weitverbreitete Information des Tàizŭ Changquan bei der Entwicklung des Chen-Stils in 1618.<br>
 Erwähnt wurden die Einflüsse des Tàizŭ Changquan (Long Fist) Systems in den Familienschriften der Yang-Stil Familie in der zweiten Hälfte des 19. Jahrhunderts.<br>
-<img class="ifloat-left" src="/images/longfist_3.jpg" alt="Longfist" width="250px">
+<img class="ifloat-left" src="/images/longfist_3.jpg" alt="Longfist" width="270px">
 Über Jahrhunderte hinweg blieb das Long Fist-Kung Fu der Stil der Armee-Elite. Auch unter späteren Kaiser, die den geheimen Kampfkünsten in den Klöstern (Shaolin) zur Kriegerausbildung nahestanden.<br>
 Long Fist-Kung Fu gehört in der heutigen Zeit zu den fünf Hauptstilrichtungen der Patriarchen des Shaolin Klosters.
