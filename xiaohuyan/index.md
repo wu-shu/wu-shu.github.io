@@ -5,9 +5,9 @@ title: Nord Shaolin
 
 Long Fist - Praying Mantis Kung Fu (Shaolin Changquan, Tang Lang) <br>
 
-XIAO HU YAN  			(die brüllende Tigerfaust; kleiner, junger Tiger – Schwalbe)<br>
-		Long Fist 		(Lange Faust)<br>
-		Praying Mantis 	(Gottesanbeterin)<br>
+XIAO HU YAN             (die brüllende Tigerfaust; kleiner, junger Tiger – Schwalbe)<br>
+Long Fist               (Lange Faust)<br>
+Praying Mantis          (Gottesanbeterin)<br>
 
 
 Die Xiao Hu Yan Form ist im Shaolin Long Fist Kung Fu, wie auch im Praying Mantis Kung Fu, dem Tang Lang zu finden. Auch in den koreanischen Kampfkünsten wird diese Form praktiziert. Diese Sequenz kombiniert das wilde und stürmische im jungen Tiger, mit dem weichen und sanften Landen der Schwalbe. Es werden kraftvolle Schlagkombinationen, Kicks und Beinfeger, wie auch weiches Ableiten und Sprungtechniken, die das Fliegen von Vögeln imitieren, angewandt.
@@ -23,6 +23,7 @@ Egal welchen Stil man praktiziert, die Herkunft ist Shandong Provinz.<br>
 In der historischen Analyse (Dokumente) der chinesischen Kampfkünste hält man sich eher an die neuesten, schriftlichen Überlieferungen, in diesem Fall, der aus der Ming Dynastie. Aus diesen Gründen müsste man das Praying Mantis System, das so gerne dem Shaolin zugesprochen wird, als ein unabhängiges (in seiner Entstehung) bezeichnen. <br>
 
 Xiao Hu Yan (Kampftechniken)<br>
+
 Punching techniques:<br>
 a)	Ping Quan (Horizontal punch)<br>
 b)	Xia Pi Quan (Downward chopping fist)<br>
