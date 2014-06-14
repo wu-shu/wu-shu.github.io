@@ -13,7 +13,7 @@ Die Xiao Hu Yan Form ist im Shaolin Long Fist Kung Fu, wie auch im Praying Manti
 In der Geschichte des Shaolin Tempel findet man kein Tang Lang Quan. Die Kampfkunst des Shaolin Tempel ist berühmt für das fünf Tiere Kung Fu. Trotzdem ist das Tang Lang immer als Shaolin Kampfsystem klassifiziert worden. 
 Shandong Provinz in der Mitte China’s wird als Region dem Norden zugeordnet.<br>
 Es ist hier in Shandong, wo das Praying Mantis als Kampfkunst seinen Ursprung hat. Nicht in Henan Provinz, südwestlich, wo das Shaolin Kloster liegt.<br>
-<img class="ifloat-right" src="/images/china_norden.jpg" alt="China">
+<img class="ifloat-right" src="/images/china_norden.jpg" alt="China" width="200px">
 Aus den überlieferten, zugänglichen Dokumenten sieht man, dass das Praying Mantis Kung Fu in der späten Hälfte der Ming-Dynastie (1368-1644) unter dem Meister Wang Lang entwickelt wurde und sich dann entfaltete. 
 Da sich die Shaolinkampfkünste generell in vielen Gegenden Chinas ausbreiteten, nimmt man an, dass Wang Lang, der ein Kampfkunstexperte war, auch unter dem Einfluss dieses Wissens stand.
 Heutzutage werden die Praying Mantis Stile in die Nord (7 Star Praying Mantis, Six Harmony Praying Mantis) und Südstile (Taiji Praying Mantis) unterteilt.
