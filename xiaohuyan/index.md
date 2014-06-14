@@ -30,7 +30,7 @@ b)	Xia Pi Quan (Downward chopping fist)<br>
 c)	Za Quan (Hammer fist)<br>
 d)	Tang Lang Shou (Praying mantis hand)<br>
 e)	Ping Jia Ping Quan (Horizontal block and punch)<br>
-f)	Yao Zi Fan Shen (Sparrow hawk turns ist body)<br>
+f)	Yao Zi Fan Shen (Sparrow hawk turns it's body)<br>
 g)	Tang Lang San Ji Shou (Praying mantis 3 strikes)<br>
 
 Kicking techniques:<br>
@@ -44,5 +44,5 @@ g)	Sao Tang Tui (Floor sweeping kick)<br>
 h)	Lian Huan Tui (Linking kick)<br>
 
 Jumping techniques :<br>
-Yao Zi Fan Shen (Sparrow hawk turns it’s body)<br>
-Ba Bu Gan Chan (Eight steps to chase the cicada)<br>
+a)  Yao Zi Fan Shen (Sparrow hawk turns it’s body)<br>
+b)  Ba Bu Gan Chan (Eight steps to chase the cicada)<br>
