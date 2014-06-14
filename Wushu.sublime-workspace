@@ -27,7 +27,7 @@
 			"file": "long-fist/index.md",
 			"settings":
 			{
-				"buffer_size": 3129,
+				"buffer_size": 3754,
 				"line_ending": "Windows"
 			}
 		}
@@ -153,7 +153,6 @@
 	"groups":
 	[
 		{
-			"selected": 2,
 			"sheets":
 			[
 				{
@@ -213,15 +212,15 @@
 					"file": "long-fist/index.md",
 					"settings":
 					{
-						"buffer_size": 3129,
+						"buffer_size": 3754,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1842,
-								1842
+								3430,
+								3430
 							]
 						],
 						"settings":
@@ -231,7 +230,7 @@
 							"target": "disk"
 						},
 						"translation.x": 0.0,
-						"translation.y": 304.0,
+						"translation.y": 357.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

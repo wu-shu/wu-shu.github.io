@@ -39,3 +39,5 @@ Erwähnt wurden die Einflüsse des Tàizŭ Changquan (Long Fist) Systems in den 
 <img class="ifloat-left" src="/images/longfist_3.jpg" alt="Longfist" width="270px">
 Über Jahrhunderte hinweg blieb das Long Fist-Kung Fu der Stil der Armee-Elite. Auch unter späteren Kaiser, die den geheimen Kampfkünsten in den Klöstern (Shaolin) zur Kriegerausbildung nahestanden.<br>
 Long Fist-Kung Fu gehört in der heutigen Zeit zu den fünf Hauptstilrichtungen der Patriarchen des Shaolin Klosters.
+
+--> [Xiao Hu Yan Form](http://www.wu-shu.ch/xiaohuyan)
