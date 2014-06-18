@@ -27,7 +27,15 @@
 			"file": "long-fist/index.md",
 			"settings":
 			{
-				"buffer_size": 3754,
+				"buffer_size": 3809,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "xiaohuyan/index.md",
+			"settings":
+			{
+				"buffer_size": 3076,
 				"line_ending": "Windows"
 			}
 		}
@@ -134,6 +142,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"icht",
 			"2014",
 			"tai"
 		],
@@ -153,6 +162,7 @@
 	"groups":
 	[
 		{
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -212,15 +222,15 @@
 					"file": "long-fist/index.md",
 					"settings":
 					{
-						"buffer_size": 3754,
+						"buffer_size": 3809,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3430,
-								3430
+								2009,
+								2005
 							]
 						],
 						"settings":
@@ -230,7 +240,35 @@
 							"target": "disk"
 						},
 						"translation.x": 0.0,
-						"translation.y": 357.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "xiaohuyan/index.md",
+					"settings":
+					{
+						"buffer_size": 3076,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2930,
+								2930
+							]
+						],
+						"settings":
+						{
+							"parser": null,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"target": "disk"
+						},
+						"translation.x": 0.0,
+						"translation.y": 308.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
