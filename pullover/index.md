@@ -1,16 +1,12 @@
 ---
 layout: default
-title: Es gibt neue Jacken!
+title: Musikevent
 ---
 
-<img class="ifloat-left" src="/images/pullover/wu-shu-pullover-rueckseite.jpg" alt="Wu Shu Pullover" width="340px">
-<img class="ifloat-right" src="/images/pullover/wu-shu-pullover-vorderseite.jpg" alt="Wu Shu Pullover" width="320px">
+<img class="ifloat" src="/images/chris_gitarre.jpg" alt="Musikevent" width="340px">
 
+Am 20. September 2014 wird erstmals ein Musikevent stattfinden. Alle Kinder, jugendliche und erwachsene Schüler des Wu Shu Center Oberlands sind herzlich willkommen, ihre musikalischen Talente einzubringen. 
 
-Die Jacken können bis zum 15.6. bestellt werden.  (P.S.:Ausnahmsweise ist dieser Termin verbindlich, da die Jacken dann bedruckt werden)
+Damit wir einschätzen können, mit wie vielen Musikern wir für diesen Anlass rechnen dürfen, gibt es bereits eine provisorische Anmeldung. In der Musikstückauswahl seid ihr natürlich völlig frei. Ihr könnt Solo auftreten, Duos oder ganze Bands bilden. Falls jemand eine Begleitung braucht kann euch auch entweder Chris mit der Gitarre oder Melanie mit dem Klavier begleiten.
 
-Je mehr Bestellungen wir haben, desto günstiger werden die Jacken. Für Erwachsene wird der Preis zwischen 80.- bis 100.- SFr. liegen. Für Kinder ca. 20.- SFr weniger.
-
-Falls ihr eine Jacke bestellen möchtet (Switcher Jacke mit Reissverschluss, gute Qualität, innen schön flauschig, bedruckt wie unsere Schul-T-Shirts), schreibt bitte Chris eine E-Mail mit Grösse und Anzahl der Jacken: <a href=mailto:chris@wu-shu.ch>chris@wu-shu.ch</a>.
-
-Mögliche Grössen: 104, 116, 128, 140, 152, XS, S, M, L, Xl, XXL (Chris hat von jeder Grösse ein Exemplar zum Anprobieren)
+Falls ihr euch anmelden wollt, schreibt bitte Chris eine E-Mail (mit Namen, Alter und welches Instrument ihr spielt): <a href=mailto:chris@wu-shu.ch>chris@wu-shu.ch</a>.
