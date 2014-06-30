@@ -3,7 +3,7 @@ layout: default
 title: Musikevent
 ---
 
-<img class="ifloat-right" src="/images/chris_gitarre.jpg" alt="Musikevent" width="100px">
+<img class="right" src="/images/chris_gitarre.jpg" alt="Musikevent" width="300px">
 
 Am 20. September 2014 wird erstmals ein Musikevent stattfinden. Alle Kinder, jugendliche und erwachsene Schüler des Wu Shu Center Oberlands sind herzlich willkommen, ihre musikalischen Talente einzubringen. 
 
