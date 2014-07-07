@@ -7874,7 +7874,7 @@ a.newsbox {
   -o-transform: rotate(330deg);
   -ms-transform: rotate(330deg);
   padding: 2px 5px;
-  width: 180px;
+  width: 186px;
   text-align: center;
   font-weight: bold;
   text-transform: uppercase;
@@ -7882,17 +7882,16 @@ a.newsbox {
   border: 2px solid #cc9900;
   border-radius: 5px;
   color: white;
+  /*  #newsbox-image:hover {
+      background-image: url('/images/pullover/wu-shu-pullover-vorderseite-100.jpg');
+    }*/
 }
 /* line 160, ../scss/_custom.scss */
 a.newsbox #newsbox-image {
-  background-image: url("/images/pullover/wu-shu-pullover-rueckseite-100.jpg");
-  width: 100px;
-  height: 90px;
+  background-image: url("/images/chris_gitarre.jpg");
+  width: 176px;
+  height: 263px;
   /* center */
   margin-left: auto;
   margin-right: auto;
-}
-/* line 169, ../scss/_custom.scss */
-a.newsbox #newsbox-image:hover {
-  background-image: url("/images/pullover/wu-shu-pullover-vorderseite-100.jpg");
 }
