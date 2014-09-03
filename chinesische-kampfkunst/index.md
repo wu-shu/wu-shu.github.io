@@ -13,7 +13,6 @@ Die Schusswaffen hatten eine zentrale Stellung in der chinesischen Militärgesch
 
 Für militärische Führungskräfte waren Prüfungen im Bogenschiessen in der Zeit vor den Han- bis zur Qing-Dynastie, 500 v. Chr. bis 1911 n.Chr. ein integrierter Bestandteil. Bereits 600 v.Chr. wurden Armbrüste mit ausgefeilten bronzenen Abwehrmechanismen hergestellt, die hohe Zuggewichte zuliessen. In der Zhou-Dynastie (1122-256 v.Chr.) gehörte das Bogenschiessen zu einer der sechs edlen Künste, neben dem Beherrschen des Reiten, Musik, Kalligrafie, Mathematik und das Wagenlenken. Bei den chinesischen Meistern galt der Bogen als Zeichen der Tugendhaftigkeit.
 Schon 2000 v.Chr. begannen sich soziale, philosophische und spirituelle Werte in der chinesischen Kultur zu verbreiten, die in das Denken der Bewegungskultur und schlussendlich in die Kriegskunststrategien einbezogen wurden. Es war die Kunst/Philosophie der Kriegsführung, die im „alten China“ neben dem Schlachtfeld schnell seinen Platz in den elitären Schulen und Zentren der Wissenschaft fand.
-<img class="right" src="/images/chin_pferd.jpg" alt="Pferd">
 
 
 Was bedeutet Kampfkunst?
@@ -27,25 +26,25 @@ Mitte des 6. Jahrhunderts (n.Chr.) belegen Dokumente erstmals zwei Kampfkunststi
 
 Um die Vielzahl der verwendeten Waffen zu charakterisieren, sprach man von den 18 Waffen-Künsten (Shiba Ban Wuji). 
 Die 18 Waffen der Song-Dynastie (960-1280 n.Chr.) sind:
-	
-Schild (Dun)	
-Bogen (Gong Jian)	
-Armbrust (Nu)
-Peitsche (Bian)
-Lanze (Mao)
-Speer (Qiang)
-Hellebarde (Ge)
-Mondsichelhellebarde (Ji)
-Harke (Ba)	Langstielige Streitaxt (Yue)
-Langstielige Klaue (Zhua)
-Säbel (Dao)
-Schwert (Jian)
-Kurzstielige Streitaxt (Fu)
-Kriegshammer (Chui)
-Kurzer Dreizack (Chai)
-Sichel (Lian)
-Kurzstab (Bang)
+<img class="right" src="/images/chin_pferd.jpg" alt="Pferd">	
+Schild (Dun)<br>	
+Bogen (Gong Jian)<br>	
+Armbrust (Nu)<br>
+Peitsche (Bian)<br>
+Lanze (Mao)<br>
+Speer (Qiang)<br>
+Hellebarde (Ge)<br>
+Mondsichelhellebarde (Ji)<br>
+Harke (Ba)	Langstielige Streitaxt (Yue)<br>
+Langstielige Klaue (Zhua)<br>
+Säbel (Dao)<br>
+Schwert (Jian)<br>
+Kurzstielige Streitaxt (Fu)<br>
+Kriegshammer (Chui)<br>
+Kurzer Dreizack (Chai)<br>
+Sichel (Lian)<br>
+Kurzstab (Bang)<br>
 
 Der Begriff Kampfkunst umfasst somit viele Gebiete menschlichen Handelns, das sich auf Kampf und Kriegskunst bezog. Das Werfen und Schiessen verschiedener Gegenstände und Geschosse, Kunstreiten und Wagenlenken, die Militärstrategie, die Schanzkunst, theatralische Zweikämpfe und Akrobatik bei gesellschaftlichen Anlässen. Der Zweikampf mit und ohne Waffe, Das Erlernen und Steuern der Lebensenergie (Qi) blieb jedoch im Verborgenen und wurde nur den Auserwählten in geheimen Schulen oder Kloster gelehrt. Aus der Kriegskunst entstanden hat sich die Kampfkunst bis zur Gegenwart zur Lehre einer geistigen Kultur entwickelt.
-<img class="right" src="/images/chin_kaempfer.jpg" alt="Kämpfer">
+<img class="right" src="/images/chin-kaempfer.jpg" alt="Kämpfer">
 <p style="clear: both;"></p>
