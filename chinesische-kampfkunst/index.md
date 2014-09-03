@@ -44,6 +44,6 @@ Kurzer Dreizack (Chai)<br>
 Sichel (Lian)<br>
 Kurzstab (Bang)<br>
 
-<img class="right" src="/images/chin-kaempfer.jpg" alt="Kämpfer">Der Begriff Kampfkunst umfasst somit viele Gebiete menschlichen Handelns, das sich auf Kampf und Kriegskunst bezog. Das Werfen und Schiessen verschiedener Gegenstände und Geschosse, Kunstreiten und Wagenlenken, die Militärstrategie, die Schanzkunst, theatralische Zweikämpfe und Akrobatik bei gesellschaftlichen Anlässen. Der Zweikampf mit und ohne Waffe, Das Erlernen und Steuern der Lebensenergie (Qi) blieb jedoch im Verborgenen und wurde nur den Auserwählten in geheimen Schulen oder Kloster gelehrt. Aus der Kriegskunst entstanden hat sich die Kampfkunst bis zur Gegenwart zur Lehre einer geistigen Kultur entwickelt.
+<img class="right" src="/images/chin-kaempfer.png" alt="Kämpfer">Der Begriff Kampfkunst umfasst somit viele Gebiete menschlichen Handelns, das sich auf Kampf und Kriegskunst bezog. Das Werfen und Schiessen verschiedener Gegenstände und Geschosse, Kunstreiten und Wagenlenken, die Militärstrategie, die Schanzkunst, theatralische Zweikämpfe und Akrobatik bei gesellschaftlichen Anlässen. Der Zweikampf mit und ohne Waffe, Das Erlernen und Steuern der Lebensenergie (Qi) blieb jedoch im Verborgenen und wurde nur den Auserwählten in geheimen Schulen oder Kloster gelehrt. Aus der Kriegskunst entstanden hat sich die Kampfkunst bis zur Gegenwart zur Lehre einer geistigen Kultur entwickelt.
 
 <p style="clear: both;"></p>
