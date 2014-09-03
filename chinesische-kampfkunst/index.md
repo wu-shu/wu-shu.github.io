@@ -9,6 +9,7 @@ Um die chinesische Kampfkunst zu verstehen und zu erklären, muss man weit vor u
 Es war eine Zeit in der der waffenlose Kampf (Kampfkunst), wie wir ihn heute kennen, in der Kriegsführung und auf dem Schlachtfeld eine nur untergeordnete Rolle spielte. Auch wenn die Entstehung der fortgeschrittenen Kampfkünste im 1. Jahrtausend unserer Zeitrechnung (ca. 500 n.Chr.) begann, hatten sie ihren Ursprung und ihre Wurzeln in der Kriegskunst.
 Von zentraler Bedeutung war dagegen die Verwendung und Ausbildung von und mit Waffen. Das Werfen von Geräten oder Waffen, die Ausbildung mit Schuss und Schutzwaffen und speziell das Reiten bildeten die Grundlagen im Training der Soldaten oder der Bauern in den Lagern der Aufständigen.
 Die Schusswaffen hatten eine zentrale Stellung in der chinesischen Militärgeschichte. Wenn man eine einzige Waffe benennen will, die in China bis zum Aufkommen der Feuerwaffen die alles entscheidende Rolle gespielt hat, dann ist dies der Bogen.<br>
+<br>
 <img class="right" src="/images/chin_bogen.jpg" alt="Pfeilbogen">Für militärische Führungskräfte waren Prüfungen im Bogenschiessen in der Zeit vor den Han- bis zur Qing-Dynastie, 500 v. Chr. bis 1911 n.Chr. ein integrierter Bestandteil. Bereits 600 v.Chr. wurden Armbrüste mit ausgefeilten bronzenen Abwehrmechanismen hergestellt, die hohe Zuggewichte zuliessen. In der Zhou-Dynastie (1122-256 v.Chr.) gehörte das Bogenschiessen zu einer der sechs edlen Künste, neben dem Beherrschen des Reiten, Musik, Kalligrafie, Mathematik und das Wagenlenken. Bei den chinesischen Meistern galt der Bogen als Zeichen der Tugendhaftigkeit.
 Schon 2000 v.Chr. begannen sich soziale, philosophische und spirituelle Werte in der chinesischen Kultur zu verbreiten, die in das Denken der Bewegungskultur und schlussendlich in die Kriegskunststrategien einbezogen wurden. Es war die Kunst/Philosophie der Kriegsführung, die im „alten China“ neben dem Schlachtfeld schnell seinen Platz in den elitären Schulen und Zentren der Wissenschaft fand.
 
@@ -25,7 +26,7 @@ Mitte des 6. Jahrhunderts (n.Chr.) belegen Dokumente erstmals zwei Kampfkunststi
 Um die Vielzahl der verwendeten Waffen zu charakterisieren, sprach man von den 18 Waffen-Künsten (Shiba Ban Wuji). 
 Die 18 Waffen der Song-Dynastie (960-1280 n.Chr.) sind:
 
-Schild (Dun)<br><img class="right" src="/images/chin_pferd.jpg" alt="Pferd">
+Schild (Dun)<br><img class="right" src="/images/chin_pferd.jpg" alt="Pferd" width="200px">
 Bogen (Gong Jian)<br>
 Armbrust (Nu)<br>
 Peitsche (Bian)<br>
