@@ -40,18 +40,10 @@
 			}
 		},
 		{
-			"file": "pullover/index.md",
+			"file": "taiji-chuan/index.md",
 			"settings":
 			{
-				"buffer_size": 880,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_layouts/splashscreen.html",
-			"settings":
-			{
-				"buffer_size": 3156,
+				"buffer_size": 995,
 				"line_ending": "Windows"
 			}
 		}
@@ -92,11 +84,12 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/_layouts/splashscreen.html",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/pullover/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/bilder/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/Long-fist/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/CNAME",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/index.md",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/pullover/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/qi-gong/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/melanie-keller/index.md",
@@ -120,7 +113,6 @@
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/chiara-caduff/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/simon-nocco/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/jan-wüthrich/index.md",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/_layouts/splashscreen.html",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/michaela-sobo/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/images/stundenplaene/stundenplan-rueti.png",
 		"/G/Jennette-Weber.jpg",
@@ -246,8 +238,8 @@
 						"selection":
 						[
 							[
-								2009,
-								2005
+								2025,
+								2021
 							]
 						],
 						"settings":
@@ -292,56 +284,26 @@
 				},
 				{
 					"buffer": 4,
-					"file": "pullover/index.md",
+					"file": "taiji-chuan/index.md",
 					"settings":
 					{
-						"buffer_size": 880,
+						"buffer_size": 995,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								119,
-								119
+								161,
+								161
 							]
 						],
 						"settings":
 						{
-							"parser": null,
-							"syntax": "Packages/Markdown/Markdown.tmLanguage",
-							"target": "disk"
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "_layouts/splashscreen.html",
-					"settings":
-					{
-						"buffer_size": 3156,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2164,
-								2164
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 471.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
