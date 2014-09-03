@@ -26,7 +26,7 @@ Mitte des 6. Jahrhunderts (n.Chr.) belegen Dokumente erstmals zwei Kampfkunststi
 Um die Vielzahl der verwendeten Waffen zu charakterisieren, sprach man von den 18 Waffen-Künsten (Shiba Ban Wuji). 
 Die 18 Waffen der Song-Dynastie (960-1280 n.Chr.) sind:
 
-Schild (Dun)<br><img class="right" src="/images/chin_pferd.jpg" alt="Pferd" width="200px">
+Schild (Dun)<br><img class="right" src="/images/chin_pferd.jpg" alt="Pferd" width="500px">
 Bogen (Gong Jian)<br>
 Armbrust (Nu)<br>
 Peitsche (Bian)<br>
