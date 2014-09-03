@@ -26,7 +26,7 @@ Mitte des 6. Jahrhunderts (n.Chr.) belegen Dokumente erstmals zwei Kampfkunststi
 Um die Vielzahl der verwendeten Waffen zu charakterisieren, sprach man von den 18 Waffen-Künsten (Shiba Ban Wuji). 
 Die 18 Waffen der Song-Dynastie (960-1280 n.Chr.) sind:
 
-Schild (Dun)<br><img class="right" src="/images/chin_pferd.jpg" alt="Pferd" width="350px">
+Schild (Dun)<br><img class="right" src="/images/chin_kaempfer.png" alt="Kämpfer">
 Bogen (Gong Jian)<br>
 Armbrust (Nu)<br>
 Peitsche (Bian)<br>
@@ -44,6 +44,6 @@ Kurzer Dreizack (Chai)<br>
 Sichel (Lian)<br>
 Kurzstab (Bang)<br>
 
-<img class="right" src="/images/chin-kaempfer.png" alt="Kämpfer">Der Begriff Kampfkunst umfasst somit viele Gebiete menschlichen Handelns, das sich auf Kampf und Kriegskunst bezog. Das Werfen und Schiessen verschiedener Gegenstände und Geschosse, Kunstreiten und Wagenlenken, die Militärstrategie, die Schanzkunst, theatralische Zweikämpfe und Akrobatik bei gesellschaftlichen Anlässen. Der Zweikampf mit und ohne Waffe, Das Erlernen und Steuern der Lebensenergie (Qi) blieb jedoch im Verborgenen und wurde nur den Auserwählten in geheimen Schulen oder Kloster gelehrt. Aus der Kriegskunst entstanden hat sich die Kampfkunst bis zur Gegenwart zur Lehre einer geistigen Kultur entwickelt.
-
+Der Begriff Kampfkunst umfasst somit viele Gebiete menschlichen Handelns, das sich auf Kampf und Kriegskunst bezog. Das Werfen und Schiessen verschiedener Gegenstände und Geschosse, Kunstreiten und Wagenlenken, die Militärstrategie, die Schanzkunst, theatralische Zweikämpfe und Akrobatik bei gesellschaftlichen Anlässen. Der Zweikampf mit und ohne Waffe, Das Erlernen und Steuern der Lebensenergie (Qi) blieb jedoch im Verborgenen und wurde nur den Auserwählten in geheimen Schulen oder Kloster gelehrt. Aus der Kriegskunst entstanden hat sich die Kampfkunst bis zur Gegenwart zur Lehre einer geistigen Kultur entwickelt.
+<img class="right" src="/images/chin-pferd.jpg" alt="Pferd">
 <p style="clear: both;"></p>
