@@ -32,14 +32,6 @@
 			}
 		},
 		{
-			"file": "long-fist/index.md",
-			"settings":
-			{
-				"buffer_size": 3809,
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "xiaohuyan/index.md",
 			"settings":
 			{
@@ -48,10 +40,10 @@
 			}
 		},
 		{
-			"file": "taiji-chuan/index.md",
+			"file": "lehrer-turnierteam/index.md",
 			"settings":
 			{
-				"buffer_size": 995,
+				"buffer_size": 3675,
 				"line_ending": "Windows"
 			}
 		}
@@ -92,6 +84,8 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/long-fist/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/taiji-chuan/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/_layouts/splashscreen.html",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/pullover/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/bilder/index.md",
@@ -103,7 +97,6 @@
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/melanie-keller/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/wu-shu/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/marco-hauser/index.md",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/taiji-chuan/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/_includes/navigation.html",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/chris-ritter-2/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/chris-ritter/index.md",
@@ -179,7 +172,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 4,
 			"sheets":
 			[
 				{
@@ -246,8 +239,8 @@
 						"selection":
 						[
 							[
-								5559,
-								5559
+								4564,
+								4560
 							]
 						],
 						"settings":
@@ -255,41 +248,13 @@
 							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 714.0,
+						"translation.y": 474.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 3,
-					"file": "long-fist/index.md",
-					"settings":
-					{
-						"buffer_size": 3809,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1972,
-								1984
-							]
-						],
-						"settings":
-						{
-							"parser": null,
-							"syntax": "Packages/Markdown/Markdown.tmLanguage",
-							"target": "disk"
-						},
-						"translation.x": 0.0,
-						"translation.y": 573.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
 					"file": "xiaohuyan/index.md",
 					"settings":
 					{
@@ -317,19 +282,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
-					"file": "taiji-chuan/index.md",
+					"buffer": 4,
+					"file": "lehrer-turnierteam/index.md",
 					"settings":
 					{
-						"buffer_size": 995,
+						"buffer_size": 3675,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								161,
-								161
+								3336,
+								3336
 							]
 						],
 						"settings":
@@ -337,7 +302,7 @@
 							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 173.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
