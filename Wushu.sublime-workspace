@@ -51,7 +51,7 @@
 			"file": "_layouts/splashscreen.html",
 			"settings":
 			{
-				"buffer_size": 3167,
+				"buffer_size": 3169,
 				"line_ending": "Windows"
 			}
 		}
@@ -303,8 +303,8 @@
 						"selection":
 						[
 							[
-								950,
-								950
+								1149,
+								1149
 							]
 						],
 						"settings":
@@ -324,15 +324,15 @@
 					"file": "_layouts/splashscreen.html",
 					"settings":
 					{
-						"buffer_size": 3167,
+						"buffer_size": 3169,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2110,
-								2110
+								1754,
+								1754
 							]
 						],
 						"settings":
@@ -342,7 +342,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 259.0,
+						"translation.y": 306.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
