@@ -7888,9 +7888,9 @@ a.newsbox {
 }
 /* line 160, ../scss/_custom.scss */
 a.newsbox #newsbox-image {
-  background-image: url("/images/chris_gitarre.jpg");
-  width: 176px;
-  height: 263px;
+  background-image: url("/images/newsbox.jpg");
+  background-size: 176px;
+  height: 117px;
   /* center */
   margin-left: auto;
   margin-right: auto;
