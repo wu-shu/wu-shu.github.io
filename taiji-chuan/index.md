@@ -3,7 +3,7 @@ layout: default
 title: Taijichuan
 ---
 
-<img class="right" src="/images/tao.jpg" alt="Tao"><a target="_blank" href="http://www.wu-shu.ch/images/taiji_seminar.jpg" class="button-contact-info">Taiji Seminar Anmeldung</a><br>
+<img class="right" src="/images/tao.jpg" alt="Tao"><br>
 Im 12. Jahrhundert (A.D.) entstand auf dem für die Taoisten heiligen Berg (Wudang) eine neue Lehre der «inneren» Kampfkünste, das Taijichuan. Die «innere» Schule folgte den Prinzipien der Entspannung, Atmung und fliessenden Bewegungen, sowie der bewussten Führung des Qi (Energie) in den Kampftechniken.
 
 Im Taijichuan werden Bewegungen ruhig, langsam und im Einklang mit dem Atem, in kurzen und langen Formen ausgeübt. Die Bewegungen erlauben einen konzentrierten Muskelaufbau, massieren die Organe und machen das Taijichuan zur Bewegungsmeditation.
