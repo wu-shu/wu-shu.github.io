@@ -35,7 +35,7 @@
 			"file": "aktuell/index.md",
 			"settings":
 			{
-				"buffer_size": 1045,
+				"buffer_size": 1044,
 				"line_ending": "Windows"
 			}
 		},
@@ -43,7 +43,7 @@
 			"file": "bilder/index.md",
 			"settings":
 			{
-				"buffer_size": 3447,
+				"buffer_size": 3949,
 				"line_ending": "Windows"
 			}
 		},
@@ -51,7 +51,23 @@
 			"file": "_layouts/splashscreen.html",
 			"settings":
 			{
-				"buffer_size": 3169,
+				"buffer_size": 3187,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "infos-kontakt/index.md",
+			"settings":
+			{
+				"buffer_size": 1561,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "taiji-chuan/index.md",
+			"settings":
+			{
+				"buffer_size": 864,
 				"line_ending": "Windows"
 			}
 		}
@@ -249,8 +265,8 @@
 						"selection":
 						[
 							[
-								3336,
-								3336
+								1412,
+								1408
 							]
 						],
 						"settings":
@@ -258,7 +274,7 @@
 							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 173.0,
+						"translation.y": 143.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -268,15 +284,15 @@
 					"file": "aktuell/index.md",
 					"settings":
 					{
-						"buffer_size": 1045,
+						"buffer_size": 1044,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1045,
-								1045
+								1044,
+								1044
 							]
 						],
 						"settings":
@@ -296,15 +312,15 @@
 					"file": "bilder/index.md",
 					"settings":
 					{
-						"buffer_size": 3447,
+						"buffer_size": 3949,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								281,
-								281
+								2539,
+								2539
 							]
 						],
 						"settings":
@@ -324,15 +340,15 @@
 					"file": "_layouts/splashscreen.html",
 					"settings":
 					{
-						"buffer_size": 3169,
+						"buffer_size": 3187,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1754,
-								1754
+								0,
+								0
 							]
 						],
 						"settings":
@@ -343,6 +359,58 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 306.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "infos-kontakt/index.md",
+					"settings":
+					{
+						"buffer_size": 1561,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1537,
+								1537
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "taiji-chuan/index.md",
+					"settings":
+					{
+						"buffer_size": 864,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								94,
+								94
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
