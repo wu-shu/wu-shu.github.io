@@ -43,7 +43,7 @@
 			"file": "bilder/index.md",
 			"settings":
 			{
-				"buffer_size": 3949,
+				"buffer_size": 3948,
 				"line_ending": "Windows"
 			}
 		},
@@ -312,15 +312,15 @@
 					"file": "bilder/index.md",
 					"settings":
 					{
-						"buffer_size": 3949,
+						"buffer_size": 3948,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2539,
-								2539
+								291,
+								291
 							]
 						],
 						"settings":
