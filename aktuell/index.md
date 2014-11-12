@@ -8,6 +8,6 @@ Am Sonntag, 23. November findet bereits das 10. Freundschaftsturnier des Wu Shu 
 
 Für alle, die sich noch nicht angemeldet haben, oder noch keine Anmeldung bekommen haben, ist hier ein PDF angehängt. Einfach ausfüllen und an Chris schicken oder abgeben:
 <a target="_blank" href="http://www.wu-shu.ch/images/Freundschaftsturnier_14.pdf" class="button-contact-info">Anmeldung</a></a>
-<a target="_blank" href="http://www.wu-shu.ch/images/Zeitplan_14.pdf" class="button-contact-info">Zeitplan</a></a>
+<a target="_blank" href="http://www.wu-shu.ch/images/Zeitplan.pdf" class="button-contact-info">Zeitplan</a></a>
 
 Wir freuen uns auf das 10-jährige Jubiläum und hoffen, dass ihr alle zahlreich erscheint ...ob als Teilnehmer, Zuschauer oder als Kuchen-Konsument! :-)
