@@ -2,7 +2,6 @@
 layout: default
 title: Shaolin Kung Fu
 ---
-
 <img class="ifloat-right" src="/images/judoka-300px.png" alt="Judoka" width="200px">
 <li><a href="http://doodle.com/xvinsikw28b8kbx4" class="button-contact-place">Kung Fu Lager für Erwachsene</a></li>
 
