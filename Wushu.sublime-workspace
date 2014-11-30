@@ -35,7 +35,7 @@
 			"file": "aktuell/index.md",
 			"settings":
 			{
-				"buffer_size": 1044,
+				"buffer_size": 1133,
 				"line_ending": "Windows"
 			}
 		},
@@ -196,7 +196,7 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -284,15 +284,15 @@
 					"file": "aktuell/index.md",
 					"settings":
 					{
-						"buffer_size": 1044,
+						"buffer_size": 1133,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1044,
-								1044
+								926,
+								926
 							]
 						],
 						"settings":
