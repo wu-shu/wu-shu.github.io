@@ -8,34 +8,10 @@
 	"buffers":
 	[
 		{
-			"file": "chinesische-kampfkunst/index.md",
-			"settings":
-			{
-				"buffer_size": 5633,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "xiaohuyan/index.md",
-			"settings":
-			{
-				"buffer_size": 3076,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "lehrer-turnierteam/index.md",
-			"settings":
-			{
-				"buffer_size": 3675,
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "aktuell/index.md",
 			"settings":
 			{
-				"buffer_size": 1133,
+				"buffer_size": 574,
 				"line_ending": "Windows"
 			}
 		},
@@ -43,31 +19,15 @@
 			"file": "bilder/index.md",
 			"settings":
 			{
-				"buffer_size": 3948,
+				"buffer_size": 4393,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "_layouts/splashscreen.html",
+			"file": "shaolin-kung-fu/index.md",
 			"settings":
 			{
-				"buffer_size": 3187,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "infos-kontakt/index.md",
-			"settings":
-			{
-				"buffer_size": 1561,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "taiji-chuan/index.md",
-			"settings":
-			{
-				"buffer_size": 864,
+				"buffer_size": 1137,
 				"line_ending": "Windows"
 			}
 		}
@@ -108,17 +68,19 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/chinesische-kampfkunst/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/taiji-chuan/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/_layouts/splashscreen.html",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/xiaohuyan/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/wu-shu/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/chris-ritter/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/long-fist/index.md",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/taiji-chuan/index.md",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/_layouts/splashscreen.html",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/pullover/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/bilder/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/Long-fist/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/CNAME",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/index.md",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/qi-gong/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/melanie-keller/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/marco-hauser/index.md",
@@ -196,49 +158,50 @@
 	"groups":
 	[
 		{
-			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "chinesische-kampfkunst/index.md",
+					"file": "aktuell/index.md",
 					"settings":
 					{
-						"buffer_size": 5633,
+						"buffer_size": 574,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3788,
-								3788
+								126,
+								126
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+							"parser": null,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"target": "disk"
 						},
 						"translation.x": 0.0,
-						"translation.y": 423.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "xiaohuyan/index.md",
+					"file": "bilder/index.md",
 					"settings":
 					{
-						"buffer_size": 3076,
+						"buffer_size": 4393,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2930,
-								2930
+								110,
+								557
 							]
 						],
 						"settings":
@@ -255,154 +218,18 @@
 				},
 				{
 					"buffer": 2,
-					"file": "lehrer-turnierteam/index.md",
+					"file": "shaolin-kung-fu/index.md",
 					"settings":
 					{
-						"buffer_size": 3675,
+						"buffer_size": 1137,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1412,
-								1408
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 143.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "aktuell/index.md",
-					"settings":
-					{
-						"buffer_size": 1133,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								926,
-								926
-							]
-						],
-						"settings":
-						{
-							"parser": null,
-							"syntax": "Packages/Markdown/Markdown.tmLanguage",
-							"target": "disk"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "bilder/index.md",
-					"settings":
-					{
-						"buffer_size": 3948,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								291,
-								291
-							]
-						],
-						"settings":
-						{
-							"parser": null,
-							"syntax": "Packages/Markdown/Markdown.tmLanguage",
-							"target": "disk"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "_layouts/splashscreen.html",
-					"settings":
-					{
-						"buffer_size": 3187,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 306.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "infos-kontakt/index.md",
-					"settings":
-					{
-						"buffer_size": 1561,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1537,
-								1537
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "taiji-chuan/index.md",
-					"settings":
-					{
-						"buffer_size": 864,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								94,
-								94
+								47,
+								47
 							]
 						],
 						"settings":
