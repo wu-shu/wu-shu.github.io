@@ -1,7 +1,10 @@
 ---
 layout: default
-title: 10. Freundschaftsturnier
+title: Trainingsweekend für Erwachsene
 ---
 
-Die Bilder des 10. Jubiläums-Freundschaftsturniers sind jetzt online!
-<li><a target="_blank" href="https://www.flickr.com/photos/117851037@N03/sets/72157649119503979/" class="button-contact-place" title="Turnier 2014">Freundschafts Turnier<br>2014<img <a href="https://www.flickr.com/photos/117851037@N03/15724505220" title="Freundschaftsturnier 2014 by Wushu Center Oberland, on Flickr"><img src="https://farm8.staticflickr.com/7527/15724505220_0f23301ba3_n.jpg" width="320" height="213" alt="Turnier 2014"></a></li>
+Dieses Jahr wird erstmals ein Trainingslager für Erwachsene durchgeführt!
+Das 3-Tägige Lager für Fortgeschrittene (ab braungurt) findet vom Freitag, 17.4.15 bis Sonntag, 19.4.15 statt.
+Das Trainingsprogramm wird vielfältig (von Grundtechniken über Formen und Sparring, Zeit für freies Training, Qi Gong, Parties...) Der Ort ist noch nicht festgelegt. Es wird aber nicht mehr als 1-2 Stunde Autofahrt von Rüti aus entfernt sein, damit es auch möglich wäre, z.B. erst am Samstag einzusteigen. Die Unterkunft wird voraussichtlich entweder ein nicht allzu teures Hotel, oder eine Jugendherberge sein (mit ca. 2-er Zimmer - keine Massenschläge :-) )
+
+Bei Interesse oder Fragen könnt ihr euch bei Chris oder Melanie melden.
