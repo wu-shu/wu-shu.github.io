@@ -8,14 +8,6 @@
 	"buffers":
 	[
 		{
-			"file": "aktuell/index.md",
-			"settings":
-			{
-				"buffer_size": 574,
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "bilder/index.md",
 			"settings":
 			{
@@ -27,7 +19,23 @@
 			"file": "shaolin-kung-fu/index.md",
 			"settings":
 			{
-				"buffer_size": 1137,
+				"buffer_size": 1132,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_layouts/splashscreen.html",
+			"settings":
+			{
+				"buffer_size": 3202,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "aktuell/index.md",
+			"settings":
+			{
+				"buffer_size": 791,
 				"line_ending": "Windows"
 			}
 		}
@@ -68,6 +76,7 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/aktuell/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/chinesische-kampfkunst/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/taiji-chuan/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/index.md",
@@ -158,38 +167,11 @@
 	"groups":
 	[
 		{
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "aktuell/index.md",
-					"settings":
-					{
-						"buffer_size": 574,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								126,
-								126
-							]
-						],
-						"settings":
-						{
-							"parser": null,
-							"syntax": "Packages/Markdown/Markdown.tmLanguage",
-							"target": "disk"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "bilder/index.md",
 					"settings":
 					{
@@ -217,19 +199,73 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 1,
 					"file": "shaolin-kung-fu/index.md",
 					"settings":
 					{
-						"buffer_size": 1137,
+						"buffer_size": 1132,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								47,
-								47
+								413,
+								413
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_layouts/splashscreen.html",
+					"settings":
+					{
+						"buffer_size": 3202,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1764,
+								1764
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 463.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "aktuell/index.md",
+					"settings":
+					{
+						"buffer_size": 791,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								390,
+								390
 							]
 						],
 						"settings":
