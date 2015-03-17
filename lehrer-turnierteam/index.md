@@ -8,8 +8,8 @@ title: Lehrer / Turnierteam
 <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
 <li><a href="/lehrer-turnierteam/chris-ritter/" class="button-contact-place" title="Master Chris Ritter">Chris Ritter, 7. Dan<img src="/images/cr.jpg" width="320" height="240" alt="Chris Ritter"></a></li>
 <li><a href="/lehrer-turnierteam/melanie-keller/" class="button-contact-place" title="Melanie Keller">Melanie Keller, 2. Dan<img src="/images/melanie-keller.jpg" width="320" height="240" alt="Melanie Keller"></a></li>
-<li><a href="/lehrer-turnierteam/marco-hauser/" class="button-contact-place" title="Marco Hauser">Marco Hauser, 1. Dan<img src="/images/marco-hauser.jpg" width="320" height="240" alt="Marco Hauser"></a></li>
-<li><a href="/lehrer-turnierteam/michaela-sobo/" class="button-contact-place" title="Michaela Sobo">Michaela Sobo, 1. Dan<img src="/images/michaela-sobo.jpg" width="320" height="240" alt="Michaela Sobosczyk"></a></li>
+<li><a href="/lehrer-turnierteam/marco-hauser/" class="button-contact-place" title="Marco Hauser">Marco Hauser, 2. Dan<img src="/images/marco-hauser.jpg" width="320" height="240" alt="Marco Hauser"></a></li>
+<li><a href="/lehrer-turnierteam/michaela-sobo/" class="button-contact-place" title="Michaela Sobo">Michaela Sobo, 2. Dan<img src="/images/michaela-sobo.jpg" width="320" height="240" alt="Michaela Sobosczyk"></a></li>
 </ul>
 
 - - -
@@ -36,5 +36,4 @@ title: Lehrer / Turnierteam
 <li><a href="/lehrer-turnierteam/sandra-helbling/" class="button-contact-place" title="Sandra Helbling">Sandra Helbling<img src="/images/sandra-helbling.jpg" width="320" height="240" alt="Sandra Helbling"></a></li>
 <li><a href="/lehrer-turnierteam/simon-nocco/" class="button-contact-place" title="Simon Nocco">Simon<br>Nocco<img src="/images/simon-nocco.jpg" width="320" height="240" alt="Simon Nocco"></a></li>
 <li><a href="/lehrer-turnierteam/jan-wüthrich/" class="button-contact-place" title="Jan Wüthrich">Jan<br>Wüthrich<img src="/images/jan-wuethrich.jpg" width="320" height="240" alt="Jan Wüthrich"></a></li>
-<li><a href="/lehrer-turnierteam/adrien-eichenberger/" class="button-contact-place" title="Adrien Eichenberger">Adrien Eichenberger<img src="/images/adrien-eichenberger.jpg" width="320" height="240" alt="Adrien Eichenberger"></a></li>
 </ul>
