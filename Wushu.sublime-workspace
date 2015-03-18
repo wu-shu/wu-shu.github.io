@@ -30,6 +30,30 @@
 				"buffer_size": 842,
 				"line_ending": "Windows"
 			}
+		},
+		{
+			"file": "lehrer-turnierteam/index.md",
+			"settings":
+			{
+				"buffer_size": 3440,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lehrer-turnierteam/selina-xxx",
+			"settings":
+			{
+				"buffer_size": 648,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lehrer-turnierteam/selina/index",
+			"settings":
+			{
+				"buffer_size": 646,
+				"line_ending": "Windows"
+			}
 		}
 	],
 	"build_system": "",
@@ -159,7 +183,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 5,
 			"sheets":
 			[
 				{
@@ -235,6 +259,86 @@
 						"settings":
 						{
 							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "lehrer-turnierteam/index.md",
+					"settings":
+					{
+						"buffer_size": 3440,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3434,
+								3434
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 247.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "lehrer-turnierteam/selina-xxx",
+					"settings":
+					{
+						"buffer_size": 648,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								648,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "lehrer-turnierteam/selina/index",
+					"settings":
+					{
+						"buffer_size": 646,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								317,
+								317
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
