@@ -9,8 +9,8 @@ Das Trainingsprogramm wird vielfältig (von Grundtechniken über Formen und Spar
 
 Das Weekend findet in in einem Ferienhaus in Lungern statt (Ferienhaus Domino, Bahnhofstrasse 26, 6078 Lungern). Wir trainieren bei schönem Wetter voraussichtlich draussen, haben aber auch eine Turnhalle gleich nebenan zur Verfügung. Im Haus gibt es genügend Einzel- und Doppelzimmer, man kann sich also noch immer anmelden!
 
-Der Preis für das Weekend beläuft sich auf:
-350.- CHF (Freitag bis Sonntag all inklusive: Training, Übernachtungen, Essen)
+Der Preis für das Weekend beläuft sich auf:<br>
+350.- CHF (Freitag bis Sonntag all inklusive: Training, Übernachtungen, Essen)<br>
 250.- CHF (Samstag und Sonntag all inklusive: Training, Übernachtungen, Essen)
 
 Die genauen Angaben mit Zeitplan folgen noch...
