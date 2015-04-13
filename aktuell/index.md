@@ -18,4 +18,6 @@ Der Preis für das Weekend beläuft sich auf:<br>
 350.- CHF (Freitag bis Sonntag all inklusive: Training, Übernachtungen, Essen)<br>
 250.- CHF (Samstag und Sonntag all inklusive: Training, Übernachtungen, Essen)
 
+Wir treffen uns am Freitag direkt in Lungern beim Haus, essen um 12 Uhr zusammen Zmittag und starten danach mit dem Trainingsplan.
+
 Bei Interesse oder Fragen könnt ihr euch bei Chris oder Melanie melden.

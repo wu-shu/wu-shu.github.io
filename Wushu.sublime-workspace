@@ -27,7 +27,7 @@
 			"file": "aktuell/index.md",
 			"settings":
 			{
-				"buffer_size": 1048,
+				"buffer_size": 1212,
 				"line_ending": "Windows"
 			}
 		},
@@ -44,6 +44,14 @@
 			"settings":
 			{
 				"buffer_size": 667,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lehrer-turnierteam/chiara-caduff/index.md",
+			"settings":
+			{
+				"buffer_size": 3194,
 				"line_ending": "Windows"
 			}
 		}
@@ -240,15 +248,15 @@
 					"file": "aktuell/index.md",
 					"settings":
 					{
-						"buffer_size": 1048,
+						"buffer_size": 1212,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								847,
-								847
+								278,
+								278
 							]
 						],
 						"settings":
@@ -312,6 +320,33 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "lehrer-turnierteam/chiara-caduff/index.md",
+					"settings":
+					{
+						"buffer_size": 3194,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3039,
+								3039
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1336.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
