@@ -11,7 +11,7 @@
 			"file": "bilder/index.md",
 			"settings":
 			{
-				"buffer_size": 4393,
+				"buffer_size": 4838,
 				"line_ending": "Windows"
 			}
 		},
@@ -27,7 +27,7 @@
 			"file": "aktuell/index.md",
 			"settings":
 			{
-				"buffer_size": 1344,
+				"buffer_size": 565,
 				"line_ending": "Windows"
 			}
 		},
@@ -44,22 +44,6 @@
 			"settings":
 			{
 				"buffer_size": 667,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "lehrer-turnierteam/chiara-caduff/index.md",
-			"settings":
-			{
-				"buffer_size": 3194,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "infos-kontakt/kontakt-anmeldung/index.md",
-			"settings":
-			{
-				"buffer_size": 242,
 				"line_ending": "Windows"
 			}
 		}
@@ -100,6 +84,8 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/kontakt-anmeldung/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/chiara-caduff/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/selina-maechler/index",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/selina/index",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/selina-xxx",
@@ -151,7 +137,6 @@
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/images/melanie-keller",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/images/marco-hauser",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/images/chris-ritter.jpg",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/kontakt-anmeldung/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/tai-chi-chuan/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/README.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/scss/_custom.scss",
@@ -202,15 +187,15 @@
 					"file": "bilder/index.md",
 					"settings":
 					{
-						"buffer_size": 4393,
+						"buffer_size": 4838,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								110,
-								557
+								554,
+								554
 							]
 						],
 						"settings":
@@ -256,15 +241,15 @@
 					"file": "aktuell/index.md",
 					"settings":
 					{
-						"buffer_size": 1344,
+						"buffer_size": 565,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1271,
-								1271
+								565,
+								310
 							]
 						],
 						"settings":
@@ -325,59 +310,6 @@
 						{
 							"syntax": "Packages/Markdown/Markdown.tmLanguage",
 							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "lehrer-turnierteam/chiara-caduff/index.md",
-					"settings":
-					{
-						"buffer_size": 3194,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3039,
-								3039
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 1336.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "infos-kontakt/kontakt-anmeldung/index.md",
-					"settings":
-					{
-						"buffer_size": 242,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								149,
-								149
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
