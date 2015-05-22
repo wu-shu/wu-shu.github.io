@@ -8,42 +8,18 @@
 	"buffers":
 	[
 		{
-			"file": "bilder/index.md",
-			"settings":
-			{
-				"buffer_size": 4838,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "shaolin-kung-fu/index.md",
-			"settings":
-			{
-				"buffer_size": 1132,
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "aktuell/index.md",
 			"settings":
 			{
-				"buffer_size": 565,
+				"buffer_size": 333,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "lehrer-turnierteam/index.md",
+			"file": "_layouts/splashscreen.html",
 			"settings":
 			{
-				"buffer_size": 3440,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "lehrer-turnierteam/selina-maechler/index.md",
-			"settings":
-			{
-				"buffer_size": 667,
+				"buffer_size": 3195,
 				"line_ending": "Windows"
 			}
 		}
@@ -84,6 +60,10 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/selina-maechler/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/bilder/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/shaolin-kung-fu/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/kontakt-anmeldung/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/chiara-caduff/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/selina-maechler/index",
@@ -94,13 +74,11 @@
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/chinesische-kampfkunst/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/taiji-chuan/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/index.md",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/xiaohuyan/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/wu-shu/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/chris-ritter/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/long-fist/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/pullover/index.md",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/bilder/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/Long-fist/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/CNAME",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/qi-gong/index.md",
@@ -108,7 +86,6 @@
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/marco-hauser/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/_includes/navigation.html",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/chris-ritter-2/index.md",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/shaolin-kung-fu/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/ladina-schneider/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/sierra-gartmann/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/sandra-helbling/index.md",
@@ -179,23 +156,22 @@
 	"groups":
 	[
 		{
-			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "bilder/index.md",
+					"file": "aktuell/index.md",
 					"settings":
 					{
-						"buffer_size": 4838,
+						"buffer_size": 333,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								554,
-								554
+								287,
+								287
 							]
 						],
 						"settings":
@@ -212,107 +188,28 @@
 				},
 				{
 					"buffer": 1,
-					"file": "shaolin-kung-fu/index.md",
+					"file": "_layouts/splashscreen.html",
 					"settings":
 					{
-						"buffer_size": 1132,
+						"buffer_size": 3195,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								413,
-								413
+								2194,
+								2194
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "aktuell/index.md",
-					"settings":
-					{
-						"buffer_size": 565,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								565,
-								310
-							]
-						],
-						"settings":
-						{
-							"parser": null,
-							"syntax": "Packages/Markdown/Markdown.tmLanguage",
-							"target": "disk"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "lehrer-turnierteam/index.md",
-					"settings":
-					{
-						"buffer_size": 3440,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3434,
-								3434
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 217.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "lehrer-turnierteam/selina-maechler/index.md",
-					"settings":
-					{
-						"buffer_size": 667,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								648,
-								648
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 367.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
