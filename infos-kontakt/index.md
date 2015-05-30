@@ -6,7 +6,7 @@ title: Infos / Kontakt
 <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
 <li><a href="/infos-kontakt/wetzikon/" class="button-contact-place">Wetzikon</a></li>
 <li><a href="/infos-kontakt/rueti/" class="button-contact-place">Rüti</a></li>
-<li><a href="/infos-kontakt/tagelswangen/" class="button-contact-place">Tagelswangen</a></li>
+<li><a href="/aktuell/" class="button-contact-place">Tagelswangen</a></li>
 <li><a href="/infos-kontakt/hittnau/" class="button-contact-place">Hittnau</a></li>
 </ul>
 

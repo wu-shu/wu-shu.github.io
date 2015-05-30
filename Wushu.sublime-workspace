@@ -11,7 +11,7 @@
 			"file": "aktuell/index.md",
 			"settings":
 			{
-				"buffer_size": 446,
+				"buffer_size": 843,
 				"line_ending": "Windows"
 			}
 		},
@@ -19,7 +19,7 @@
 			"file": "_layouts/splashscreen.html",
 			"settings":
 			{
-				"buffer_size": 3154,
+				"buffer_size": 3174,
 				"line_ending": "Windows"
 			}
 		}
@@ -164,15 +164,15 @@
 					"file": "aktuell/index.md",
 					"settings":
 					{
-						"buffer_size": 446,
+						"buffer_size": 843,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								446,
-								446
+								779,
+								779
 							]
 						],
 						"settings":
@@ -192,15 +192,15 @@
 					"file": "_layouts/splashscreen.html",
 					"settings":
 					{
-						"buffer_size": 3154,
+						"buffer_size": 3174,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2097,
-								2097
+								1747,
+								1747
 							]
 						],
 						"settings":
