@@ -11,7 +11,7 @@
 			"file": "aktuell/index.md",
 			"settings":
 			{
-				"buffer_size": 843,
+				"buffer_size": 838,
 				"line_ending": "Windows"
 			}
 		},
@@ -20,6 +20,14 @@
 			"settings":
 			{
 				"buffer_size": 3174,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "infos-kontakt/index.md",
+			"settings":
+			{
+				"buffer_size": 1542,
 				"line_ending": "Windows"
 			}
 		}
@@ -156,7 +164,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -164,15 +172,15 @@
 					"file": "aktuell/index.md",
 					"settings":
 					{
-						"buffer_size": 843,
+						"buffer_size": 838,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								779,
-								779
+								497,
+								497
 							]
 						],
 						"settings":
@@ -211,6 +219,34 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 218.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "infos-kontakt/index.md",
+					"settings":
+					{
+						"buffer_size": 1542,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1542,
+								1542
+							]
+						],
+						"settings":
+						{
+							"parser": null,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"target": "disk"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
