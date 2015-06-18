@@ -6,7 +6,7 @@ title: Chiara Caduff
 <img class="ifloat-left" src="/images/chiara-caduff.jpg" alt="Chiara Caduff" width="200px">
 Chiara Caduff trainiert seit 2003 im Wu Shu Center Oberland. Als Assistenztrainerin unterstützt sie die Lehrer tatkräftig und unterrichtet mit viel Flair und Leidenschaft. Sie ist seit Gründung des Turnierteams bis heute mit vollem Einsatz dabei und nimmt regelmässig an den Turnieren der Swiss Wushu Federation teil.
 
-<a target="_blank" href="https://www.flickr.com/photos/117851037@N03/13425054223/" >Kempo by Chiara</a>
+<a target="_blank" href="https://www.flickr.com/photos/117851037@N03/13425054223/" >Kempo by Chiara</a><br>
 <a target="_blank" href="https://www.flickr.com/photos/117851037@N03/18743110369/in/dateposted-public/" >Kettenform by Chiara</a>
 
 Ihre Rangierungen bei den Swisswushu-Turnieren bisher:
