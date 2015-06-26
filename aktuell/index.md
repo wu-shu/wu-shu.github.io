@@ -10,4 +10,4 @@ Die Trainingszeiten sind neu wie folgt:<br>
 
 ### Stundenplan
 
-<img src="/images/stundenplaene/stundenplan-hittnau.png" alt="Stundenplan Hittnau">
+<img src="/images/stundenplaene/stundenplan-tagelswangen.png" alt="Stundenplan Hittnau">
