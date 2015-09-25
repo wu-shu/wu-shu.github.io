@@ -11,7 +11,7 @@
 			"file": "aktuell/index.md",
 			"settings":
 			{
-				"buffer_size": 108,
+				"buffer_size": 567,
 				"line_ending": "Windows"
 			}
 		},
@@ -19,7 +19,7 @@
 			"file": "_layouts/splashscreen.html",
 			"settings":
 			{
-				"buffer_size": 3047,
+				"buffer_size": 3043,
 				"line_ending": "Windows"
 			}
 		},
@@ -196,15 +196,15 @@
 					"file": "aktuell/index.md",
 					"settings":
 					{
-						"buffer_size": 108,
+						"buffer_size": 567,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								108,
-								108
+								455,
+								455
 							]
 						],
 						"settings":
@@ -224,15 +224,15 @@
 					"file": "_layouts/splashscreen.html",
 					"settings":
 					{
-						"buffer_size": 3047,
+						"buffer_size": 3043,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1782,
-								1782
+								2113,
+								2113
 							]
 						],
 						"settings":
@@ -242,7 +242,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 424.0,
+						"translation.y": 470.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
