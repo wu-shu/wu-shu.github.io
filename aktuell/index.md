@@ -13,4 +13,4 @@ Wettkämpfe (ab 11 Jahren):	14:00Uhr – 16:00 Uhr<br>
 
 Anmeldungen bitte per [Anmeldungsblatt](http://www.wu-shu.ch/images/11_fst_15.pdf)  bis spätestens am 1. November mit der Startgebühr in bar direkt an Chris.<br>
 
-Sobald der genaue Turnierplan mit den Auftrittszeiten der einzelnen Kinder steht, wird er hier aufgeschaltet.
+Der [Turnierplan](http://www.wu-shu.ch/images/Turnierplan_15.pdf) mit den Auftrittszeiten der einzelnen Kinder steht.
