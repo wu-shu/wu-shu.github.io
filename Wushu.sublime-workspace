@@ -11,7 +11,7 @@
 			"file": "aktuell/index.md",
 			"settings":
 			{
-				"buffer_size": 517,
+				"buffer_size": 684,
 				"line_ending": "Windows"
 			}
 		}
@@ -157,15 +157,15 @@
 					"file": "aktuell/index.md",
 					"settings":
 					{
-						"buffer_size": 517,
+						"buffer_size": 684,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								354,
-								354
+								147,
+								147
 							]
 						],
 						"settings":
