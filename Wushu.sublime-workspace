@@ -11,7 +11,15 @@
 			"file": "aktuell/index.md",
 			"settings":
 			{
-				"buffer_size": 684,
+				"buffer_size": 190,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "bilder/index.md",
+			"settings":
+			{
+				"buffer_size": 5686,
 				"line_ending": "Windows"
 			}
 		}
@@ -52,9 +60,9 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/_layouts/splashscreen.html",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/simon-nocco/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/chiara-caduff/index.md",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/_layouts/splashscreen.html",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/bilder/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/selina-maechler/index.md",
@@ -149,7 +157,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -157,15 +165,15 @@
 					"file": "aktuell/index.md",
 					"settings":
 					{
-						"buffer_size": 684,
+						"buffer_size": 190,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								147,
-								147
+								190,
+								190
 							]
 						],
 						"settings":
@@ -173,6 +181,32 @@
 							"parser": null,
 							"syntax": "Packages/Markdown/Markdown.tmLanguage",
 							"target": "disk"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "bilder/index.md",
+					"settings":
+					{
+						"buffer_size": 5686,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								699,
+								699
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
