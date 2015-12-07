@@ -11,7 +11,7 @@
 			"file": "aktuell/index.md",
 			"settings":
 			{
-				"buffer_size": 190,
+				"buffer_size": 376,
 				"line_ending": "Windows"
 			}
 		},
@@ -20,6 +20,30 @@
 			"settings":
 			{
 				"buffer_size": 5686,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_layouts/splashscreen.html",
+			"settings":
+			{
+				"buffer_size": 3057,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lehrer-turnierteam/chiara-caduff/index.md",
+			"settings":
+			{
+				"buffer_size": 3849,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lehrer-turnierteam/simon-nocco/index.md",
+			"settings":
+			{
+				"buffer_size": 2863,
 				"line_ending": "Windows"
 			}
 		}
@@ -157,7 +181,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -165,15 +189,15 @@
 					"file": "aktuell/index.md",
 					"settings":
 					{
-						"buffer_size": 190,
+						"buffer_size": 376,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								190,
-								190
+								163,
+								163
 							]
 						],
 						"settings":
@@ -210,6 +234,88 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_layouts/splashscreen.html",
+					"settings":
+					{
+						"buffer_size": 3057,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2097,
+								2097
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 371.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "lehrer-turnierteam/chiara-caduff/index.md",
+					"settings":
+					{
+						"buffer_size": 3849,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3815,
+								3815
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1811.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "lehrer-turnierteam/simon-nocco/index.md",
+					"settings":
+					{
+						"buffer_size": 2863,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2829,
+								2829
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1326.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
