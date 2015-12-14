@@ -11,7 +11,7 @@
 			"file": "aktuell/index.md",
 			"settings":
 			{
-				"buffer_size": 376,
+				"buffer_size": 878,
 				"line_ending": "Windows"
 			}
 		},
@@ -38,7 +38,7 @@
 			"file": "_layouts/splashscreen.html",
 			"settings":
 			{
-				"buffer_size": 3057,
+				"buffer_size": 3053,
 				"line_ending": "Windows"
 			}
 		},
@@ -192,7 +192,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -200,15 +200,15 @@
 					"file": "aktuell/index.md",
 					"settings":
 					{
-						"buffer_size": 376,
+						"buffer_size": 878,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								163,
-								163
+								728,
+								728
 							]
 						],
 						"settings":
@@ -236,7 +236,7 @@
 						[
 							[
 								268,
-								268
+								264
 							]
 						],
 						"settings":
@@ -268,7 +268,9 @@
 						{
 							"auto_indent": false,
 							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
 							"tab_width": 2,
+							"translate_tabs_to_spaces": true,
 							"word_wrap": true
 						},
 						"translation.x": 0.0,
@@ -282,15 +284,15 @@
 					"file": "_layouts/splashscreen.html",
 					"settings":
 					{
-						"buffer_size": 3057,
+						"buffer_size": 3053,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2097,
-								2097
+								1742,
+								1742
 							]
 						],
 						"settings":
@@ -300,7 +302,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 371.0,
+						"translation.y": 357.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
