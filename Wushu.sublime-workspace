@@ -11,34 +11,15 @@
 			"file": "aktuell/index.md",
 			"settings":
 			{
-				"buffer_size": 997,
+				"buffer_size": 1026,
 				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "bilder/index.md",
-			"settings":
-			{
-				"buffer_size": 6147,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"contents": "Package Control Messages\n========================\n\nMarkdown Preview\n----------------\n\n  Changes in Markdown Preview\n  ===========================\n  ## 1.3.0\n  \n  * Now supports any markdown parser through a generalized method.  Now you can map a binary to parser name via `markdown_binary_map`.  Then use the parser name in `enabled_parsers` to use it.\n  * Multimarkdown specific settings have been removed.  Multimarkdown should now be configured via `markdown_binary_map` and `enabled_parsers`.\n  * Upgraded to Python Markdown 2.6.4.\n  * Removed internal PyYaml and Pygments.  Markdown Preview now uses Package Control dependencies to obtain PyYaml and Pygments.\n  * Update kbd CSS for Github.\n  \n  ## 1.0.3\n  \n  * The `messages.json` should OK for this time.\n  \n  ## 1.0.2\n  \n  * Fixes messages.json and changelog versions.\n  \n  ## 1.0.1\n  \n  * Removed markdown2 parser for its not well maintained and buggy.\n  * Make Python Markdown parser as default.\n  * Split the preview commands for *Python Markdown* parser and *Github Flavored Markdown* parser.\n  * Add markdown file build support, build parser are config via the origin `\"parser\"` settings.\n  * Add this changlog file for both developpers and users.\n  * Add messages.json which make display of `README.md` and `CHANGES.md`\n  * Try use `Markdown Extended.tmLanguage` for cheat sheet if you installed `Markdown Extended`.\n  \n  ## 1.0.0\n  \n  * Support for ST3.\n  * Added Python Markdown parser.\n  * CSS search first in markdown file directory and the the build-in.\n\n\nMarkdown Preview\n----------------\n\n  Changes in Markdown Preview\n  ===========================\n  ## 1.4.0\n  \n  * `css` setting can now be an array and contain multiple CSS files (see settings file for more info).\n  * Updated Github style to latest.\n  \n  ## 1.3.0\n  \n  * Now supports any markdown parser through a generalized method.  Now you can map a binary to parser name via `markdown_binary_map`.  Then use the parser name in `enabled_parsers` to use it.\n  * Multimarkdown specific settings have been removed.  Multimarkdown should now be configured via `markdown_binary_map` and `enabled_parsers`.\n  * Upgraded to Python Markdown 2.6.4.\n  * Removed internal PyYaml and Pygments.  Markdown Preview now uses Package Control dependencies to obtain PyYaml and Pygments.\n  * Update kbd CSS for Github.\n  \n  ## 1.0.3\n  \n  * The `messages.json` should OK for this time.\n  \n  ## 1.0.2\n  \n  * Fixes messages.json and changelog versions.\n  \n  ## 1.0.1\n  \n  * Removed markdown2 parser for its not well maintained and buggy.\n  * Make Python Markdown parser as default.\n  * Split the preview commands for *Python Markdown* parser and *Github Flavored Markdown* parser.\n  * Add markdown file build support, build parser are config via the origin `\"parser\"` settings.\n  * Add this changlog file for both developpers and users.\n  * Add messages.json which make display of `README.md` and `CHANGES.md`\n  * Try use `Markdown Extended.tmLanguage` for cheat sheet if you installed `Markdown Extended`.\n  \n  ## 1.0.0\n  \n  * Support for ST3.\n  * Added Python Markdown parser.\n  * CSS search first in markdown file directory and the the build-in.\n",
-			"settings":
-			{
-				"buffer_size": 3154,
-				"line_ending": "Windows",
-				"name": "Package Control Messages",
-				"read_only": true,
-				"scratch": true
 			}
 		},
 		{
 			"file": "_layouts/splashscreen.html",
 			"settings":
 			{
-				"buffer_size": 3053,
+				"buffer_size": 3057,
 				"line_ending": "Windows"
 			}
 		},
@@ -55,6 +36,14 @@
 			"settings":
 			{
 				"buffer_size": 2863,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "infos-kontakt/index.md",
+			"settings":
+			{
+				"buffer_size": 1561,
 				"line_ending": "Windows"
 			}
 		}
@@ -95,10 +84,10 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/bilder/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/_layouts/splashscreen.html",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/simon-nocco/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/chiara-caduff/index.md",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/bilder/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/selina-maechler/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/index.md",
@@ -192,7 +181,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 4,
 			"sheets":
 			[
 				{
@@ -200,15 +189,15 @@
 					"file": "aktuell/index.md",
 					"settings":
 					{
-						"buffer_size": 997,
+						"buffer_size": 1026,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								948,
-								948
+								974,
+								974
 							]
 						],
 						"settings":
@@ -225,74 +214,18 @@
 				},
 				{
 					"buffer": 1,
-					"file": "bilder/index.md",
-					"settings":
-					{
-						"buffer_size": 6147,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								268,
-								264
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"settings":
-					{
-						"buffer_size": 3154,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3154,
-								3154
-							]
-						],
-						"settings":
-						{
-							"auto_indent": false,
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_size": 2,
-							"tab_width": 2,
-							"translate_tabs_to_spaces": true,
-							"word_wrap": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
 					"file": "_layouts/splashscreen.html",
 					"settings":
 					{
-						"buffer_size": 3053,
+						"buffer_size": 3057,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1742,
-								1742
+								2110,
+								2110
 							]
 						],
 						"settings":
@@ -302,13 +235,13 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 357.0,
+						"translation.y": 566.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 2,
 					"file": "lehrer-turnierteam/chiara-caduff/index.md",
 					"settings":
 					{
@@ -335,7 +268,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 3,
 					"file": "lehrer-turnierteam/simon-nocco/index.md",
 					"settings":
 					{
@@ -357,6 +290,32 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 1326.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "infos-kontakt/index.md",
+					"settings":
+					{
+						"buffer_size": 1561,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								352,
+								352
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
