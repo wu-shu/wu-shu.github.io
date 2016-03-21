@@ -1,4 +1,4 @@
 name: Wu Shu Center Oberland
-markdown: redcarpet
+markdown: kramdown
 pygments: true
 exclude: [scss, bower.json, config.rb, Gemfile, Gemfile.lock, README.md]
