@@ -3,7 +3,7 @@ layout: default
 title: Lehrer / Turnierteam
 ---
 
-##Lehrer
+## Lehrer
 
 <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
 <li><a href="/lehrer-turnierteam/chris-ritter/" class="button-contact-place" title="Master Chris Ritter">Chris Ritter, 7. Dan<img src="/images/cr.jpg" width="320" height="240" alt="Chris Ritter"></a></li>
@@ -13,7 +13,7 @@ title: Lehrer / Turnierteam
 </ul>
 
 - - -
-##Assistenztrainer
+## Assistenztrainer
 
 <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
 <li><a href="/lehrer-turnierteam/jeannette-weber/" class="button-contact-place" title="Jeannette Weber">Jeannette Weber<img src="/images/jeannette-weber.jpg" width="320" height="240" alt="Jeannette Weber"></a></li>
