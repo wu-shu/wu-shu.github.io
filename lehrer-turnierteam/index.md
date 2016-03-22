@@ -28,7 +28,7 @@ title: Lehrer / Turnierteam
 
 
 - - -
-##Turnierteam <a href="http://www.swisswushu.ch/"><img src="/images/swisswushu.jpg" alt="Swisswushu" width="70px"></a>
+## Turnierteam <a href="http://www.swisswushu.ch/"><img src="/images/swisswushu.jpg" alt="Swisswushu" width="70px"></a>
 
 <br>
 <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
