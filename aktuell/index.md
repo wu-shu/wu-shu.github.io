@@ -9,6 +9,7 @@ Dieses Jahr findet wieder ein Taiji-Lager statt! Vom Donnerstag, 15.9. bis Sonnt
 Meldet euch doch bitte per <a href=mailto:kelmel5@yahoo.de>E-Mail</a> mit folgenden Infors an:<br>
 Name, Anreisetag, gewünschter ZimmerpartnerIn, Vegi?.<br>
 <br>
+
 - - -
 
 ## Kung Fu-Lager
@@ -16,6 +17,7 @@ Name, Anreisetag, gewünschter ZimmerpartnerIn, Vegi?.<br>
 Im 2016 findet wieder ein Trainingsweekend für Erwachsene statt! Das [Programm](http://www.wu-shu.ch/images/lungern_16_plan.png) ist für Fortgeschrittene gedacht.<br>
 Vom Freitag, 27.5. bis am Sonntag, 29.5.2016 werden wir in Lungern fleissig trainieren. Das Ferienhaus Domino ist bereits reserviert. Es gibt Viererzimmer, Doppelzimmer und Einzelzimmer. Bei schönem Wetter können wir draussen trainieren, bei schlechtem Wetter sind wir in einer Turnhalle. Das Weekend kostet 350.- (2 Tage 250.-). Wer Interesse hat, meldet sich bitte per <a href=mailto:kelmel5@yahoo.de>E-Mail</a> für nähere Infos.<br>
 <br>
+
 - - -
 
 ## Grandmaster Shi de Cheng
