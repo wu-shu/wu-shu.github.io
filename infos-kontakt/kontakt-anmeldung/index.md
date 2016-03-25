@@ -4,6 +4,7 @@ title: Infos und Anmeldung
 ---
 
 ### Chris Ritter
+
 ##### Wu Shu-Center Oberland
 
 Weidstrasse 17<br>
@@ -11,4 +12,4 @@ Weidstrasse 17<br>
 
 Telefon 052 343 36 10<br>
 Handy 079 447 65 57<br>
-E-Mail <a href=mailto:chris@wu-shu.ch>chris@wu-shu.ch</a>
+E-Mail <a href="mailto:chris@wu-shu.ch">chris@wu-shu.ch</a>
