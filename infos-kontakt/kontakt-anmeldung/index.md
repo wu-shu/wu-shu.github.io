@@ -3,8 +3,8 @@ layout: default
 title: Infos und Anmeldung
 ---
 
-###Chris Ritter
-#####Wu Shu-Center Oberland
+### Chris Ritter
+##### Wu Shu-Center Oberland
 
 Weidstrasse 17<br>
 8317 Tagelswangen
