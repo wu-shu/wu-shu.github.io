@@ -11,7 +11,7 @@
 			"file": "aktuell/index.md",
 			"settings":
 			{
-				"buffer_size": 1600,
+				"buffer_size": 1609,
 				"line_ending": "Windows"
 			}
 		},
@@ -28,6 +28,14 @@
 			"settings":
 			{
 				"buffer_size": 1561,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "infos-kontakt/kontakt-anmeldung/index.md",
+			"settings":
+			{
+				"buffer_size": 244,
 				"line_ending": "Windows"
 			}
 		}
@@ -173,15 +181,15 @@
 					"file": "aktuell/index.md",
 					"settings":
 					{
-						"buffer_size": 1600,
+						"buffer_size": 1609,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								39,
-								39
+								1355,
+								1355
 							]
 						],
 						"settings":
@@ -238,6 +246,32 @@
 							[
 								630,
 								668
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "infos-kontakt/kontakt-anmeldung/index.md",
+					"settings":
+					{
+						"buffer_size": 244,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								75,
+								75
 							]
 						],
 						"settings":
