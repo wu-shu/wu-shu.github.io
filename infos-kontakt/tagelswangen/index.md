@@ -9,11 +9,10 @@ title: Wu Shu Center Tagelswangen
 Neuhofstrasse 8<br>
 im Emdwis im Mehrzweckraum<br>
 8315 Lindau<br>
-
 </a>
+
 bzw.:<br>
 <a href="https://www.google.ch/maps/place/Eschikerstrasse+9,+8312+Winterberg/@47.4555988,8.6881822,17z/data=!3m1!4b1!4m2!3m1!1s0x479a98ea972beeb9:0xee8debb78bc63b28" target="_blank">
-
 Eschikerstr. 9<br>
 8312 Winterberg<br>
 </a>
