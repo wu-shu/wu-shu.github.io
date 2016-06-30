@@ -37,15 +37,6 @@ title: Lehrer / Turnierteam
 <li><a href="/lehrer-turnierteam/chiara-caduff/" class="button-contact-place" title="Chiara Caduff">Chiara<br>Caduff<img src="/images/chiara-caduff.jpg" width="320" height="240" alt="Chiara Caduff"></a></li>
 <li><a href="/lehrer-turnierteam/sandra-helbling/" class="button-contact-place" title="Sandra Helbling">Sandra Helbling<img src="/images/sandra-helbling.jpg" width="320" height="240" alt="Sandra Helbling"></a></li>
 <li><a href="/lehrer-turnierteam/simon-nocco/" class="button-contact-place" title="Simon Nocco">Simon<br>Nocco<img src="/images/simon-nocco.jpg" width="320" height="240" alt="Simon Nocco"></a></li>
-<li><a href="/lehrer-turnierteam/jan-wüthrich/" class="button-contact-place" title="Jan Wüthrich">Jan<br>Wüthrich<img src="/images/jan-wuethrich.jpg" width="320" height="240" alt="Jan Wüthrich"></a></li>
+<li><a href="/lehrer-turnierteam/selina-maechler/" class="button-contact-place" title="Selina Mächler">Selina<br>Mächler<img src="/images/selina-maechler.jpg" width="320" height="240" alt="Selina Mächler"></a></li>
 <li><a href="/lehrer-turnierteam/Schiedsrichter/" class="button-contact-place" title="Schiedsrichter">Schieds-<br>richter<img src="/images/referee.JPG" width="320" height="240" alt="Schiedsrichter"></a></li>
 </ul>
-
-
-- - -
-
-## Schiedsrichter Swisswushu
-
-<ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
-<li><a href="/lehrer-turnierteam/chris-ritter/" class="button-contact-place" title="Master Chris Ritter">Chris Ritter, 7. Dan<img src="/images/cr.jpg" width="320" height="240" alt="Chris Ritter"></a></li>
-<li><a href="/lehrer-turnierteam/melanie-keller/" class="button-contact-place" title="Melanie Keller">Melanie Keller, 2. Dan<img src="/images/melanie-keller.jpg" width="320" height="240" alt="Melanie Keller"></a></li>
