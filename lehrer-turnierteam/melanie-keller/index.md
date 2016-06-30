@@ -37,7 +37,7 @@ Ihre Rangierungen bei den Swisswushu-Turnieren:
 		</tr> 
 		<tr> 
 			<td>SM 2008</td> 
-			<td>Traditional Routine Barehand< (F&M)</td> 
+			<td>Traditional Routine Barehand (F&M)</td> 
 			<td>2. Rang</td> 
 			<td>8.52</td> 
 		</tr> 
