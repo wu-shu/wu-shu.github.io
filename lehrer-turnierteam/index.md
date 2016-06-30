@@ -38,5 +38,5 @@ title: Lehrer / Turnierteam
 <li><a href="/lehrer-turnierteam/sandra-helbling/" class="button-contact-place" title="Sandra Helbling">Sandra Helbling<img src="/images/sandra-helbling.jpg" width="320" height="240" alt="Sandra Helbling"></a></li>
 <li><a href="/lehrer-turnierteam/simon-nocco/" class="button-contact-place" title="Simon Nocco">Simon<br>Nocco<img src="/images/simon-nocco.jpg" width="320" height="240" alt="Simon Nocco"></a></li>
 <li><a href="/lehrer-turnierteam/selina-maechler/" class="button-contact-place" title="Selina Mächler">Selina<br>Mächler<img src="/images/selina-maechler.jpg" width="320" height="240" alt="Selina Mächler"></a></li>
-<li><a href="/lehrer-turnierteam/Schiedsrichter/" class="button-contact-place" title="Schiedsrichter">Schieds-<br>richter<img src="/images/referee.JPG" width="320" height="240" alt="Schiedsrichter"></a></li>
+<li><a href="/lehrer-turnierteam/Schiedsrichter/" class="button-contact-place" title="Schiedsrichter">Schiedsrichter<br>Chris &<br>Daniela<img src="/images/referee.JPG" width="320" height="240" alt="Schiedsrichter"></a></li>
 </ul>
