@@ -14,12 +14,6 @@ Name, Anreisetag, gewünschter ZimmerpartnerIn, Vegi?.<br>
 
 ## Kung Fu-Lager
 
-Im 2016 findet wieder ein Trainingsweekend für Erwachsene statt! Das [Programm](http://www.wu-shu.ch/images/lungern_16_plan.png) ist für Fortgeschrittene gedacht.<br>
-Vom Freitag, 27.5. bis am Sonntag, 29.5.2016 werden wir in Lungern fleissig trainieren. Das Ferienhaus Domino ist bereits reserviert. Es gibt Viererzimmer, Doppelzimmer und Einzelzimmer. Bei schönem Wetter können wir draussen trainieren, bei schlechtem Wetter sind wir in einer Turnhalle. Das Weekend kostet 350.- (2 Tage 250.-). Wer Interesse hat, meldet sich bitte per <a href="mailto:kelmel5@yahoo.de">E-Mail</a> für nähere Infos.<br>
+Auch im 2017 findet wieder ein Trainingsweekend für Erwachsene statt! Das Programm ist für Fortgeschrittene gedacht.<br>
+Vom Freitag, 26.5. bis am Sonntag, 28.5.2016 werden wir in Lungern fleissig trainieren. Das Ferienhaus Domino ist bereits reserviert. Es gibt Viererzimmer, Doppelzimmer und Einzelzimmer. Bei schönem Wetter können wir draussen trainieren, bei schlechtem Wetter sind wir in einer Turnhalle. Das Weekend kostet 350.- (2 Tage 250.-). Wer Interesse hat, meldet sich bitte per <a href="mailto:kelmel5@yahoo.de">E-Mail</a> für nähere Infos.<br>
 <br>
-
-- - -
-
-## Grandmaster Shi de Cheng
-
-Grandmaster Shi de Cheng kommt dieses Jahr wieder in die Schweiz und wird für uns am 11./12.6.16 ein Seminar geben. Interessierte melden sich bitte für nähere Infos bei <a href="mailto:skydive_77@hotmail.com">Marco</a>.

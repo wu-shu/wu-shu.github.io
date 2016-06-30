@@ -4,6 +4,8 @@ title: Bilder
 ---
 
 <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
+<li><a target="_blank" href="https://www.flickr.com/photos/117851037@N03/albums/72157670191823995" class="button-contact-place" title="2. QT 2016">2. QT<br>2016<img src="https://c1.staticflickr.com/8/7304/27269568824_32e42c1296_n.jpg" width="320" height="213" alt="2. QT 2016"></a></li>
+<li><a target="_blank" href="https://www.flickr.com/photos/117851037@N03/albums/72157667459668173" class="button-contact-place" title="Grosmeister Shi de Cheng">Grosmeister<br>Shi de<br>Cheng<img src="https://c6.staticflickr.com/8/7551/27269480253_a0a3583f09_n.jpg" width="320" height="213" alt="Grand master shi de sheng 2016"></a></li>
 <li><a target="_blank" href="https://www.flickr.com/photos/117851037@N03/albums/72157661413838269" class="button-contact-place" title="SM 2015">Schweizer-<br>meister-<br>schaft 2015 <img src="https://farm6.staticflickr.com/5681/23284275400_2fc4606532_n.jpg" width="320" height="213" alt="Schweizermeisterschaft 2015"></a></li>
 <li><a target="_blank" href="https://www.flickr.com/photos/117851037@N03/albums/72157659468607433" class="button-contact-place" title="Turnier 2015">Freundschafts Turnier<br>2015 <img src="https://farm1.staticflickr.com/775/23362532636_1769da7710_n.jpg" width="320" height="213" alt="Turnier 2015"></a></li>
 <li><a target="_blank" href="https://www.flickr.com/photos/117851037@N03/sets/72157651850688673" class="button-contact-place" title="Benefiz Wald">Benefiz<br>Wald<br>2015 <img src="https://c1.staticflickr.com/1/460/17937184734_9d32ec4b45_z.jpg" width="320" height="213" alt="Benefiz Wald 15"></a></li>
