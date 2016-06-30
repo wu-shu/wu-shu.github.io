@@ -8,14 +8,6 @@
 	"buffers":
 	[
 		{
-			"file": "aktuell/index.md",
-			"settings":
-			{
-				"buffer_size": 1312,
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "_layouts/splashscreen.html",
 			"settings":
 			{
@@ -24,42 +16,18 @@
 			}
 		},
 		{
-			"file": "bilder/index.md",
+			"file": "lehrer-turnierteam/melanie-keller/index.md",
 			"settings":
 			{
-				"buffer_size": 5182,
+				"buffer_size": 4772,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "_includes/navigation.html",
+			"file": "lehrer-turnierteam/sandra-helbling/index.md",
 			"settings":
 			{
-				"buffer_size": 701,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "aktuelle-formen/index.md",
-			"settings":
-			{
-				"buffer_size": 55,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "lehrer-turnierteam/index.md",
-			"settings":
-			{
-				"buffer_size": 3682,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "shaolin-kung-fu/index.md",
-			"settings":
-			{
-				"buffer_size": 1131,
+				"buffer_size": 5744,
 				"line_ending": "Windows"
 			}
 		}
@@ -100,20 +68,24 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/aktuell/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/bilder/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/_includes/navigation.html",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/aktuelle-formen/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/shaolin-kung-fu/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/selina-maechler/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/simon-nocco/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/sandra-helbling/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/chiara-caduff/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/marco-hauser/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/tagelswangen/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/kontakt-anmeldung/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/index.md",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/simon-nocco/index.md",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/chiara-caduff/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/_layouts/splashscreen.html",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/selina-maechler/index.md",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/index.md",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/shaolin-kung-fu/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/selina-maechler/index",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/selina/index",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/selina-xxx",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/aktuell/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/chinesische-kampfkunst/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/taiji-chuan/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/xiaohuyan/index.md",
@@ -126,7 +98,6 @@
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/qi-gong/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/melanie-keller/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/marco-hauser/index.md",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/_includes/navigation.html",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/chris-ritter-2/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/ladina-schneider/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/sierra-gartmann/index.md",
@@ -176,6 +147,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"keller",
 			"formen",
 			"newsbox-image",
 			"icht",
@@ -198,39 +170,11 @@
 	"groups":
 	[
 		{
-			"selected": 6,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "aktuell/index.md",
-					"settings":
-					{
-						"buffer_size": 1312,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1312,
-								1312
-							]
-						],
-						"settings":
-						{
-							"parser": null,
-							"syntax": "Packages/Markdown/Markdown.tmLanguage",
-							"target": "disk"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "_layouts/splashscreen.html",
 					"settings":
 					{
@@ -252,137 +196,61 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 427.0,
+						"translation.y": 517.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "lehrer-turnierteam/melanie-keller/index.md",
+					"settings":
+					{
+						"buffer_size": 4772,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1763,
+								1763
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "bilder/index.md",
+					"file": "lehrer-turnierteam/sandra-helbling/index.md",
 					"settings":
 					{
-						"buffer_size": 5182,
+						"buffer_size": 5744,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								265,
-								265
+								1982,
+								1982
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "_includes/navigation.html",
-					"settings":
-					{
-						"buffer_size": 701,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								467,
-								467
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "aktuelle-formen/index.md",
-					"settings":
-					{
-						"buffer_size": 55,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								55,
-								55
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "lehrer-turnierteam/index.md",
-					"settings":
-					{
-						"buffer_size": 3682,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3578,
-								3578
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 584.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "shaolin-kung-fu/index.md",
-					"settings":
-					{
-						"buffer_size": 1131,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								243,
-								243
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 315.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
