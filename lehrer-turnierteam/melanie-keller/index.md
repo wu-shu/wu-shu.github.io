@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Melanie Keller
+title: Melanie Rey
 ---
 
-<img class="ifloat-left" src="/images/melanie-keller.jpg" alt="Melanie Keller" width="200px">
-Melanie Keller begann ihr Wu Shu Training mit 7 Jahren. Seit 18 Jahren trainiert sie im Wu Shu Center Oberland und ist stellvertretende Leiterin der Schule.
+<img class="ifloat-left" src="/images/melanie-keller.jpg" alt="Melanie Rey" width="200px">
+Melanie Rey begann ihr Wu Shu Training mit 7 Jahren. Seit 18 Jahren trainiert sie im Wu Shu Center Oberland und ist stellvertretende Leiterin der Schule.
 Nach wenigen Jahren intensivierte sie ihr Training zu 4-6 Tagen in der Woche. Sie beherrscht das Shaolin Kung Fu (Moh Stil), das Wudang Kung Fu (Schlange & Adler) und kämpft im Moh (Kombat Stil) auf höchstem Niveau.
 In mehrwöchigen Einzeltrainings unter Grandmaster Terlecki in Kanada und der Schweiz hat sie ihr Wissen vertieft und ist Trägerin des 2. Dan.
 Bei nationalen Turnieren hat sie regelmässig Schweizermeister- und Vize-Meistertitel in Formen mit und ohne Waffen gewonnen. Mit 14 Jahren begann Melanie Kinder zu unterrichten, mit 17 Jahren bereits Erwachsene. Bis heute unterrichtet sie regelmässig und gibt ihr Wissen und Können weiter, auch in den Stilen des Baguazhang und Taijichuan.
