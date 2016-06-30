@@ -115,5 +115,11 @@ Seine Rangierungen bei den Swisswushu-Turnieren bisher:
 			<td>1. Rang</td> 
 			<td>8.45</td> 
 		</tr> 
+		<tr> 
+			<td>2. QT 2015</td> 
+			<td>Traditional Routine Long-Weapon Youth</td> 
+			<td>2. Rang</td> 
+			<td>8.33</td> 
+		</tr> 
 	</tbody>
 </table>

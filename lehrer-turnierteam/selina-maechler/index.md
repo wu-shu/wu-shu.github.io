@@ -4,7 +4,7 @@ title: Selina Mächler
 ---
 
 <img class="ifloat-left" src="/images/adrien-eichenberger.jpg" alt="Adrien Eichenberger" width="200px">
-Selina Mächler trainiert seit x Jahren das Shaolin Kung Fu. Seit einigen Monaten ist sie eine gerngesehene "Neuzugängerin", der wir viel Erfolg in ihren Kempo-Wettkämpfen wünschen.
+Selina Mächler trainiert seit 5 Jahren das Shaolin Kung Fu. Seit einigen Monaten ist sie eine gerngesehene "Neuzugängerin", der wir viel Erfolg in ihren Kempo-Wettkämpfen wünschen.
 
 
 Ihre Rangierungen bei den Swisswushu-Turnieren bisher:
@@ -19,10 +19,11 @@ Ihre Rangierungen bei den Swisswushu-Turnieren bisher:
 	</thead> 
 	<tbody> 
 		<tr> 
-			<td>1. QT 2016?</td> 
-			<td></td> 
-			<td></td> 
-			<td></td> 
+		<tr> 
+			<td>2. QT 2016</td> 
+			<td>Traditional Routine without Weapon Kids</td> 
+			<td>6. Rang</td> 
+			<td>7.62</td> 
 		</tr> 
 	</tbody>
 </table>
