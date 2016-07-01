@@ -224,5 +224,3 @@ Ihre Rangierungen bei den Swisswushu-Turnieren bisher:
 			<td>1. Rang</td> 
 			<td>8.43</td> 
 		</tr> 
-	</tbody>
-</table>
