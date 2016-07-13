@@ -8,22 +8,6 @@
 	"buffers":
 	[
 		{
-			"file": "_layouts/splashscreen.html",
-			"settings":
-			{
-				"buffer_size": 3743,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "lehrer-turnierteam/melanie-keller/index.md",
-			"settings":
-			{
-				"buffer_size": 4772,
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "lehrer-turnierteam/sandra-helbling/index.md",
 			"settings":
 			{
@@ -68,6 +52,13 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/_layouts/splashscreen.html",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/melanie-keller/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/jeannette-weber/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/ladina-schneider/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/simon-nocco/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/sierra-gartmann/index.md",
+		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/michaela-sobo/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/aktuell/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/bilder/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/_includes/navigation.html",
@@ -75,14 +66,12 @@
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/shaolin-kung-fu/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/selina-maechler/index.md",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/simon-nocco/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/sandra-helbling/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/chiara-caduff/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/marco-hauser/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/tagelswangen/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/kontakt-anmeldung/index.md",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/infos-kontakt/index.md",
-		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/_layouts/splashscreen.html",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/selina-maechler/index",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/selina/index",
 		"/C/Users/Melanie/Documents/GitHub/wu-shu.github.io/lehrer-turnierteam/selina-xxx",
@@ -170,66 +159,11 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "_layouts/splashscreen.html",
-					"settings":
-					{
-						"buffer_size": 3743,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2022,
-								2022
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 517.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "lehrer-turnierteam/melanie-keller/index.md",
-					"settings":
-					{
-						"buffer_size": 4772,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1763,
-								1763
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
 					"file": "lehrer-turnierteam/sandra-helbling/index.md",
 					"settings":
 					{
@@ -240,8 +174,8 @@
 						"selection":
 						[
 							[
-								1982,
-								1982
+								182,
+								182
 							]
 						],
 						"settings":
@@ -250,7 +184,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 315.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
