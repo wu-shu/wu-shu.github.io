@@ -4,7 +4,7 @@ title: News
 ---
 ## Sportferien 2017
 
-Die Sportferiendaten sind je nach Trainingsort unterschiedlich:
+Die Sportferiendaten sind je nach Trainingsort unterschiedlich:<br>
 Lindau: 4.2. - 1.2.<br>
 Wetzikon & Rüti: 11.2. - 26.2.<br>
 Hittnau: 18.2. - 5.3.<br>
