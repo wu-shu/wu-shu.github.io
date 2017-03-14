@@ -2,6 +2,9 @@
 layout: default
 title: News
 ---
+## Turnier vom Sonntag, 26.3.2017
+<li><a href="/images/startliste17.pdf/" class="button-contact-place">Startliste</a></li>
+
 ## Taiji-Seminar
 
 Dieses Jahr findet wieder ein Taiji-Lager statt! Vom Donnerstag, 20.9. bis Sonntag, 24.9.2017 wird in [Ftan](http://www.bellavista-ftan.ch/de/index) fleissig trainiert. Sowohl Anfänger, wie auch Fortgeschrittene sind alle herzlich willkommen. Es stehen Doppelzimmer zur Verfügung, gegen einen Aufpreis (20.-) ist auch ein Einzelzimmer möglich. Das Semiar kostet 490.- inkl. Übernachtung, Vollpension und Trainingseinheiten (430.- für Freitagseinsteiger). Bei Fragen, gibt euch Chris gerne Auskunft. <br>
