@@ -4,8 +4,6 @@ title: News
 ---
 ## Turnier vom Sonntag, 26.3.2017
 
-<li><a href="/images/startliste17.pdf" class="button-contact-place">Startliste</a></li>
-...Bitte denkt an die Zeitumstellung!
 
 - - -
 
