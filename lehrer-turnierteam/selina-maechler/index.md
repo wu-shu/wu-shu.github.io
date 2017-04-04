@@ -24,5 +24,11 @@ Ihre Rangierungen bei den Swisswushu-Turnieren bisher:
 			<td>6. Rang</td> 
 			<td>7.62</td> 
 		</tr> 
+		<tr> 
+			<td>SM 2016</td> 
+			<td>Traditional Routine without Weapon Kids</td> 
+			<td>4. Rang</td> 
+			<td>7.8</td> 
+		</tr> 
 	</tbody>
 </table>
