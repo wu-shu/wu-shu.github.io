@@ -6,7 +6,7 @@ title: Lehrer / Turnierteam
 ## Lehrer
 
 <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
-<li><a href="/lehrer-turnierteam/chris-ritter/" class="button-contact-place" title="Master Chris Ritter">Chris Ritter, 7. Dan<img src="/images/cr.jpg" width="320" height="240" alt="Chris Ritter"></a></li>
+<li><a href="/lehrer-turnierteam/chris-ritter/" class="button-contact-place" title="Master Chris Ritter">Chris Ritter,<br>7. Dan<img src="/images/cr.jpg" width="320" height="240" alt="Chris Ritter"></a></li>
 <li><a href="/lehrer-turnierteam/melanie-keller/" class="button-contact-place" title="Melanie Keller">Melanie Rey,<br> 2. Dan<img src="/images/melanie-keller.jpg" width="320" height="240" alt="Melanie Keller"></a></li>
 <li><a href="/lehrer-turnierteam/marco-hauser/" class="button-contact-place" title="Marco Hauser">Marco Hauser, 2. Dan<img src="/images/marco-hauser.jpg" width="320" height="240" alt="Marco Hauser"></a></li>
 <li><a href="/lehrer-turnierteam/michaela-sobo/" class="button-contact-place" title="Michaela Sobo">Michaela Sobo, 2. Dan<img src="/images/michaela-sobo.jpg" width="320" height="240" alt="Michaela Sobosczyk"></a></li>
@@ -41,5 +41,5 @@ title: Lehrer / Turnierteam
 <li><a href="/lehrer-turnierteam/noldi-eugster/" class="button-contact-place" title="Noldi Eugster">Noldi<br>Eugster<img src="/images/noldi-eugster.jpg" width="320" height="240" alt="Noldi Eugster"></a></li>
 <li><a href="/lehrer-turnierteam/heidi-eugster/" class="button-contact-place" title="Heidi Eugster">Heidi<br>Eugster<img src="/images/heidi-eugster.jpg" width="320" height="240" alt="Heidi Eugster"></a></li>
 <li><a href="/lehrer-turnierteam/Schiedsrichter/" class="button-contact-place" title="Schiedsrichter">Schiedsrichter<br>Chris &<br>Daniela<img src="/images/referee.JPG" width="320" height="240" alt="Schiedsrichter"></a></li>
-<li><a href="/lehrer-turnierteam/Schiedsrichter/" class="button-contact-place" title="Schiedsrichter">Bruno<br>Eugster<img src="/images/bruno-eugster.jpg" width="320" height="240" alt="Bruno Eugster"></a></li>
+<li><a href="/lehrer-turnierteam/Schiedsrichter/" class="button-contact-place" title="Schiedsrichter">Schiedsrichter<br>Bruno Eugster<img src="/images/bruno-eugster.jpg" width="320" height="240" alt="Bruno Eugster"></a></li>
 </ul>
