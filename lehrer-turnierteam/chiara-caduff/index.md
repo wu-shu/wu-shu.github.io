@@ -164,5 +164,29 @@ Ihre Rangierungen bei den Swisswushu-Turnieren bisher:
 			<td>1. Rang</td> 
 			<td>8.13</td> 
 		</tr> 
+		<tr> 
+			<td>SM 2016</td> 
+			<td>Traditional Routine Long-Weapon Youth</td> 
+			<td></td> 
+			<td></td> 
+		</tr> 
+		<tr> 
+			<td>SM 2016</td> 
+			<td>Traditional Routine  w/o Weapon Youth</td> 
+			<td>1. Rang</td> 
+			<td>8.03</td> 
+		</tr> 
+		<tr> 
+			<td>1. QT 2017</td> 
+			<td>Traditional Routine Long-Weapon Youth (F)</td> 
+			<td>1. Rang</td> 
+			<td>8.13</td> 
+		</tr> 
+		<tr> 
+			<td>1. QT 2017</td> 
+			<td>Traditional Routine Youth (F) w/o weapon</td> 
+			<td>3. Rang</td> 
+			<td>7.31</td> 
+		</tr> 
 	</tbody>
 </table>
