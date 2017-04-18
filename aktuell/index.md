@@ -2,10 +2,6 @@
 layout: default
 title: News
 ---
-## Turnier vom Sonntag, 26.3.2017
-
-
-- - -
 
 ## Taiji-Seminar
 
@@ -19,5 +15,5 @@ Name, Anreisetag, gewünschter ZimmerpartnerIn, Vegi?.<br>
 ## Kung Fu-Lager
 
 Auch im 2017 findet wieder ein Trainingsweekend für Erwachsene statt! Das Programm ist für Fortgeschrittene gedacht.<br>
-Vom Freitag, 26.5. bis am Sonntag, 28.5.2017 werden wir in Lungern fleissig trainieren. Das Ferienhaus Domino ist reserviert. Es gibt Viererzimmer, Doppelzimmer und Einzelzimmer. Bei schönem Wetter können wir draussen trainieren, bei schlechtem Wetter sind wir in einer Turnhalle. Das Weekend kostet 350.-. Wer Interesse hat, meldet sich bitte per <a href="mailto:kelmel5@yahoo.de">E-Mail</a> für nähere Infos.<br>
+Vom Donnerstag, 25.5. bis am Sonntag, 28.5.2017 werden wir in Lungern fleissig trainieren. Das Ferienhaus Domino ist reserviert. Es gibt Viererzimmer, Doppelzimmer und Einzelzimmer. Bei schönem Wetter können wir draussen trainieren, bei schlechtem Wetter sind wir in einer Turnhalle. Das Weekend kostet 450.- (350.- für Freitageinsteiger). Wer Interesse hat, meldet sich bitte per <a href="mailto:kelmel5@yahoo.de">E-Mail</a> für nähere Infos.<br>
 <br>
