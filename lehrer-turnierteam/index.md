@@ -30,9 +30,10 @@ title: Lehrer / Turnierteam
 
 - - -
 
-## Turnierteam <a href="http://www.swisswushu.ch/"><img src="/images/swisswushu.jpg" alt="Swisswushu" width="70px"></a>
+## Turnierteam <a href="http://www.swisswushu.ch/"><img src="/images/swisswushu.jpg" alt="Swisswushu" width="70"></a>
 
 <br>
+
 <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
 <li><a href="/lehrer-turnierteam/chiara-caduff/" class="button-contact-place" title="Chiara Caduff">Chiara<br>Caduff<img src="/images/chiara-caduff.jpg" width="320" height="240" alt="Chiara Caduff"></a></li>
 <li><a href="/lehrer-turnierteam/sandra-helbling/" class="button-contact-place" title="Sandra Helbling">Sandra Helbling<img src="/images/sandra-helbling.jpg" width="320" height="240" alt="Sandra Helbling"></a></li>
