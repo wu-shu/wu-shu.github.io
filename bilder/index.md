@@ -5,7 +5,7 @@ title: Bilder
 
 <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
 
-<li><a target="_blank" href="https://www.flickr.com/photos/117851037@N03/albums/72157689275674861" class="button-contact-place" title="SM 2017">Schweizer-<br>meister-<br>schaft 2017<img src="https://www.flickr.com/photos/117851037@N03/38873859821/in/album-72157689275674861/" title="SM 17"><img src="https://farm5.staticflickr.com/4526/38873859821_1670743b00_m.jpg" width="231" height="240" alt="SM 17"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>" width="213" height="320" alt="SM 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></li>
+<li><a target="_blank" href="https://www.flickr.com/photos/117851037@N03/albums/72157689275674861" class="button-contact-place" title="SM 2017">Schweizer-<br>meister-<br>schaft 2017<img src="https://www.flickr.com/photos/117851037@N03/38873859821/in/album-72157689275674861/" width="231" height="240" alt="SM 17"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>" </li>
 
 <li><a target="_blank" href="https://www.flickr.com/photos/117851037@N03/albums/72157678839704194" class="button-contact-place" title="Turnier 2017">Freundschafts Turnier<br>2017<img src="https://c1.staticflickr.com/3/2812/33020998183_f23fa811b4_n.jpg" width="213" height="320" alt="Freundschaftsturnier 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></li>
 
