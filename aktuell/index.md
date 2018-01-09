@@ -14,4 +14,4 @@ Vom 31.5.2018 - 3.6.2018 wird dieses Jahr auch wieder ein Trainingslager für Fo
 <br>
 
 ## Taiji Seminar in Ftan
-Vom Donnerstag, 13.9. bis Sonntag, 16.9.2017 wird auch in Ftan wieder fleissig trainiert. Sowohl Anfänger, wie auch Fortgeschrittene sind alle herzlich willkommen. Bei Fragen, gibt euch Chris gerne Auskunft. 
+Vom Donnerstag, 13.9. bis Sonntag, 16.9.2018 wird auch in Ftan wieder fleissig trainiert. Sowohl Anfänger, wie auch Fortgeschrittene sind alle herzlich willkommen. Bei Fragen, gibt euch Chris gerne Auskunft. 
