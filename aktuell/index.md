@@ -3,6 +3,11 @@ layout: default
 title: News
 ---
 
+## Turnierinfos
+
+WICHTIG: Das Turnier ist verschoben worden und findet erst am 15.4.2018 statt!!!
+<br>
+
 ## Grandmaster Shi de Cheng
 
 Am 9.6.2018 und 10.6.2018 besucht uns Grossmeister Shi de Cheng ein weiteres Mal! Wer Interesse hat teilzunehmen meldet sich bitte bei Marco oder Chris an.
