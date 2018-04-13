@@ -6,11 +6,19 @@ title: News
 ## Turnierinfos
 
 WICHTIG: Das Turnier ist verschoben worden und findet erst am 15.4.2018 statt!!!
+Die Startliste ist online: 
+<ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
+<li><a target="_blank" href="http://www.wu-shu.ch/images/Startliste.pdf" class="button-contact-info">Startliste</a></li>
+</ul>
 <br>
 
 ## Grandmaster Shi de Cheng
 
-Am 9.6.2018 und 10.6.2018 besucht uns Grossmeister Shi de Cheng ein weiteres Mal! Wer Interesse hat teilzunehmen meldet sich bitte bei Marco oder Chris an.
+Am 9.6.2018 und 10.6.2018 besucht uns Grossmeister Shi de Cheng ein weiteres Mal! Hier findest du alle wichtigen Infos:
+<ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
+<li><a target="_blank" href="http://www.wu-shu.ch/images/Info_shidecheng.pdf" class="button-contact-info">Infos zum Seminar</a></li>
+</ul>
+Wer Interesse hat teilzunehmen meldet sich bitte bei Marco oder Chris an.
 <br>
 
 ## Kung Fu Weekend in Lungern
