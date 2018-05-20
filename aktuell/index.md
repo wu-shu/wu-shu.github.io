@@ -12,8 +12,11 @@ Trainiert wird:<br>
 Doppelwaffen (Shaolin Sai, Schmetterlingsschwerter, Tigerhakenschwerter)<br>
 Handformen (Long Fist, Wutang Adler, Wasserboxen 1&2, Bagua)<br>
 Moh-Style (Crosshands & Fighting)<br>
-Qi Gong (Wildgans 64-Form, Yi Jin Jing)
+Qi Gong (Wildgans 64-Form, Yi Jin Jing)<br>
 
+<ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
+<li><a target="_blank" href="http://www.wu-shu.ch/images/Lungern-plan.pdf" class="button-contact-info">Trainingsplan</a></li>
+</ul>
 <br>
 
 ## Grandmaster Shi de Cheng
