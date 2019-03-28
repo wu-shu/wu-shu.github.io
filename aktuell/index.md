@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Blogartikel
+title: Blog Artikel
 ---
 ## Kampfsportkunst – Effektives Training, um den Körper fit zu halten
 
