@@ -1,9 +1,10 @@
 ---
 layout: default
-title: News
+title: Blogartikel
 ---
-## Taiji Seminar in Ftan
-Vom Donnerstag, 13.9.2018 bis Sonntag, 16.9.2018 wird auch in Ftan wieder fleissig trainiert. Sowohl Anfänger, wie auch Fortgeschrittene sind alle herzlich willkommen. Bei Fragen, gibt euch Chris gerne Auskunft. 
-<ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
-<li><a target="_blank" href="http://www.wu-shu.ch/images/ftan_infoblatt.pdf" class="button-contact-info">Infos zum Lager</a></li>
-</ul>
+## Blogartikel
+
+<p>Aktuell im Blog von <a href="https://www.prontopro.ch/de/" target="_blank" rel="follow">ProntoPro</a> gibt es ein <a href="https://www.prontopro.ch/de/blog/kampfsportkunst-effektives-training-um-den-koerper-fit-zu-halten/" target="_blank" rel="follow"><strong>Interview</strong></a> zu lesen, in dem ich von meinem schönen Beruf erzählen durfte. Danke für die Veröffentlichung!</p>
+
+
+
