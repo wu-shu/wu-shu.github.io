@@ -32,8 +32,7 @@ Hsing Yi<br>
 3teiliges Nunchaku<br>
 Taiji Langstock<br>
 Wutang,Leopard,Longfist-formen<br>
-Doppelwaffen (Sai,Schmetterlings-<br>
-Tigerhakenschwerter)<br>
+Doppelwaffen (Sai,Schmetterlings-,Tigerhakenschwerter)<br>
 Waterstyle Schwert<br>
 Moh Stil in Kempo<br>
 
