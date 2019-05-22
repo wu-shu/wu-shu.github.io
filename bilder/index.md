@@ -7,7 +7,7 @@ title: Bilder
 
 <li><a target="_blank" href="https://www.flickr.com/photos/117851037@N03/albums/72157707209143531/with/47902261591/" class="button-contact-place" title="Turnier 2019">Freundschafts Turnier<br>2019<img src="https://flic.kr/p/2fYXBsT" width="231" height="240" alt="19"></a></li>
 
-<li><a target="_blank" href="https://www.flickr.com/photos/117851037@N03/albums/72157707218408871" class="button-contact-place" title="Turnier 2018">Freundschafts Turnier<br>2018<img src="https://www.flickr.com/photos/117851037@N03/38873859821/in/album-72157689275674861/" width="231" height="240" alt="18"></a></li>
+<li><a target="_blank" href="https://www.flickr.com/photos/117851037@N03/albums/72157707218408871/with/46986393745/" class="button-contact-place" title="Turnier 2018">Freundschafts Turnier<br>2018<img src="https://www.flickr.com/photos/117851037@N03/38873859821/in/album-72157689275674861/" width="231" height="240" alt="18"></a></li>
 
 <li><a target="_blank" href="https://www.flickr.com/photos/117851037@N03/albums/72157689275674861" class="button-contact-place" title="SM 2017">Schweizer-<br>meister-<br>schaft 2017<img src="https://www.flickr.com/photos/117851037@N03/38873859821/in/album-72157689275674861/" width="231" height="240" alt="SM 17"></a></li>
 
