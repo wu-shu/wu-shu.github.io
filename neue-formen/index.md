@@ -5,7 +5,7 @@ title: Wu Shu Seminare 2019
 
 Taiji Lager in Ftan
 
-Vom 11.9.-15.9.2019 wird in Fran wieder fleissig trainiert!<br>
+Vom 11.9.-15.9.2019 wird in Ftan wieder fleissig trainiert!<br>
 
 
 Anmeldungen gerne per E-mail oder auf 079 447 65 57.<br>
