@@ -14,10 +14,13 @@ Zeitlich intensiv werden die Langstock-form, wie auch die Pekingform (24er) sein
 Speziell die Langstockform, Sequenzen , Einzeltechniken und Anwendungen sind interessant
 für Shaolin wie auch Tai chi chuan-Schüler.<br>
 
-Die Samstagstunden finden in Rüti in der Ferrach-turnhalle statt, bei gutem Wetter im Freien hinter der Turnhalle.<br>
+Die Samstagstunden finden in Rüti in der Ferrach-turnhalle (Schulstrasse 6) statt, bei gutem Wetter im Freien hinter der Turnhalle.<br>
 Die Sonntagstunden am Vormittag finden in Rüti,Joweid-zentrum 4 statt.<br>
 Die Nachmittagstunden am Sonntag finden im Chili-Fitness-center, in Dürnten, Bubikonerstr.45A statt. <br>
-<br>
+
+Kosten: <br>
+ein ganzer Tag CHF65<br>
+ein halber Tag CHF35<br>
 Anmeldungen gerne per E-mail oder auf 079 447 65 57.<br>
 
 Ich freu mich euch zu sehen.. und denkt dran..Schoggi nicht vergessen...<br>
