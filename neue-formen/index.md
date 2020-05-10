@@ -1,37 +1,16 @@
 ---
 layout: default
-title: Wu Shu Seminare 2019
+title: Covid 19 Infos
 ---
 
-Kampfkunst-Wochenende
+Unterrichtstart an allen Schulen, für Kinder und Erwachsene 18.Mai 2020
 
-Am Samstag 16. und Sonntag 17.11.19 findet das 3. Kampfkunst-Wochenende statt!<br>
+Das wushu Training ( Kung fu, Tai Chi und Qi Gong ), folgt strikt den
+Covid 19 Schutzmassnahmen für Breitensport vorgegeben durch BASPO
+und BAG .
 
-Ziel ist es die Neuen oder auch bereits begonnenen Hand und Waffenformen, wie auch
-Einzeltechniken zu wiederholen, aufarbeiten und zu vertiefen.
-Natürlich werden wir dieses Material auch in den regelmässigen Stunden trainieren.
-Zeitlich intensiv werden die Langstock-form, wie auch die Pekingform (24er) sein.
-Speziell die Langstockform, Sequenzen , Einzeltechniken und Anwendungen sind interessant
-für Shaolin wie auch Tai chi chuan-Schüler.<br>
+Der jetzige Stundenplan gilt, Anpassungen, zusätzliche Stunden und die
+Beschreibung unseres Schutzkonzepts, ( verständlich für Kinder) folgen.
 
-Die Samstagstunden finden in Rüti in der Ferrach-turnhalle (Schulstrasse 6) statt, bei gutem Wetter im Freien hinter der Turnhalle.<br>
-Die Sonntagstunden am Vormittag finden in Rüti,Joweid-zentrum 4 statt.<br>
-Die Nachmittagstunden am Sonntag finden im Chili-Fitness-center, in Dürnten, Bubikonerstr.45A statt. <br>
-
-Kosten: <br>
-ein ganzer Tag CHF65<br>
-ein halber Tag CHF35<br>
-Anmeldungen gerne per E-mail oder auf 079 447 65 57.<br>
-
-Ich freu mich euch zu sehen.. und denkt dran..Schoggi nicht vergessen...<br>
-
-P.s. Anmeldungen zum Workshop helfen wegen Platz, Organisation von Waffen, Anhäufung 
-von Schoggivorräten, aber bleibt cool..falls ihr im letzten Moment entscheidet, wird es auch 
-gehen....ja ja...
-<br>
-
-
-<ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
-<li><a target="_blank" href="http://www.wu-shu.ch/images/Programm_KKW19.png" class="button-contact-info">Programm</a></li>
-<li><a target="_blank" href="http://www.wu-shu.ch/images/Zeitplan_KKW19.png" class="button-contact-info">Zeitplan</a></li>
-</ul>
+Die Schüler werden je nach Ort, nochmal in einem Gruppen-sms informiert mit
+restkichen Infos und eve Änderungen...
