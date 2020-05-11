@@ -8,7 +8,7 @@ Unterrichtstart an allen Schulen, für Kinder und Erwachsene 18.Mai 2020
 Das wushu Training ( Kung fu, Tai Chi und Qi Gong ), folgt strikt den
 Covid 19 Schutzmassnahmen für Breitensport vorgegeben durch BASPO
 und BAG .
-für Info: [Swisswushu.ch](swisswushu.ch/covid19)
+für Info: [Swisswushu.ch](http://www.swisswushu.ch/covid19)
 
 Der jetzige Stundenplan gilt, Anpassungen, zusätzliche Stunden und die
 Beschreibung unseres Schutzkonzepts, ( verständlich für Kinder) folgen.
