@@ -10,8 +10,6 @@ Covid 19 Schutzmassnahmen für Breitensport vorgegeben durch BASPO
 und BAG .
 für Info: [Swisswushu.ch](swisswushu.ch/covid19)
 
-[Master Roman Terlecki](http://www.kungfubc.com) 
-
 Der jetzige Stundenplan gilt, Anpassungen, zusätzliche Stunden und die
 Beschreibung unseres Schutzkonzepts, ( verständlich für Kinder) folgen.
 
