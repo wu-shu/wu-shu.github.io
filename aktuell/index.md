@@ -1,10 +1,8 @@
 ---
 layout: default
-title: Blog Artikel
+title: Taiji-Lager
 ---
-## Kampfsportkunst – Effektives Training, um den Körper fit zu halten
+## Taiji-Lager 16.9.2020 - 20.9. 2020
 
-<p>Aktuell im Blog von <a href="https://www.prontopro.ch/de/" target="_blank" rel="follow">ProntoPro</a> gibt es ein <a href="https://www.prontopro.ch/de/blog/kampfsportkunst-effektives-training-um-den-koerper-fit-zu-halten/" target="_blank" rel="follow"><strong>Interview</strong></a> zu lesen, in dem ich von meinem schönen Beruf erzählen durfte.</p>
-
-
-
+In Ftan wird auch dieses Jahr wieder fleissig trainiert!
+Hier findet ihr [Infos](http://www.wu-shu.ch/images/Infos_Ftan_20.jpg) und den [Stundenplan](http://www.wu-shu.ch/images/Stundenplan_Ftan_20.jpg) des Seminars.
