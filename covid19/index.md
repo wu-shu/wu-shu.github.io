@@ -3,7 +3,9 @@ layout: default
 title: Covid 19 Infos
 ---
 
-Unterrichtstart an allen Schulen, für Kinder und Erwachsene 17.August 2020
+Alle Kinderstunden (<16 jährig) finden statt.
+Die Stunden für Erwachsene werden bis auf Weiteres nicht durchgeführt. 
+Ihr könnt euch aber bei Chris melden, falls ihr über ZOOM am Training teilnehmen wollt.
 
 Das wushu Training (Kung fu, Tai Chi und Qi Gong), folgt strikt den
 Covid 19 Schutzmassnahmen für Breitensport vorgegeben durch BASPO
