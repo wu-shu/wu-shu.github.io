@@ -3,7 +3,7 @@ layout: default
 title: Covid 19 Infos
 ---
 
-Alle Kinderstunden (<16 jährig) finden statt.
+Alle Kinderstunden (<20 jährig) finden statt.
 Die Stunden für Erwachsene werden bis auf Weiteres nicht durchgeführt. 
 Ihr könnt euch aber bei Chris melden, falls ihr über ZOOM am Training teilnehmen wollt.
 
