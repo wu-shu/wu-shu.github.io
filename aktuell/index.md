@@ -4,7 +4,7 @@ title: Taiji-Lager
 ---
 ## Taiji-Lager 15.9.2021 - 19.9. 2021
 
-Hier findet ihr [Infos](http://www.wu-shu.ch/images/Infos_Ftan_20.png) und den [Stundenplan](http://www.wu-shu.ch/images/Stundenplan_20.png) des Seminars.
+Hier findet ihr [Infos](http://www.wu-shu.ch/images/Infos_Ftan_20.png) und den [Stundenplan](http://www.wu-shu.ch/images/Stundenplan_21.png) des Seminars.
 
 Liebe Taiji-freunde<br>
 <br>
