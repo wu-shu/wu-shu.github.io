@@ -36,6 +36,5 @@ title: Lehrer / Turnierteam
 <li><a href="/lehrer-turnierteam/chiara-caduff/" class="button-contact-place" title="Chiara Caduff">Chiara<br>Caduff<img src="/images/chiara-caduff.jpg" width="320" height="240" alt="Chiara Caduff"></a></li>
 <li><a href="/lehrer-turnierteam/sandra-helbling/" class="button-contact-place" title="Sandra Helbling">Sandra Helbling<img src="/images/sandra-helbling.jpg" width="320" height="240" alt="Sandra Helbling"></a></li>
 <li><a href="/lehrer-turnierteam/liv-zuppinger/" class="button-contact-place" title="Liv Zuppinger">Liv<br>Zuppinger<img src="/images/liv-zuppinger.jpg" width="320" height="240" alt="Liv Zuppinger"></a></li>
-<li><a href="/lehrer-turnierteam/selina-maechler/" class="button-contact-place" title="Selina Mächler">Selina<br>Mächler<img src="/images/selina-maechler.jpg" width="320" height="240" alt="Selina Mächler"></a></li>
-<li><a href="/lehrer-turnierteam/Schiedsrichter/" class="button-contact-place" title="Schiedsrichter">Schiedsrichter<br>Chris &<br>Daniela<img src="/images/referee.JPG" width="320" height="240" alt="Schiedsrichter"></a></li>
+<li><a href="/lehrer-turnierteam/Schiedsrichter/" class="button-contact-place" title="Schiedsrichter">Schiedsrichter<br>Chris<img src="/images/referee.JPG" width="320" height="240" alt="Schiedsrichter"></a></li>
 </ul>
