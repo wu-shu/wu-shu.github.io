@@ -22,6 +22,4 @@ title: Infos / Kontakt
 <li><a target="_blank" href="http://www.kungfubc.com/" class="button-contact-place">Grandmaster Terlecki</a></li>
 <li><a target="_blank" href="http://www.swisswushu.ch/" class="button-contact-place">Swiss Wushu Federation</a></li>
 <li><a target="_blank" href="http://www.marcohauser.com/" class="button-contact-place">Marco Hauser</a></li>
-<li><a target="_blank" href="http://long-kungfu.jimdo.com/" class="button-contact-place">Long Kung-Fu</a></li>
-<li><a target="_blank" href="http://www.tai-chi-oberland.ch/" class="button-contact-place">Tai Chi Oberland</a></li>
 </ul>
