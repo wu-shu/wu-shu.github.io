@@ -2,7 +2,7 @@
 layout: default
 title: Taiji-Lager
 ---
-## Taiji-Lager 15.9.2022 - 18.9. 2022
+## Taiji-Lager 13.9.2023 - 17.9. 2027
 
 Liebe Taiji-freunde<br>
 <br>
