@@ -5,6 +5,8 @@ title: Bilder
 
 <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
 
+<li><a target="_blank" href="https://www.flickr.com/photos/117851037@N03/albums/72177720307892581" class="button-contact-place" title="Grossmeister Shi De Cheng 2023">Shi de Cheng<br>Seminar 2023<img src="https://flic.kr/p/2fYXBsT" width="231" height="240" alt="19"></a></li>
+
 <li><a target="_blank" href="https://www.flickr.com/photos/117851037@N03/albums/72157707209143531/with/47902261591/" class="button-contact-place" title="Turnier 2019">Freundschafts Turnier<br>2019<img src="https://flic.kr/p/2fYXBsT" width="231" height="240" alt="19"></a></li>
 
 <li><a target="_blank" href="https://www.flickr.com/photos/117851037@N03/albums/72157707218408871/with/46986393745/" class="button-contact-place" title="Turnier 2018">Freundschafts Turnier<br>2018<img src="https://www.flickr.com/photos/117851037@N03/38873859821/in/album-72157689275674861/" width="231" height="240" alt="18"></a></li>
