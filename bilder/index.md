@@ -9,7 +9,7 @@ title: Bilder
 
 <li><a target="_blank" href="https://www.flickr.com/photos/117851037@N03/albums/72157707209143531/with/47902261591/" class="button-contact-place" title="Turnier 2019">Freundschafts Turnier<br>2019<img src="http://www.wu-shu.ch/images/Freundschaftsturnier19.jpg" width="213" height="320" alt="Freundschaftsturnier19"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></li>
 
-<li><a target="_blank" href="https://www.flickr.com/photos/117851037@N03/albums/72157707218408871/with/46986393745/" class="button-contact-place" title="Turnier 2018">Freundschafts Turnier<br>2018<img src="http://www.wu-shu.ch/images/Freundschaftsturnier19.jpg" width="213" height="320" alt="Freundschaftsturnier18"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></li>
+<li><a target="_blank" href="https://www.flickr.com/photos/117851037@N03/albums/72157707218408871/with/46986393745/" class="button-contact-place" title="Turnier 2018">Freundschafts Turnier<br>2018<img src="http://www.wu-shu.ch/images/Freundschaftsturnier18.jpg" width="213" height="320" alt="Freundschaftsturnier18"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></li>
 
 <li><a target="_blank" href="https://www.flickr.com/photos/117851037@N03/albums/72157689275674861" class="button-contact-place" title="SM 2017">Schweizer-<br>meister-<br>schaft 2017<img src="http://www.wu-shu.ch/images/SM17.jpg" width="231" height="240" alt="SM 17"></a></li>
 
