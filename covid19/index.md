@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Covid 19 Infos
+title: Grossmeister Shi de Cheng
 ---
 
-Ab 17.2.22 gilt keine Maskenpflicht und keine Zertifikatspflicht mehr!<br>
+
