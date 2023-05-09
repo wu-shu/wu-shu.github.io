@@ -7,7 +7,7 @@ title: Lehrer / Turnierteam
 
 <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
 <li><a href="/lehrer-turnierteam/chris-ritter/" class="button-contact-place" title="Master Chris Ritter">Chris Ritter,<br>7. Dan<img src="/images/cr.jpg" width="320" height="240" alt="Chris Ritter"></a></li>
-<li><a href="/lehrer-turnierteam/marco-hauser/" class="button-contact-place" title="Marco Hauser">Marco Hauser, 5. Dan<img src="/images/marco-hauser.jpg" width="320" height="240" alt="Marco Hauser"></a></li>
+<li><a href="/lehrer-turnierteam/marco-hauser/" class="button-contact-place" title="Marco Hauser">Marco Hauser, 3. Dan<img src="/images/marco-hauser.jpg" width="320" height="240" alt="Marco Hauser"></a></li>
 <li><a href="/lehrer-turnierteam/melanie-keller/" class="button-contact-place" title="Melanie Keller">Melanie Rey,<br> 2. Dan<img src="/images/melanie-keller.jpg" width="320" height="240" alt="Melanie Keller"></a></li>
 
 </ul>
