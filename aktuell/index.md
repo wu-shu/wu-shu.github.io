@@ -9,7 +9,12 @@ Liebe Schülerinnen und Schüler<br>
 <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
 <li><a target="_blank" href="http://www.wu-shu.ch/images/zeitplan_23.pdf" class="button-contact-info">Zeitplan</a></li>
 </ul>
-In diesem Jahr gibt es endlich wieder ein Freundschaftsturnier!
-Bald findet ihr hier alle Infos dazu.
+
+Liebe Eltern,
+Bitte schickt eure Kinder für den Wettkampf 
+zur richtigen Zeit auf das richtige Feld (siehe Zeitplan). 
+Für die 2 Shows am Anfang des Turniers werden wir alle Kinder vor der Turnhalle im grossen Raum versammeln und sie dann in die Turnhalle begleiten. 
+Bei Fragen gerne frühzeitig bei mir melden….Danke!
+
 Bis dann,
 Chris
