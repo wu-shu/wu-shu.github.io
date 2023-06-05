@@ -7,7 +7,7 @@ title: Freundschaftsturnier 2023
 Liebe Schülerinnen und Schüler<br>
 <br>
 <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
-<li><a target="_blank" href="http://www.wu-shu.ch/images/zeitplan_23.pdf" class="button-contact-info">Zeitplan</a></li>
+<li><a target="_blank" href="https://www.flickr.com/photos/117851037@N03/albums/72177720308835967" class="button-contact-info">Bilder</a></li>
 </ul>
 
 Liebe Eltern,
