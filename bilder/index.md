@@ -5,7 +5,7 @@ title: Bilder
 
 <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
 
-<li><a target="_blank" href="https://www.flickr.com/photos/117851037@N03/albums/72177720308835967" class="button-contact-place" title="Freundschaftsturnier 2023">Freundschafts Turnier<br>2023<img src="http://www.wu-shu.ch/images/Freundschaftsturnier_23.jpg" width="213" height="320" alt="Freundschaftsturnier_23"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></li>
+<li><a target="_blank" href="https://www.flickr.com/photos/117851037@N03/albums/72177720308835967" class="button-contact-place" title="Freundschaftsturnier 2023">Freundschafts Turnier<br>2023<img src="http://www.wu-shu.ch/images/freundschaftsturnier_23.jpg" width="213" height="320" alt="Freundschaftsturnier_23"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></li>
 
 <li><a target="_blank" href="https://www.flickr.com/photos/117851037@N03/albums/72177720307892581" class="button-contact-place" title="Grossmeister Shi De Cheng 2023">Shi de Cheng<br>Seminar 2023<img src="http://www.wu-shu.ch/images/shidecheng.jpg" width="213" height="320" alt="Shi De Cheng 2023"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></li>
 
