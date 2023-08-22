@@ -4,7 +4,7 @@ title: Neu: Taiji Chuan & Qi Gong
 ---
 ## Neue Taiji Chuan & Qi Gong Stunden in Rüti
 
-Liebe Taiji-freunde<br>
+Liebe Taiji-Freunde<br>
 <br>
 <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
 <li><a target="_blank" href="http://www.wu-shu.ch/images/stundenplan_22.pdf" class="button-contact-info">Stundenplan</a></li>
