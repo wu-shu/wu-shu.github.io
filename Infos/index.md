@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Neue Taiji Chuan & Qi Gong Stunden
+title: Neu: Taiji Chuan & Qi Gong
 ---
 ## Neue Taiji Chuan & Qi Gong Stunden in Rüti
 
