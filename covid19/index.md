@@ -2,12 +2,12 @@
 layout: default
 title: Taiji-Lager
 ---
-## Taiji-Lager 13.9.2023 - 17.9. 2027
+## Taiji-Lager 14.9.2023 - 17.9. 2027
 
 Liebe Taiji-freunde<br>
 <br>
 <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
-<li><a target="_blank" href="http://www.wu-shu.ch/images/stundenplan_22.pdf" class="button-contact-info">Stundenplan</a></li>
+<li><a target="_blank" href="http://www.wu-shu.ch/images/stundenplan_23.pdf" class="button-contact-info">Stundenplan</a></li>
 </ul>
 Ich freue mich euch auch in diesem Jahr in Ftan am Taijiseminar zu sehen.
 Wir haben ein spannendes Programm mit vielen neuen Einblicken in
