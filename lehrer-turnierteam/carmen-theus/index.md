@@ -3,7 +3,7 @@ layout: default
 title: Carmen Theus
 ---
 
-<img class="ifloat-left" src="/images/chiara-caduff.jpg" alt="Chiara Caduff" width="200px">
+<img class="ifloat-left" src="/images/carmen-theus.jpg" alt="Carmen Theus" width="200px">
 Wir freuen uns, euch zwei weitere Taiji Chuan / Qi Gong-Stunden in Rüti anbieten zu können. Die Stunden für Anfänger und Fortgeschrittene, werden von Carmen Theus
 (1. Meistergrad in Taiji Chuan) geleitet:<br>
 Montag  9:00 - 10:00 Anfänger<br>
