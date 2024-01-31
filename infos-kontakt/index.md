@@ -9,7 +9,7 @@ title: Infos / Kontakt
 <li><a href="/infos-kontakt/tagelswangen/" class="button-contact-place">Lindau/Winterberg</a></li>
 <li><a href="/infos-kontakt/hittnau/" class="button-contact-place">Hittnau</a></li>
 <li><a href="/infos-kontakt/duernten/" class="button-contact-place">Dürnten</a></li>
-<li><a href="/infos-kontakt/Gruet/" class="button-contact-place">Grüt (Gossau)</a></li>
+<li><a href="/infos-kontakt/gruet/" class="button-contact-place">Grüt (Gossau)</a></li>
 </ul>
 
 ### Allgemeine Infos und Kontakt
