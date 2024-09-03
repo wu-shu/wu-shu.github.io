@@ -16,13 +16,27 @@ Ah ja, das Seminar...:<br>
 Auf dem Programm stehen neue Qi Gong-Übungen und Kurz-formen und neben den
 Wiederholungen der bekannten Formen, weitere Vertiefungen in die Anwendungen der
 Kampftechniken.<br>
-Formen:___________________Waffen-formen:________________Qi Gong :<br>   
-24 Peking-form____________Lang-stock____________________Yi Jin Jing<br>
-Long Form, Yang-style_____Schwert_______________________Spiral Qi Gong<br>
-Bär-Form__________________Säbel (Chen-style)____________Wu Wei-form<br>
-Xing -Yi__________________Fächer, Doppelfächer__________Taiji-Zepter<br>
-                                                        Speer ( Chen & Shaolin )<br>
-                                                        <br>
+<br>
+Formen:<br>
+24 Peking-form<br>
+Long Form, Yang-style<br>
+Bär-Form<br>
+Xing -Yi<br>
+<br>
+Waffen-formen:<br>
+Lang-stock<br>
+Schwert<br>
+Säbel (Chen-style)<br>
+Fächer, Doppelfächer<br>
+Speer (Chen & Shaolin)<br>
+<br>
+Qi Gong :<br>
+Yi Jin Jing<br>
+Spiral Qi Gong<br>
+Wu Wei-form<br>
+Taiji-Zepter<br>
+<br>
+
 Falls ihr eigene Waffen mitbringen wollt ist das ok....ich werde sonst genügend Waffen dabei haben.
 Für mehr Info gerne unter....079 447 6557....bei mir melden,<br>
 Bis bald,<br>
