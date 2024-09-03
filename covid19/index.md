@@ -2,7 +2,7 @@
 layout: default
 title: Taiji-Lager
 ---
-## Taiji-Lager 12.9.2023 - 15.9. 2024 in Tschlin
+## Taiji-Lager 12.9.2024 - 15.9. 2024 in Tschlin
 
 Liebe Taiji-freunde<br>
 <br>
