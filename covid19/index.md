@@ -23,7 +23,8 @@ Long Form, Yang-style     Schwert                       Spiral Qi Gong<br>
 Bär-Form                  Säbel ( Chen-style)           Wu Wei-form<br>
 Xing -Yi                  Fächer, Doppelfächer          Taiji-Zepter<br>
                                                         Speer ( Chen & Shaolin )<br>
+                                                        <br>
 Falls ihr eigene Waffen mitbringen wollt ist das ok....ich werde sonst genügend Waffen dabei haben.
-Für mehr Info gerne unter....079 447 6557....bei mir melden ,
-Bis bald,
+Für mehr Info gerne unter....079 447 6557....bei mir melden,<br>
+Bis bald,<br>
 Chris
