@@ -7,7 +7,7 @@ title: Taiji-Lager
 Liebe Taiji-freunde<br>
 <br>
 <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
-<li><a target="_blank" href="http://www.wu-shu.ch/images/stundenplan_24.pdf" class="button-contact-info">Stundenplan</a></li>
+<li><a target="_blank" href="http://www.wu-shu.ch/images/zeitplan_tschlin_24.pdf" class="button-contact-info">Stundenplan</a></li>
 </ul>
 Ich freue mich euch in diesem Jahr zum 287. Taiji-seminar , vom 12.9.- 15.9. in Tschlin
 zu sehen.<br>
