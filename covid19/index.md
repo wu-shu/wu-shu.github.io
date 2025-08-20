@@ -2,13 +2,13 @@
 layout: default
 title: Taiji-Lager
 ---
-## Taiji-Lager 12.9.2024 - 15.9. 2024
+## Taiji-Lager 11.9.2025 - 14.9. 2025
 
 Liebe Taiji-freunde<br>
 <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
-<li><a target="_blank" href="http://www.wu-shu.ch/images/zeitplan_tschlin_24.pdf" class="button-contact-info">Stundenplan</a></li>
+<li><a target="_blank" href="http://www.wu-shu.ch/images/zeitplan_tschlin_25.pdf" class="button-contact-info">Stundenplan</a></li>
 </ul>
-Ich freue mich euch in diesem Jahr zum 287. Taiji-seminar , vom 12.9.- 15.9. in Tschlin
+Ich freue mich euch in diesem Jahr zum 287. Taiji-seminar , vom 11.9.- 14.9. in Tschlin
 zu sehen.<br>
 Dieses Jahr trainieren wir im "schönsten Bergdorf" in der Schweiz, so stehts auf der Dorftafel
 am Eingang. Ist ja klar, das Dorf hat eine eigene Brauerei und Weisswürste gibts dort auch.
