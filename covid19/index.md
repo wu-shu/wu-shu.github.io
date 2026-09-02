@@ -2,42 +2,32 @@
 layout: default
 title: Taiji-Lager
 ---
-## Taiji-Lager 11.9.2025 - 14.9. 2025
+## Taiji-Seminar 17.9.2026 - 20.9. 2026
 
-Liebe Taiji-freunde<br>
+Liebe Kampfkunst-Freunde<br>
 <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
 <li><a target="_blank" href="http://www.wu-shu.ch/images/zeitplan_tschlin_25.pdf" class="button-contact-info">Stundenplan</a></li>
 </ul>
-Ich freue mich euch in diesem Jahr zum 287. Taiji-seminar , vom 11.9.- 14.9. in Tschlin
-zu sehen.<br>
-Dieses Jahr trainieren wir im "schönsten Bergdorf" in der Schweiz, so stehts auf der Dorftafel
-am Eingang. Ist ja klar, das Dorf hat eine eigene Brauerei und Weisswürste gibts dort auch.
-Ah ja, das Seminar...:<br>
-Auf dem Programm stehen neue Qi Gong-Übungen und Kurz-formen und neben den
-Wiederholungen der bekannten Formen, weitere Vertiefungen in die Anwendungen der
-Kampftechniken.<br>
-<br>
-Formen:<br>
-24 Peking-form<br>
-Long Form, Yang-style<br>
-Bär-Form<br>
-Xing -Yi<br>
-<br>
-Waffen-formen:<br>
-Lang-stock<br>
-Schwert<br>
-Säbel (Chen-style)<br>
-Fächer, Doppelfächer<br>
-Speer (Chen & Shaolin)<br>
-<br>
-Qi Gong :<br>
-Yi Jin Jing<br>
-Spiral Qi Gong<br>
-Wu Wei-form<br>
-Taiji-Zepter<br>
-<br>
+Auch dieses Jahr findet unser Seminar der «Inneren Kampfkünste» (Taijiquan, Xing Yi und Baguazhang) in Tschlin statt.<br>
+Das Programm ist, wie immer, vielseitig:<br>
 
-Falls ihr eigene Waffen mitbringen wollt ist das ok....ich werde sonst genügend Waffen dabei haben.
-Für mehr Info gerne unter....079 447 6557....bei mir melden,<br>
+Regelmässige Besuche in der Brauerei, Weisswürste, Partys bis tief in die Nacht mit dem Gitarrengezupfe von Chris.
+
+Aber es gibt natürlich noch mehr:<br>
+
+Qigong:<br> Bewegungen aus dem Spiel der 5 Tiere, Meridian-Qigong in Verbindung zu den Formen, neue interessante Qigong-Übungen mit dem Taijiball und der -Kugel.<br>
+
+Taijiquan:<br> Formen und klare, einfache Kampfkonzepte, Push-Hands (Wiederholung aller Übungen aus der nahen Vergangenheit), 13er Taijiquan.<br>
+
+Speer:<br> Freie Speerkampf-Einzeltechniken und deren Zusammenfügen zum Formenablauf.<br>
+
+Taiji-Langstock-Form:<br> Form und Anwendungen.<br>
+
+Schwert:<br> Schwertkampf-Einzeltechniken in Verbindung zu den Formen.<br>
+
+......und ja 
+...sicher werden wir, nach den Schoggi-Moët-Dessert-Pausen, Ausflüge in das Wildgans-Qigong, das Yi Jin Jing, die Bärenform und die Bagua-Kampfkunst machen.<br>
+<br>
+Hey, ich freu’ mich.......es wird cool.......wie immer, Chris<br>
 Bis bald,<br>
 Chris
