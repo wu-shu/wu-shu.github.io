@@ -6,7 +6,7 @@ title: Taiji-Lager
 
 Liebe Kampfkunst-Freunde<br>
 <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
-<li><a target="_blank" href="http://www.wu-shu.ch/images/zeitplan_tschlin_25.pdf" class="button-contact-info">Stundenplan</a></li>
+<li><a target="_blank" href="http://www.wu-shu.ch/images/zeitplan_tschlin_26.pdf" class="button-contact-info">Stundenplan</a></li>
 </ul>
 Auch dieses Jahr findet unser Seminar der «Inneren Kampfkünste» (Taijiquan, Xing Yi und Baguazhang) in Tschlin statt.<br>
 Das Programm ist, wie immer, vielseitig:<br>
